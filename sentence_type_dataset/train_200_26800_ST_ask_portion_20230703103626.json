@@ -1,0 +1,5106 @@
+{
+    "data": [
+        {
+            "qid": "61298",
+            "question": "有845朵玫瑰，平均每13朵分裝成一束，可裝成幾束？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "4",
+                "level": "易"
+            },
+            "answer": "65束",
+            "sentences": [
+                {
+                    "sentence": "有845朵玫瑰",
+                    "stype": "有",
+                    "trace_code": "4805-536-1"
+                },
+                {
+                    "sentence": "平均每13朵分裝成一束",
+                    "stype": "每單位量",
+                    "trace_code": "4805-536-2"
+                },
+                {
+                    "sentence": "可裝成幾束",
+                    "stype": "問分配",
+                    "trace_code": "4805-536-3"
+                }
+            ]
+        },
+        {
+            "qid": "61299",
+            "question": "老師買了512枝筆，想平均分給32位學生，每位學生最多會分到幾枝？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "4",
+                "level": "易"
+            },
+            "answer": "16枝",
+            "sentences": [
+                {
+                    "sentence": "老師買了512枝筆",
+                    "stype": "量變",
+                    "trace_code": "14378-561-1"
+                },
+                {
+                    "sentence": "想平均分給32位學生",
+                    "stype": "平分",
+                    "trace_code": "14378-561-2"
+                },
+                {
+                    "sentence": "每位學生最多會分到幾枝",
+                    "stype": "問分配",
+                    "trace_code": "14378-561-3"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0141599",
+            "question": "清清果園收成9000顆百香果，每110顆裝一箱，可以裝成幾箱？還剩下多少顆百香果？",
+            "fastype": "<UNK>",
+            "difficulty": {
+                "grade": "4",
+                "level": "易"
+            },
+            "answer": "81箱;90顆",
+            "sentences": [
+                {
+                    "sentence": "清清果園收成9000顆百香果",
+                    "stype": "量變",
+                    "trace_code": "13440-595-1"
+                },
+                {
+                    "sentence": "每110顆裝一箱",
+                    "stype": "每單位量",
+                    "trace_code": "13440-595-2"
+                },
+                {
+                    "sentence": "可以裝成幾箱",
+                    "stype": "問分配",
+                    "trace_code": "13440-595-3"
+                }
+            ],
+            "followers": [
+                {
+                    "sentence": "還剩下多少顆百香果",
+                    "stype": "問剩下",
+                    "trace_code": "13440-595-4"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0142759",
+            "question": "有88朵玫瑰花，每16朵紮成一束，共可以紮成多少束？還剩下多少朵？",
+            "fastype": "<UNK>",
+            "difficulty": {
+                "grade": "4",
+                "level": "易"
+            },
+            "answer": "5束;8朵",
+            "sentences": [
+                {
+                    "sentence": "有88朵玫瑰花",
+                    "stype": "有",
+                    "trace_code": "1111-670-1"
+                },
+                {
+                    "sentence": "每16朵紮成一束",
+                    "stype": "每單位量",
+                    "trace_code": "1111-670-2"
+                },
+                {
+                    "sentence": "共可以紮成多少束",
+                    "stype": "問分配",
+                    "trace_code": "1111-670-3"
+                }
+            ],
+            "followers": [
+                {
+                    "sentence": "還剩下多少朵",
+                    "stype": "問剩下",
+                    "trace_code": "1111-670-4"
+                }
+            ]
+        },
+        {
+            "qid": "74248",
+            "question": "神奇文具工廠八月生產775000枝鉛筆，每1800枝裝成一箱，共裝成幾箱？剩下幾枝？",
+            "fastype": "<UNK>",
+            "difficulty": {
+                "grade": "4",
+                "level": "易"
+            },
+            "answer": "430箱;1000枝",
+            "sentences": [
+                {
+                    "sentence": "神奇文具工廠八月生產775000枝鉛筆",
+                    "stype": "量變",
+                    "trace_code": "3650-676-1"
+                },
+                {
+                    "sentence": "每1800枝裝成一箱",
+                    "stype": "每單位量",
+                    "trace_code": "3650-676-2"
+                },
+                {
+                    "sentence": "共裝成幾箱",
+                    "stype": "問分配",
+                    "trace_code": "3650-676-3"
+                }
+            ],
+            "followers": [
+                {
+                    "sentence": "剩下幾枝",
+                    "stype": "問剩下",
+                    "trace_code": "3650-676-4"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0142758",
+            "question": "有99個柚子，每19個裝一簍，可以裝成幾簍？還剩多少個？",
+            "fastype": "<UNK>",
+            "difficulty": {
+                "grade": "4",
+                "level": "易"
+            },
+            "answer": "5簍;4個",
+            "sentences": [
+                {
+                    "sentence": "有99個柚子",
+                    "stype": "有",
+                    "trace_code": "1110-705-1"
+                },
+                {
+                    "sentence": "每19個裝一簍",
+                    "stype": "每單位量",
+                    "trace_code": "1110-705-2"
+                },
+                {
+                    "sentence": "可以裝成幾簍",
+                    "stype": "問分配",
+                    "trace_code": "1110-705-3"
+                }
+            ],
+            "followers": [
+                {
+                    "sentence": "還剩多少個",
+                    "stype": "問剩下",
+                    "trace_code": "1110-705-4"
+                }
+            ]
+        },
+        {
+            "qid": "74243",
+            "question": "趣味模型製造工廠這個月生產36572架飛機模型，每100架裝一箱，可裝成幾箱？剩下幾架？",
+            "fastype": "<UNK>",
+            "difficulty": {
+                "grade": "4",
+                "level": "易"
+            },
+            "answer": "365箱;72架",
+            "sentences": [
+                {
+                    "sentence": "趣味模型製造工廠這個月生產36572架飛機模型",
+                    "stype": "量變",
+                    "trace_code": "3648-725-1"
+                },
+                {
+                    "sentence": "每100架裝一箱",
+                    "stype": "每單位量",
+                    "trace_code": "3648-725-2"
+                },
+                {
+                    "sentence": "可裝成幾箱",
+                    "stype": "問分配",
+                    "trace_code": "3648-725-3"
+                }
+            ],
+            "followers": [
+                {
+                    "sentence": "剩下幾架",
+                    "stype": "問剩下",
+                    "trace_code": "3648-725-4"
+                }
+            ]
+        },
+        {
+            "qid": "74459",
+            "question": "香香蛋糕店今天做120個鮮奶蛋糕，每6個裝成一盒，每5盒裝成一箱，共可裝成幾箱？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "4",
+                "level": "易"
+            },
+            "answer": "4箱",
+            "sentences": [
+                {
+                    "sentence": "香香蛋糕店今天做120個鮮奶蛋糕",
+                    "stype": "量變",
+                    "trace_code": "12415-797-1"
+                },
+                {
+                    "sentence": "每6個裝成一盒",
+                    "stype": "每單位量",
+                    "trace_code": "12415-797-2"
+                },
+                {
+                    "sentence": "每5盒裝成一箱",
+                    "stype": "每單位量",
+                    "trace_code": "12415-797-3"
+                },
+                {
+                    "sentence": "共可裝成幾箱",
+                    "stype": "問分配",
+                    "trace_code": "12415-797-4"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0142760",
+            "question": "每27顆珠子可以串成一條鍊子，家惠有99顆珠子，共可以串成多少條鍊子？還剩下多少顆？",
+            "fastype": "<UNK>",
+            "difficulty": {
+                "grade": "4",
+                "level": "易"
+            },
+            "answer": "3條;18顆",
+            "sentences": [
+                {
+                    "sentence": "每27顆珠子可以串成一條鍊子",
+                    "stype": "每單位量",
+                    "trace_code": "8447-871-1"
+                },
+                {
+                    "sentence": "家惠有99顆珠子",
+                    "stype": "有",
+                    "trace_code": "8447-871-2"
+                },
+                {
+                    "sentence": "共可以串成多少條鍊子",
+                    "stype": "問分配",
+                    "trace_code": "8447-871-3"
+                }
+            ],
+            "followers": [
+                {
+                    "sentence": "還剩下多少顆",
+                    "stype": "問剩下",
+                    "trace_code": "8447-871-4"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0141746",
+            "question": "哞哞牧場今天生產74625毫升的鮮奶，每375毫升裝成一瓶，共可裝成幾瓶？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "4",
+                "level": "易"
+            },
+            "answer": "199瓶",
+            "sentences": [
+                {
+                    "sentence": "哞哞牧場今天生產74625毫升的鮮奶",
+                    "stype": "量變",
+                    "trace_code": "13462-886-1"
+                },
+                {
+                    "sentence": "每375毫升裝成一瓶",
+                    "stype": "每單位量",
+                    "trace_code": "13462-886-2"
+                },
+                {
+                    "sentence": "共可裝成幾瓶",
+                    "stype": "問分配",
+                    "trace_code": "13462-886-3"
+                }
+            ]
+        },
+        {
+            "qid": "50665",
+            "question": "有600朵百合花，每3朵綁成一束，每間教室用4束布置，可以布置幾間教室？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "3",
+                "level": "難"
+            },
+            "answer": "50間",
+            "sentences": [
+                {
+                    "sentence": "有600朵百合花",
+                    "stype": "有",
+                    "trace_code": "11394-947-1"
+                },
+                {
+                    "sentence": "每3朵綁成一束",
+                    "stype": "每單位量",
+                    "trace_code": "11394-947-2"
+                },
+                {
+                    "sentence": "每間教室用4束布置",
+                    "stype": "每單位量",
+                    "trace_code": "11394-947-3"
+                },
+                {
+                    "sentence": "可以布置幾間教室",
+                    "stype": "問分配",
+                    "trace_code": "11394-947-4"
+                }
+            ]
+        },
+        {
+            "qid": "50666",
+            "question": "有84片土司，每2片可以做成4個小三明治，共可以做成幾個小三明治？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "3",
+                "level": "難"
+            },
+            "answer": "168個",
+            "sentences": [
+                {
+                    "sentence": "有84片土司",
+                    "stype": "有",
+                    "trace_code": "11395-972-1"
+                },
+                {
+                    "sentence": "每2片可以做成4個小三明治",
+                    "stype": "每單位量",
+                    "trace_code": "11395-972-2"
+                },
+                {
+                    "sentence": "共可以做成幾個小三明治",
+                    "stype": "問分配",
+                    "trace_code": "11395-972-3"
+                }
+            ]
+        },
+        {
+            "qid": "50676",
+            "question": "有720顆蘋果，每5顆裝一袋，每9袋裝一箱，共可裝成幾箱？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "3",
+                "level": "難"
+            },
+            "answer": "16箱",
+            "sentences": [
+                {
+                    "sentence": "有720顆蘋果",
+                    "stype": "有",
+                    "trace_code": "2966-974-1"
+                },
+                {
+                    "sentence": "每5顆裝一袋",
+                    "stype": "每單位量",
+                    "trace_code": "2966-974-2"
+                },
+                {
+                    "sentence": "每9袋裝一箱",
+                    "stype": "每單位量",
+                    "trace_code": "2966-974-3"
+                },
+                {
+                    "sentence": "共可裝成幾箱",
+                    "stype": "問分配",
+                    "trace_code": "2966-974-4"
+                }
+            ]
+        },
+        {
+            "qid": "51738",
+            "question": "工廠生產了800個玻璃杯，運送時破了146個，剩下的每6個裝成一盒，可以裝成幾盒？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "3",
+                "level": "難"
+            },
+            "answer": "109盒",
+            "sentences": [
+                {
+                    "sentence": "工廠生產了800個玻璃杯",
+                    "stype": "量變",
+                    "trace_code": "11553-1003-1"
+                },
+                {
+                    "sentence": "運送時破了146個",
+                    "stype": "量變",
+                    "trace_code": "11553-1003-2"
+                },
+                {
+                    "sentence": "剩下的每6個裝成一盒",
+                    "stype": "每單位量",
+                    "trace_code": "11553-1003-3"
+                },
+                {
+                    "sentence": "可以裝成幾盒",
+                    "stype": "問分配",
+                    "trace_code": "11553-1003-4"
+                }
+            ]
+        },
+        {
+            "qid": "50638",
+            "question": "有720朵花，每5朵綁成一束，每間教室用6束布置，可以布置幾間教室？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "3",
+                "level": "難"
+            },
+            "answer": "24間",
+            "sentences": [
+                {
+                    "sentence": "有720朵花",
+                    "stype": "有",
+                    "trace_code": "2952-1011-1"
+                },
+                {
+                    "sentence": "每5朵綁成一束",
+                    "stype": "每單位量",
+                    "trace_code": "2952-1011-2"
+                },
+                {
+                    "sentence": "每間教室用6束布置",
+                    "stype": "每單位量",
+                    "trace_code": "2952-1011-3"
+                },
+                {
+                    "sentence": "可以布置幾間教室",
+                    "stype": "問分配",
+                    "trace_code": "2952-1011-4"
+                }
+            ]
+        },
+        {
+            "qid": "53916",
+            "question": "440顆軟糖，每5顆裝成一袋，每8袋裝成一盒，共可以裝成幾盒？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "3",
+                "level": "難"
+            },
+            "answer": "11盒",
+            "sentences": [
+                {
+                    "sentence": "440顆軟糖",
+                    "stype": "有",
+                    "trace_code": "3376-1033-1"
+                },
+                {
+                    "sentence": "每5顆裝成一袋",
+                    "stype": "每單位量",
+                    "trace_code": "3376-1033-2"
+                },
+                {
+                    "sentence": "每8袋裝成一盒",
+                    "stype": "每單位量",
+                    "trace_code": "3376-1033-3"
+                },
+                {
+                    "sentence": "共可以裝成幾盒",
+                    "stype": "問分配",
+                    "trace_code": "3376-1033-4"
+                }
+            ]
+        },
+        {
+            "qid": "50685",
+            "question": "爸爸採收了720顆草莓，每4顆裝成一盒，每6盒裝成一箱，可以裝成幾箱？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "3",
+                "level": "難"
+            },
+            "answer": "30箱",
+            "sentences": [
+                {
+                    "sentence": "爸爸採收了720顆草莓",
+                    "stype": "量變",
+                    "trace_code": "11403-1046-1"
+                },
+                {
+                    "sentence": "每4顆裝成一盒",
+                    "stype": "每單位量",
+                    "trace_code": "11403-1046-2"
+                },
+                {
+                    "sentence": "每6盒裝成一箱",
+                    "stype": "每單位量",
+                    "trace_code": "11403-1046-3"
+                },
+                {
+                    "sentence": "可以裝成幾箱",
+                    "stype": "問分配",
+                    "trace_code": "11403-1046-4"
+                }
+            ]
+        },
+        {
+            "qid": "50646",
+            "question": "有640顆水蜜桃，在運送時壓壞了100顆，剩下的每5顆裝成一盒，共能裝成幾盒？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "3",
+                "level": "難"
+            },
+            "answer": "108盒",
+            "sentences": [
+                {
+                    "sentence": "有640顆水蜜桃",
+                    "stype": "有",
+                    "trace_code": "11381-1075-1"
+                },
+                {
+                    "sentence": "在運送時壓壞了100顆",
+                    "stype": "量變",
+                    "trace_code": "11381-1075-2"
+                },
+                {
+                    "sentence": "剩下的每5顆裝成一盒",
+                    "stype": "每單位量",
+                    "trace_code": "11381-1075-3"
+                },
+                {
+                    "sentence": "共能裝成幾盒",
+                    "stype": "問分配",
+                    "trace_code": "11381-1075-4"
+                }
+            ]
+        },
+        {
+            "qid": "50673",
+            "question": "有900顆雞蛋，在運送時壓壞了36顆，剩下的每8顆裝成一盒，共可裝成幾盒？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "3",
+                "level": "難"
+            },
+            "answer": "108盒",
+            "sentences": [
+                {
+                    "sentence": "有900顆雞蛋",
+                    "stype": "有",
+                    "trace_code": "10077-1170-1"
+                },
+                {
+                    "sentence": "在運送時壓壞了36顆",
+                    "stype": "量變",
+                    "trace_code": "10077-1170-2"
+                },
+                {
+                    "sentence": "剩下的每8顆裝成一盒",
+                    "stype": "每單位量",
+                    "trace_code": "10077-1170-3"
+                },
+                {
+                    "sentence": "共可裝成幾盒",
+                    "stype": "問分配",
+                    "trace_code": "10077-1170-4"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0131359",
+            "question": "水果行買了900顆奇異果，早上賣出了44顆，下午老闆將8顆奇異果裝成一個禮盒，可以裝成幾盒？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "3",
+                "level": "難"
+            },
+            "answer": "107盒",
+            "sentences": [
+                {
+                    "sentence": "水果行買了900顆奇異果",
+                    "stype": "量變",
+                    "trace_code": "8705-1193-1"
+                },
+                {
+                    "sentence": "早上賣出了44顆",
+                    "stype": "量變",
+                    "trace_code": "8705-1193-2"
+                },
+                {
+                    "sentence": "下午老闆將8顆奇異果裝成一個禮盒",
+                    "stype": "每單位量",
+                    "trace_code": "8705-1193-3"
+                },
+                {
+                    "sentence": "可以裝成幾盒",
+                    "stype": "問分配",
+                    "trace_code": "8705-1193-4"
+                }
+            ]
+        },
+        {
+            "qid": "50737",
+            "question": "把50本雜誌平分裝箱，每箱有6本，剩下2本，共平分成幾箱？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "3",
+                "level": "難"
+            },
+            "answer": "8箱",
+            "sentences": [
+                {
+                    "sentence": "把50本雜誌平分裝箱",
+                    "stype": "有",
+                    "trace_code": "11427-1223-1"
+                },
+                {
+                    "sentence": "每箱有6本",
+                    "stype": "每單位量",
+                    "trace_code": "11427-1223-2"
+                },
+                {
+                    "sentence": "剩下2本",
+                    "stype": "剩下",
+                    "trace_code": "11427-1223-3"
+                },
+                {
+                    "sentence": "共平分成幾箱",
+                    "stype": "問分配",
+                    "trace_code": "11427-1223-4"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0131328",
+            "question": "夏令營原本有875個小朋友參加，後來又有14個小朋友報名，每7人組成一隊，可以組成多少隊？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "3",
+                "level": "難"
+            },
+            "answer": "127隊",
+            "sentences": [
+                {
+                    "sentence": "夏令營原本有875個小朋友參加",
+                    "stype": "有",
+                    "trace_code": "8376-1243-1"
+                },
+                {
+                    "sentence": "後來又有14個小朋友報名",
+                    "stype": "量變",
+                    "trace_code": "8376-1243-2"
+                },
+                {
+                    "sentence": "每7人組成一隊",
+                    "stype": "每單位量",
+                    "trace_code": "8376-1243-3"
+                },
+                {
+                    "sentence": "可以組成多少隊",
+                    "stype": "問分配",
+                    "trace_code": "8376-1243-4"
+                }
+            ]
+        },
+     
+        {
+            "qid": "53946",
+            "question": "448片小熊餅乾，每7片裝成一袋，每4袋裝成一盒，共可以裝成幾盒？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "3",
+                "level": "難"
+            },
+            "answer": "16盒",
+            "sentences": [
+                {
+                    "sentence": "448片小熊餅乾",
+                    "stype": "有",
+                    "trace_code": "11967-1302-1"
+                },
+                {
+                    "sentence": "每7片裝成一袋",
+                    "stype": "每單位量",
+                    "trace_code": "11967-1302-2"
+                },
+                {
+                    "sentence": "每4袋裝成一盒",
+                    "stype": "每單位量",
+                    "trace_code": "11967-1302-3"
+                },
+                {
+                    "sentence": "共可以裝成幾盒",
+                    "stype": "問分配",
+                    "trace_code": "11967-1302-4"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0131373",
+            "question": "112個小朋友參加科學營，後來又有42個小朋友報名，每7人為一組，共可分成多少組？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "3",
+                "level": "難"
+            },
+            "answer": "22組",
+            "sentences": [
+                {
+                    "sentence": "112個小朋友參加科學營",
+                    "stype": "有",
+                    "trace_code": "8711-1317-1"
+                },
+                {
+                    "sentence": "後來又有42個小朋友報名",
+                    "stype": "量變",
+                    "trace_code": "8711-1317-2"
+                },
+                {
+                    "sentence": "每7人為一組",
+                    "stype": "每單位量",
+                    "trace_code": "8711-1317-3"
+                },
+                {
+                    "sentence": "共可分成多少組",
+                    "stype": "問分配",
+                    "trace_code": "8711-1317-4"
+                }
+            ]
+        },
+        {
+            "qid": "82272",
+            "question": "倉庫裡有4.62公噸的柳丁，每28公斤裝成一箱，共可裝成幾箱？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "5",
+                "level": "中"
+            },
+            "answer": "165箱",
+            "sentences": [
+                {
+                    "sentence": "倉庫裡有4.62公噸的柳丁",
+                    "stype": "有",
+                    "trace_code": "6470-1377-1"
+                },
+                {
+                    "sentence": "每28公斤裝成一箱",
+                    "stype": "每單位量",
+                    "trace_code": "6470-1377-2"
+                },
+                {
+                    "sentence": "共可裝成幾箱",
+                    "stype": "問分配",
+                    "trace_code": "6470-1377-3"
+                }
+            ]
+        },
+        
+        {
+            "qid": "31595",
+            "question": "用減法算式把做法記下來：35顆葡萄，每7顆裝成一盤，可裝成幾盤？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "2",
+                "level": "易"
+            },
+            "answer": "5盤",
+            "sentences": [
+                {
+                    "sentence": "用減法算式把做法記下來：35顆葡萄",
+                    "stype": "有",
+                    "trace_code": "11013-1794-1"
+                },
+                {
+                    "sentence": "每7顆裝成一盤",
+                    "stype": "每單位量",
+                    "trace_code": "11013-1794-2"
+                },
+                {
+                    "sentence": "可裝成幾盤",
+                    "stype": "問分配",
+                    "trace_code": "11013-1794-3"
+                }
+            ]
+        },
+        {
+            "qid": "30873",
+            "question": "用減法算式把做法記下來：16顆巧克力，每4顆裝成一盒，可以裝成幾盒？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "2",
+                "level": "易"
+            },
+            "answer": "4盒",
+            "sentences": [
+                {
+                    "sentence": "用減法算式把做法記下來：16顆巧克力",
+                    "stype": "有",
+                    "trace_code": "11005-1878-1"
+                },
+                {
+                    "sentence": "每4顆裝成一盒",
+                    "stype": "每單位量",
+                    "trace_code": "11005-1878-2"
+                },
+                {
+                    "sentence": "可以裝成幾盒",
+                    "stype": "問分配",
+                    "trace_code": "11005-1878-3"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0162711",
+            "question": "把24公斤的糖，每1.6公斤裝成一包，可以裝成多少包？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "6",
+                "level": "中"
+            },
+            "answer": "15包",
+            "sentences": [
+                {
+                    "sentence": "把24公斤的糖",
+                    "stype": "有",
+                    "trace_code": "9174-2124-1"
+                },
+                {
+                    "sentence": "每1.6公斤裝成一包",
+                    "stype": "每單位量",
+                    "trace_code": "9174-2124-2"
+                },
+                {
+                    "sentence": "可以裝成多少包",
+                    "stype": "問分配",
+                    "trace_code": "9174-2124-3"
+                }
+            ]
+        },
+        {
+            "qid": "103171",
+            "question": "將58.26公斤的白米，每0.95公斤裝成一袋，可裝成幾袋？剩下幾公斤？",
+            "fastype": "<UNK>",
+            "difficulty": {
+                "grade": "6",
+                "level": "中"
+            },
+            "answer": "61袋;0.31公斤",
+            "sentences": [
+                {
+                    "sentence": "將58.26公斤的白米",
+                    "stype": "有",
+                    "trace_code": "7015-2146-1"
+                },
+                {
+                    "sentence": "每0.95公斤裝成一袋",
+                    "stype": "每單位量",
+                    "trace_code": "7015-2146-2"
+                },
+                {
+                    "sentence": "可裝成幾袋",
+                    "stype": "問分配",
+                    "trace_code": "7015-2146-3"
+                }
+            ],
+            "followers": [
+                {
+                    "sentence": "剩下幾公斤",
+                    "stype": "問剩下",
+                    "trace_code": "7015-2146-4"
+                }
+            ]
+        },
+        {
+            "qid": "111308",
+            "question": "一袋紅豆重21+(1/3)公斤。玲玲有3袋的紅豆，每1+(19/45)公斤裝一包，相當於裝幾包？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "6",
+                "level": "中"
+            },
+            "answer": "45包",
+            "sentences": [
+                {
+                    "sentence": "一袋紅豆重21+(1/3)公斤",
+                    "stype": "每單位量",
+                    "trace_code": "13013-2166-1"
+                },
+                {
+                    "sentence": "玲玲有3袋的紅豆",
+                    "stype": "有",
+                    "trace_code": "13013-2166-2"
+                },
+                {
+                    "sentence": "每1+(19/45)公斤裝一包",
+                    "stype": "每單位量",
+                    "trace_code": "13013-2166-3"
+                },
+                {
+                    "sentence": "相當於裝幾包",
+                    "stype": "問分配",
+                    "trace_code": "13013-2166-4"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0162717",
+            "question": "把2.75公升的果汁，每0.25公升裝成一杯，可以裝成多少杯？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "6",
+                "level": "中"
+            },
+            "answer": "11杯",
+            "sentences": [
+                {
+                    "sentence": "把2.75公升的果汁",
+                    "stype": "有",
+                    "trace_code": "1532-2191-1"
+                },
+                {
+                    "sentence": "每0.25公升裝成一杯",
+                    "stype": "每單位量",
+                    "trace_code": "1532-2191-2"
+                },
+                {
+                    "sentence": "可以裝成多少杯",
+                    "stype": "問分配",
+                    "trace_code": "1532-2191-3"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0160767",
+            "question": "袋子裡有72枝棒棒糖。每12枝裝一袋，一共可裝成多少袋？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "6",
+                "level": "中"
+            },
+            "answer": "6袋",
+            "sentences": [
+                {
+                    "sentence": "袋子裡有72枝棒棒糖",
+                    "stype": "有",
+                    "trace_code": "9632-2203-1"
+                },
+                {
+                    "sentence": "每12枝裝一袋",
+                    "stype": "每單位量",
+                    "trace_code": "9632-2203-2"
+                },
+                {
+                    "sentence": "一共可裝成多少袋",
+                    "stype": "問分配",
+                    "trace_code": "9632-2203-3"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0162724",
+            "question": "一袋13.7公斤的紅豆，每2.3公斤裝一包，可以裝成多少包？還剩下多少公斤？",
+            "fastype": "<UNK>",
+            "difficulty": {
+                "grade": "6",
+                "level": "中"
+            },
+            "answer": "5包;2.2公斤",
+            "sentences": [
+                {
+                    "sentence": "一袋13.7公斤的紅豆",
+                    "stype": "每單位量",
+                    "trace_code": "1534-2210-1"
+                },
+                {
+                    "sentence": "每2.3公斤裝一包",
+                    "stype": "每單位量",
+                    "trace_code": "1534-2210-2"
+                },
+                {
+                    "sentence": "可以裝成多少包",
+                    "stype": "問分配",
+                    "trace_code": "1534-2210-3"
+                }
+            ],
+            "followers": [
+                {
+                    "sentence": "還剩下多少公斤",
+                    "stype": "問剩下",
+                    "trace_code": "1534-2210-4"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0160548",
+            "question": "58.9公斤的白米，每3.26公斤裝成一袋，可以裝成多少袋？還剩下多少公斤？",
+            "fastype": "<UNK>",
+            "difficulty": {
+                "grade": "6",
+                "level": "中"
+            },
+            "answer": "18袋;0.22公斤",
+            "sentences": [
+                {
+                    "sentence": "58.9公斤的白米",
+                    "stype": "有",
+                    "trace_code": "1140-2217-1"
+                },
+                {
+                    "sentence": "每3.26公斤裝成一袋",
+                    "stype": "每單位量",
+                    "trace_code": "1140-2217-2"
+                },
+                {
+                    "sentence": "可以裝成多少袋",
+                    "stype": "問分配",
+                    "trace_code": "1140-2217-3"
+                }
+            ],
+            "followers": [
+                {
+                    "sentence": "還剩下多少公斤",
+                    "stype": "問剩下",
+                    "trace_code": "1140-2217-4"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0162694",
+            "question": "一袋麵粉有2公斤，每0.5公斤分裝成1小包，共可裝滿多少包？還剩下多少公斤？",
+            "fastype": "<UNK>",
+            "difficulty": {
+                "grade": "6",
+                "level": "中"
+            },
+            "answer": "4包;0公斤",
+            "sentences": [
+                {
+                    "sentence": "一袋麵粉有2公斤",
+                    "stype": "每單位量",
+                    "trace_code": "9172-2221-1"
+                },
+                {
+                    "sentence": "每0.5公斤分裝成1小包",
+                    "stype": "每單位量",
+                    "trace_code": "9172-2221-2"
+                },
+                {
+                    "sentence": "共可裝滿多少包",
+                    "stype": "問分配",
+                    "trace_code": "9172-2221-3"
+                }
+            ],
+            "followers": [
+                {
+                    "sentence": "還剩下多少公斤",
+                    "stype": "問剩下",
+                    "trace_code": "9172-2221-4"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0160561",
+            "question": "一桶果汁有126.8公升，分裝在每瓶容量2.75公升的瓶子裡，可以裝成幾瓶？還剩下多少公升？",
+            "fastype": "<UNK>",
+            "difficulty": {
+                "grade": "6",
+                "level": "中"
+            },
+            "answer": "46瓶;0.3公升",
+            "sentences": [
+                {
+                    "sentence": "一桶果汁有126.8公升",
+                    "stype": "每單位量",
+                    "trace_code": "1149-2232-1"
+                },
+                {
+                    "sentence": "分裝在每瓶容量2.75公升的瓶子裡",
+                    "stype": "每單位量",
+                    "trace_code": "1149-2232-2"
+                },
+                {
+                    "sentence": "可以裝成幾瓶",
+                    "stype": "問分配",
+                    "trace_code": "1149-2232-3"
+                }
+            ],
+            "followers": [
+                {
+                    "sentence": "還剩下多少公升",
+                    "stype": "問剩下",
+                    "trace_code": "1149-2232-4"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0160551",
+            "question": "有25.7公斤的橘子，每3.2公斤裝一箱，可以裝滿幾箱？還剩下多少公斤？",
+            "fastype": "<UNK>",
+            "difficulty": {
+                "grade": "6",
+                "level": "中"
+            },
+            "answer": "8箱;0.1公斤",
+            "sentences": [
+                {
+                    "sentence": "有25.7公斤的橘子",
+                    "stype": "有",
+                    "trace_code": "8517-2235-1"
+                },
+                {
+                    "sentence": "每3.2公斤裝一箱",
+                    "stype": "每單位量",
+                    "trace_code": "8517-2235-2"
+                },
+                {
+                    "sentence": "可以裝滿幾箱",
+                    "stype": "問分配",
+                    "trace_code": "8517-2235-3"
+                }
+            ],
+            "followers": [
+                {
+                    "sentence": "還剩下多少公斤",
+                    "stype": "問剩下",
+                    "trace_code": "8517-2235-4"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0160550",
+            "question": "26.7公斤的綠豆，每2.38公斤裝成一袋，可以裝成多少袋？還剩下多少公斤？",
+            "fastype": "<UNK>",
+            "difficulty": {
+                "grade": "6",
+                "level": "中"
+            },
+            "answer": "11袋;0.52公斤",
+            "sentences": [
+                {
+                    "sentence": "26.7公斤的綠豆",
+                    "stype": "有",
+                    "trace_code": "1142-2256-1"
+                },
+                {
+                    "sentence": "每2.38公斤裝成一袋",
+                    "stype": "每單位量",
+                    "trace_code": "1142-2256-2"
+                },
+                {
+                    "sentence": "可以裝成多少袋",
+                    "stype": "問分配",
+                    "trace_code": "1142-2256-3"
+                }
+            ],
+            "followers": [
+                {
+                    "sentence": "還剩下多少公斤",
+                    "stype": "問剩下",
+                    "trace_code": "1142-2256-4"
+                }
+            ]
+        },
+        {
+            "qid": "111344",
+            "question": "將7+(1/3)公斤的紫米、2+(1/3)公斤的薏仁、3+(1/3)公斤的燕麥混合，每1+(1/12)公斤裝成一包，可裝成幾包？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "6",
+                "level": "中"
+            },
+            "answer": "12包",
+            "sentences": [
+                {
+                    "sentence": "將7+(1/3)公斤的紫米、2+(1/3)公斤的薏仁、3+(1/3)公斤的燕麥混合",
+                    "stype": "有",
+                    "trace_code": "13020-2257-1"
+                },
+                {
+                    "sentence": "每1+(1/12)公斤裝成一包",
+                    "stype": "每單位量",
+                    "trace_code": "13020-2257-2"
+                },
+                {
+                    "sentence": "可裝成幾包",
+                    "stype": "問分配",
+                    "trace_code": "13020-2257-3"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0160575",
+            "question": "做一個中國結需用掉25.5公分長的繩子，2.5公尺長的繩子，最多可以完成幾個中國結？",
+            "fastype": "<UNK>",
+            "difficulty": {
+                "grade": "6",
+                "level": "中"
+            },
+            "answer": "9個",
+            "sentences": [
+                {
+                    "sentence": "做一個中國結需用掉25.5公分長的繩子",
+                    "stype": "量變",
+                    "trace_code": "8524-2266-1"
+                },
+                {
+                    "sentence": "2.5公尺長的繩子",
+                    "stype": "有",
+                    "trace_code": "8524-2266-2"
+                },
+                {
+                    "sentence": "最多可以完成幾個中國結",
+                    "stype": "問分配",
+                    "trace_code": "8524-2266-3"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0162716",
+            "question": "把4.8公斤的糖果，每0.6公斤裝一包，可以裝成多少包？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "6",
+                "level": "中"
+            },
+            "answer": "8包",
+            "sentences": [
+                {
+                    "sentence": "把4.8公斤的糖果",
+                    "stype": "有",
+                    "trace_code": "9176-2298-1"
+                },
+                {
+                    "sentence": "每0.6公斤裝一包",
+                    "stype": "每單位量",
+                    "trace_code": "9176-2298-2"
+                },
+                {
+                    "sentence": "可以裝成多少包",
+                    "stype": "問分配",
+                    "trace_code": "9176-2298-3"
+                }
+            ]
+        },
+        {
+            "qid": "100534",
+            "question": "一袋芋圓重14.81公斤，做一鍋甜湯需要0.21公斤的芋圓，這袋芋圓最多可以做幾鍋甜湯？剩下幾公斤？",
+            "fastype": "<UNK>",
+            "difficulty": {
+                "grade": "6",
+                "level": "中"
+            },
+            "answer": "70鍋;0.11公斤",
+            "sentences": [
+                {
+                    "sentence": "一袋芋圓重14.81公斤",
+                    "stype": "每單位量",
+                    "trace_code": "6882-2310-1"
+                },
+                {
+                    "sentence": "做一鍋甜湯需要0.21公斤的芋圓",
+                    "stype": "每單位量",
+                    "trace_code": "6882-2310-2"
+                },
+                {
+                    "sentence": "這袋芋圓最多可以做幾鍋甜湯",
+                    "stype": "問分配",
+                    "trace_code": "6882-2310-3"
+                }
+            ],
+            "followers": [
+                {
+                    "sentence": "剩下幾公斤",
+                    "stype": "問剩下",
+                    "trace_code": "6882-2310-4"
+                }
+            ]
+        },
+        {
+            "qid": "100525",
+            "question": "一捲彩帶長200公尺，用去100.64公尺後，把剩下的彩帶每3.26公尺包裝一份禮物，最多可以包裝幾份禮物？剩下幾公尺？",
+            "fastype": "<UNK>",
+            "difficulty": {
+                "grade": "6",
+                "level": "中"
+            },
+            "answer": "30份;1.56公尺",
+            "sentences": [
+                {
+                    "sentence": "一捲彩帶長200公尺",
+                    "stype": "每單位量",
+                    "trace_code": "138-2313-1"
+                },
+                {
+                    "sentence": "用去100.64公尺後",
+                    "stype": "量變",
+                    "trace_code": "138-2313-2"
+                },
+                {
+                    "sentence": "把剩下的彩帶每3.26公尺包裝一份禮物",
+                    "stype": "每單位量",
+                    "trace_code": "138-2313-3"
+                },
+                {
+                    "sentence": "最多可以包裝幾份禮物",
+                    "stype": "問分配",
+                    "trace_code": "138-2313-4"
+                }
+            ],
+            "followers": [
+                {
+                    "sentence": "剩下幾公尺",
+                    "stype": "問剩下",
+                    "trace_code": "138-2313-5"
+                }
+            ]
+        },
+        {
+            "qid": "101291",
+            "question": "有一桶25公升的青草茶，每個杯子可以裝0.34公升，最多可以裝成幾杯（須為整數）？還剩下幾公升的青草茶？",
+            "fastype": "<UNK>",
+            "difficulty": {
+                "grade": "6",
+                "level": "中"
+            },
+            "answer": "73杯;0.18公升",
+            "sentences": [
+                {
+                    "sentence": "有一桶25公升的青草茶",
+                    "stype": "有",
+                    "trace_code": "15434-2319-1"
+                },
+                {
+                    "sentence": "每個杯子可以裝0.34公升",
+                    "stype": "每單位量",
+                    "trace_code": "15434-2319-2"
+                },
+                {
+                    "sentence": "最多可以裝成幾杯（須為整數）",
+                    "stype": "問分配",
+                    "trace_code": "15434-2319-3"
+                }
+            ],
+            "followers": [
+                {
+                    "sentence": "還剩下幾公升的青草茶",
+                    "stype": "問剩下",
+                    "trace_code": "15434-2319-4"
+                }
+            ]
+        },
+       
+        {
+            "qid": "1MA0160768",
+            "question": "瓶子裡有108顆巧克力球。每18顆裝一包，一共可裝成多少包？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "6",
+                "level": "中"
+            },
+            "answer": "6包",
+            "sentences": [
+                {
+                    "sentence": "瓶子裡有108顆巧克力球",
+                    "stype": "有",
+                    "trace_code": "9635-2326-1"
+                },
+                {
+                    "sentence": "每18顆裝一包",
+                    "stype": "每單位量",
+                    "trace_code": "9635-2326-2"
+                },
+                {
+                    "sentence": "一共可裝成多少包",
+                    "stype": "問分配",
+                    "trace_code": "9635-2326-3"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0160552",
+            "question": "有38.75公斤的橘子，每4.4公斤裝一箱，可以裝滿幾箱？還剩下多少公斤？",
+            "fastype": "<UNK>",
+            "difficulty": {
+                "grade": "6",
+                "level": "中"
+            },
+            "answer": "8箱;3.55公斤",
+            "sentences": [
+                {
+                    "sentence": "有38.75公斤的橘子",
+                    "stype": "有",
+                    "trace_code": "1143-2334-1"
+                },
+                {
+                    "sentence": "每4.4公斤裝一箱",
+                    "stype": "每單位量",
+                    "trace_code": "1143-2334-2"
+                },
+                {
+                    "sentence": "可以裝滿幾箱",
+                    "stype": "問分配",
+                    "trace_code": "1143-2334-3"
+                }
+            ],
+            "followers": [
+                {
+                    "sentence": "還剩下多少公斤",
+                    "stype": "問剩下",
+                    "trace_code": "1143-2334-4"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0160553",
+            "question": "一條長5公尺的緞帶，每0.45公尺剪成一段，可以剪成幾段？還剩下多少公尺？",
+            "fastype": "<UNK>",
+            "difficulty": {
+                "grade": "6",
+                "level": "中"
+            },
+            "answer": "11段;0.05公尺",
+            "sentences": [
+                {
+                    "sentence": "一條長5公尺的緞帶",
+                    "stype": "每單位量",
+                    "trace_code": "1144-2351-1"
+                },
+                {
+                    "sentence": "每0.45公尺剪成一段",
+                    "stype": "每單位量",
+                    "trace_code": "1144-2351-2"
+                },
+                {
+                    "sentence": "可以剪成幾段",
+                    "stype": "問分配",
+                    "trace_code": "1144-2351-3"
+                }
+            ],
+            "followers": [
+                {
+                    "sentence": "還剩下多少公尺",
+                    "stype": "問剩下",
+                    "trace_code": "1144-2351-4"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0160525",
+            "question": "一大桶果汁有19.2公升，每1.2公升分裝成一小桶，共可以分裝成幾小桶？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "6",
+                "level": "中"
+            },
+            "answer": "16小桶",
+            "sentences": [
+                {
+                    "sentence": "一大桶果汁有19.2公升",
+                    "stype": "每單位量",
+                    "trace_code": "8939-2355-1"
+                },
+                {
+                    "sentence": "每1.2公升分裝成一小桶",
+                    "stype": "每單位量",
+                    "trace_code": "8939-2355-2"
+                },
+                {
+                    "sentence": "共可以分裝成幾小桶",
+                    "stype": "問分配",
+                    "trace_code": "8939-2355-3"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0162723",
+            "question": "有27公升的水，每1.9公升裝一瓶，可以裝成幾瓶？還剩下多少公升？",
+            "fastype": "<UNK>",
+            "difficulty": {
+                "grade": "6",
+                "level": "中"
+            },
+            "answer": "14瓶;0.4公升",
+            "sentences": [
+                {
+                    "sentence": "有27公升的水",
+                    "stype": "有",
+                    "trace_code": "1533-2358-1"
+                },
+                {
+                    "sentence": "每1.9公升裝一瓶",
+                    "stype": "每單位量",
+                    "trace_code": "1533-2358-2"
+                },
+                {
+                    "sentence": "可以裝成幾瓶",
+                    "stype": "問分配",
+                    "trace_code": "1533-2358-3"
+                }
+            ],
+            "followers": [
+                {
+                    "sentence": "還剩下多少公升",
+                    "stype": "問剩下",
+                    "trace_code": "1533-2358-4"
+                }
+            ]
+        },
+        {
+            "qid": "100520",
+            "question": "18.7公升的水果醋讓大家免費試飲，若每0.3公升倒成一杯，最多可以倒成幾杯？剩下幾公升？",
+            "fastype": "<UNK>",
+            "difficulty": {
+                "grade": "6",
+                "level": "中"
+            },
+            "answer": "62杯;0.1公升",
+            "sentences": [
+                {
+                    "sentence": "18.7公升的水果醋讓大家免費試飲",
+                    "stype": "有",
+                    "trace_code": "6879-2359-1"
+                },
+                {
+                    "sentence": "若每0.3公升倒成一杯",
+                    "stype": "每單位量",
+                    "trace_code": "6879-2359-2"
+                },
+                {
+                    "sentence": "最多可以倒成幾杯",
+                    "stype": "問分配",
+                    "trace_code": "6879-2359-3"
+                }
+            ],
+            "followers": [
+                {
+                    "sentence": "剩下幾公升",
+                    "stype": "問剩下",
+                    "trace_code": "6879-2359-4"
+                }
+            ]
+        },
+        {
+            "qid": "111309",
+            "question": "一袋紅豆重9+(1/2)公斤。玲玲有3袋的紅豆，每3/4公斤裝一包，相當於裝幾包？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "6",
+                "level": "中"
+            },
+            "answer": "38包",
+            "sentences": [
+                {
+                    "sentence": "一袋紅豆重9+(1/2)公斤",
+                    "stype": "每單位量",
+                    "trace_code": "4014-2360-1"
+                },
+                {
+                    "sentence": "玲玲有3袋的紅豆",
+                    "stype": "有",
+                    "trace_code": "4014-2360-2"
+                },
+                {
+                    "sentence": "每3/4公斤裝一包",
+                    "stype": "每單位量",
+                    "trace_code": "4014-2360-3"
+                },
+                {
+                    "sentence": "相當於裝幾包",
+                    "stype": "問分配",
+                    "trace_code": "4014-2360-4"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0160557",
+            "question": "將25公升的檸檬汁，每0.54公升裝成一瓶，可以裝成幾瓶？還剩下多少公升？",
+            "fastype": "<UNK>",
+            "difficulty": {
+                "grade": "6",
+                "level": "中"
+            },
+            "answer": "46瓶;0.16公升",
+            "sentences": [
+                {
+                    "sentence": "將25公升的檸檬汁",
+                    "stype": "有",
+                    "trace_code": "1146-2373-1"
+                },
+                {
+                    "sentence": "每0.54公升裝成一瓶",
+                    "stype": "每單位量",
+                    "trace_code": "1146-2373-2"
+                },
+                {
+                    "sentence": "可以裝成幾瓶",
+                    "stype": "問分配",
+                    "trace_code": "1146-2373-3"
+                }
+            ],
+            "followers": [
+                {
+                    "sentence": "還剩下多少公升",
+                    "stype": "問剩下",
+                    "trace_code": "1146-2373-4"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0162433",
+            "question": "18公斤的黃豆，每0.36公斤裝成一包，可以裝成幾包？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "6",
+                "level": "中"
+            },
+            "answer": "50包",
+            "sentences": [
+                {
+                    "sentence": "18公斤的黃豆",
+                    "stype": "有",
+                    "trace_code": "1510-2376-1"
+                },
+                {
+                    "sentence": "每0.36公斤裝成一包",
+                    "stype": "每單位量",
+                    "trace_code": "1510-2376-2"
+                },
+                {
+                    "sentence": "可以裝成幾包",
+                    "stype": "問分配",
+                    "trace_code": "1510-2376-3"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0162789",
+            "question": "用64公分的繩子可以做出4個中國結，欣欣有一條256公分的繩子，可以做出幾個中國結？",
+            "fastype": "問單位量",
+            "difficulty": {
+                "grade": "6",
+                "level": "中"
+            },
+            "answer": "16個",
+            "sentences": [
+                {
+                    "sentence": "用64公分的繩子可以做出4個中國結",
+                    "stype": "每單位量",
+                    "trace_code": "9191-2390-1"
+                },
+                {
+                    "sentence": "欣欣有一條256公分的繩子",
+                    "stype": "有",
+                    "trace_code": "9191-2390-2"
+                },
+                {
+                    "sentence": "可以做出幾個中國結",
+                    "stype": "問分配",
+                    "trace_code": "9191-2390-3"
+                }
+            ]
+        },
+        {
+            "qid": "103836",
+            "question": "一張郵票3.5元，媽媽身上有100元，最多可買幾張郵票？剩下幾元？",
+            "fastype": "<UNK>",
+            "difficulty": {
+                "grade": "6",
+                "level": "中"
+            },
+            "answer": "28張;2元",
+            "sentences": [
+                {
+                    "sentence": "一張郵票3.5元",
+                    "stype": "每單位量",
+                    "trace_code": "239-2392-1"
+                },
+                {
+                    "sentence": "媽媽身上有100元",
+                    "stype": "有",
+                    "trace_code": "239-2392-2"
+                },
+                {
+                    "sentence": "最多可買幾張郵票",
+                    "stype": "問分配",
+                    "trace_code": "239-2392-3"
+                }
+            ],
+            "followers": [
+                {
+                    "sentence": "剩下幾元",
+                    "stype": "問剩下",
+                    "trace_code": "239-2392-4"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0160927",
+            "question": "87顆葡萄可以打成3杯果汁，435顆葡萄，可以打成幾杯果汁？",
+            "fastype": "問單位量",
+            "difficulty": {
+                "grade": "6",
+                "level": "中"
+            },
+            "answer": "15杯",
+            "sentences": [
+                {
+                    "sentence": "87顆葡萄可以打成3杯果汁",
+                    "stype": "每單位量",
+                    "trace_code": "1888-2394-1"
+                },
+                {
+                    "sentence": "用435顆葡萄",
+                    "stype": "有",
+                    "trace_code": "1888-2394-2"
+                },
+                {
+                    "sentence": "可以打成幾杯果汁",
+                    "stype": "問分配",
+                    "trace_code": "1888-2394-3"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0162434",
+            "question": "37公尺長的緞帶，每1.48公尺剪一段，可以剪成多少段？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "6",
+                "level": "中"
+            },
+            "answer": "25段",
+            "sentences": [
+                {
+                    "sentence": "37公尺長的緞帶",
+                    "stype": "有",
+                    "trace_code": "1511-2422-1"
+                },
+                {
+                    "sentence": "每1.48公尺剪一段",
+                    "stype": "每單位量",
+                    "trace_code": "1511-2422-2"
+                },
+                {
+                    "sentence": "可以剪成多少段",
+                    "stype": "問分配",
+                    "trace_code": "1511-2422-3"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0160562",
+            "question": "一捆麻繩長15公尺，每1.05公尺剪成一段，可以剪成幾段？還剩下多少公尺？",
+            "fastype": "<UNK>",
+            "difficulty": {
+                "grade": "6",
+                "level": "中"
+            },
+            "answer": "14段;0.3公尺",
+            "sentences": [
+                {
+                    "sentence": "一捆麻繩長15公尺",
+                    "stype": "每單位量",
+                    "trace_code": "1150-2423-1"
+                },
+                {
+                    "sentence": "每1.05公尺剪成一段",
+                    "stype": "每單位量",
+                    "trace_code": "1150-2423-2"
+                },
+                {
+                    "sentence": "可以剪成幾段",
+                    "stype": "問分配",
+                    "trace_code": "1150-2423-3"
+                }
+            ],
+            "followers": [
+                {
+                    "sentence": "還剩下多少公尺",
+                    "stype": "問剩下",
+                    "trace_code": "1150-2423-4"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0162440",
+            "question": "40.95公斤的白米，每3.15公斤裝一袋，全部可以裝成多少袋？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "6",
+                "level": "中"
+            },
+            "answer": "13袋",
+            "sentences": [
+                {
+                    "sentence": "40.95公斤的白米",
+                    "stype": "有",
+                    "trace_code": "9127-2429-1"
+                },
+                {
+                    "sentence": "每3.15公斤裝一袋",
+                    "stype": "每單位量",
+                    "trace_code": "9127-2429-2"
+                },
+                {
+                    "sentence": "全部可以裝成多少袋",
+                    "stype": "問分配",
+                    "trace_code": "9127-2429-3"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0160547",
+            "question": "一袋砂糖重18公斤，每2.3公斤裝一包，可以裝成幾包？還剩下幾公斤？",
+            "fastype": "<UNK>",
+            "difficulty": {
+                "grade": "6",
+                "level": "中"
+            },
+            "answer": "7包;1.9公斤",
+            "sentences": [
+                {
+                    "sentence": "一袋砂糖重18公斤",
+                    "stype": "每單位量",
+                    "trace_code": "1139-2434-1"
+                },
+                {
+                    "sentence": "每2.3公斤裝一包",
+                    "stype": "每單位量",
+                    "trace_code": "1139-2434-2"
+                },
+                {
+                    "sentence": "可以裝成幾包",
+                    "stype": "問分配",
+                    "trace_code": "1139-2434-3"
+                }
+            ],
+            "followers": [
+                {
+                    "sentence": "還剩下幾公斤",
+                    "stype": "問剩下",
+                    "trace_code": "1139-2434-4"
+                }
+            ]
+        },
+        {
+            "qid": "102108",
+            "question": "有123.36公斤的砂糖，每3.8公斤裝成一袋，最多可裝幾袋？還剩多少公斤？",
+            "fastype": "<UNK>",
+            "difficulty": {
+                "grade": "6",
+                "level": "中"
+            },
+            "answer": "32袋;1.76公斤",
+            "sentences": [
+                {
+                    "sentence": "有123.36公斤的砂糖",
+                    "stype": "有",
+                    "trace_code": "5450-2439-1"
+                },
+                {
+                    "sentence": "每3.8公斤裝成一袋",
+                    "stype": "每單位量",
+                    "trace_code": "5450-2439-2"
+                },
+                {
+                    "sentence": "最多可裝幾袋",
+                    "stype": "問分配",
+                    "trace_code": "5450-2439-3"
+                }
+            ],
+            "followers": [
+                {
+                    "sentence": "還剩多少公斤",
+                    "stype": "問剩下",
+                    "trace_code": "5450-2439-4"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0162709",
+            "question": "有3公升的紅茶。如果每0.2公升裝成一杯，可以裝成多少杯？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "6",
+                "level": "中"
+            },
+            "answer": "15杯",
+            "sentences": [
+                {
+                    "sentence": "有3公升的紅茶",
+                    "stype": "有",
+                    "trace_code": "9173-2455-1"
+                },
+                {
+                    "sentence": "如果每0.2公升裝成一杯",
+                    "stype": "每單位量",
+                    "trace_code": "9173-2455-3"
+                },
+                {
+                    "sentence": "可以裝成多少杯",
+                    "stype": "問分配",
+                    "trace_code": "9173-2455-4"
+                }
+            ]
+        },
+        {
+            "qid": "102789",
+            "question": "有29.8公升的果汁，每0.64公升裝成一瓶，共需要幾個瓶子才能裝完？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "6",
+                "level": "中"
+            },
+            "answer": "47個",
+            "sentences": [
+                {
+                    "sentence": "有29.8公升的果汁",
+                    "stype": "有",
+                    "trace_code": "210-2466-1"
+                },
+                {
+                    "sentence": "每0.64公升裝成一瓶",
+                    "stype": "每單位量",
+                    "trace_code": "210-2466-2"
+                },
+                {
+                    "sentence": "共需要幾個瓶子才能裝完",
+                    "stype": "問分配",
+                    "trace_code": "210-2466-3"
+                }
+            ]
+        },
+        {
+            "qid": "101262",
+            "question": "真真買了一捆長24.6公尺的紅繩，包裝一個禮盒要用掉1.6公尺，這捆紅繩最多可以包裝幾個禮盒，剩下多少公尺？",
+            "fastype": "<UNK>",
+            "difficulty": {
+                "grade": "6",
+                "level": "中"
+            },
+            "answer": "15個;0.6公尺",
+            "sentences": [
+                {
+                    "sentence": "真真買了一捆長24.6公尺的紅繩",
+                    "stype": "量變",
+                    "trace_code": "15416-2471-1"
+                },
+                {
+                    "sentence": "包裝一個禮盒要用掉1.6公尺",
+                    "stype": "每單位量",
+                    "trace_code": "15416-2471-2"
+                },
+                {
+                    "sentence": "這捆紅繩最多可以包裝幾個禮盒",
+                    "stype": "問分配",
+                    "trace_code": "15416-2471-3"
+                }
+            ],
+            "followers": [
+                {
+                    "sentence": "剩下多少公尺",
+                    "stype": "問剩下",
+                    "trace_code": "15416-2471-4"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0160497",
+            "question": "花布50公尺，先用去11.12公尺，剩下的部分每1.08公尺剪成一段，共可剪成多少段？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "6",
+                "level": "中"
+            },
+            "answer": "36",
+            "sentences": [
+                {
+                    "sentence": "花布50公尺",
+                    "stype": "有",
+                    "trace_code": "8926-2474-1"
+                },
+                {
+                    "sentence": "先用去11.12公尺",
+                    "stype": "量變",
+                    "trace_code": "8926-2474-2"
+                },
+                {
+                    "sentence": "剩下的部分每1.08公尺剪成一段",
+                    "stype": "每單位量",
+                    "trace_code": "8926-2474-3"
+                },
+                {
+                    "sentence": "共可剪成多少段",
+                    "stype": "問分配",
+                    "trace_code": "8926-2474-4"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0160555",
+            "question": "一桶牛奶有69.9公升，分裝在每瓶容量1.625公升的瓶子裡，可以裝成幾瓶？還剩下多少公升？",
+            "fastype": "<UNK>",
+            "difficulty": {
+                "grade": "6",
+                "level": "中"
+            },
+            "answer": "43瓶;0.025公升",
+            "sentences": [
+                {
+                    "sentence": "一桶牛奶有69.9公升",
+                    "stype": "每單位量",
+                    "trace_code": "44-2491-1"
+                },
+                {
+                    "sentence": "分裝在每瓶容量1.625公升的瓶子裡",
+                    "stype": "每單位量",
+                    "trace_code": "44-2491-2"
+                },
+                {
+                    "sentence": "可以裝成幾瓶",
+                    "stype": "問分配",
+                    "trace_code": "44-2491-3"
+                }
+            ],
+            "followers": [
+                {
+                    "sentence": "還剩下多少公升",
+                    "stype": "問剩下",
+                    "trace_code": "44-2491-4"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0162062",
+            "question": "有1.12公斤的砂糖，每0.16公斤裝一包，全部可以裝成多少包？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "6",
+                "level": "中"
+            },
+            "answer": "7包",
+            "sentences": [
+                {
+                    "sentence": "有1.12公斤的砂糖",
+                    "stype": "有",
+                    "trace_code": "9073-2830-1"
+                },
+                {
+                    "sentence": "每0.16公斤裝一包",
+                    "stype": "每單位量",
+                    "trace_code": "9073-2830-2"
+                },
+                {
+                    "sentence": "全部可以裝成多少包",
+                    "stype": "問分配",
+                    "trace_code": "9073-2830-3"
+                }
+            ]
+        },
+
+        {
+            "qid": "61301",
+            "question": "675顆櫻桃，每45顆裝一盒，可裝幾盒？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "4",
+                "level": "易"
+            },
+            "answer": "15盒",
+            "sentences": [
+                {
+                    "sentence": "675顆櫻桃",
+                    "stype": "有",
+                    "trace_code": "4807-3376-1"
+                },
+                {
+                    "sentence": "每45顆裝一盒",
+                    "stype": "每單位量",
+                    "trace_code": "4807-3376-2"
+                },
+                {
+                    "sentence": "可裝幾盒",
+                    "stype": "問分配",
+                    "trace_code": "4807-3376-3"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0130976",
+            "question": "42顆花枝丸，6顆串成一串，可以串成幾串？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "3",
+                "level": "易"
+            },
+            "answer": "7串",
+            "sentences": [
+                {
+                    "sentence": "42顆花枝丸",
+                    "stype": "有",
+                    "trace_code": "1010-3454-1"
+                },
+                {
+                    "sentence": "6顆串成一串",
+                    "stype": "每單位量",
+                    "trace_code": "1010-3454-2"
+                },
+                {
+                    "sentence": "可以串成幾串",
+                    "stype": "問分配",
+                    "trace_code": "1010-3454-3"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0121161",
+            "question": "72人一起跳舞，每8人圍成一圈，可圍成幾圈？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "2",
+                "level": "中"
+            },
+            "answer": "9圈",
+            "sentences": [
+                {
+                    "sentence": "72人一起跳舞",
+                    "stype": "有",
+                    "trace_code": "1892-4333-1"
+                },
+                {
+                    "sentence": "每8人圍成一圈",
+                    "stype": "每單位量",
+                    "trace_code": "1892-4333-2"
+                },
+                {
+                    "sentence": "可圍成幾圈",
+                    "stype": "問分配",
+                    "trace_code": "1892-4333-3"
+                }
+            ]
+        },
+        {
+            "qid": "30879",
+            "question": "用減法算式把做法記下來：48位小朋友，每12位分成一隊，可以分成幾隊？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "2",
+                "level": "中"
+            },
+            "answer": "4隊",
+            "sentences": [
+                {
+                    "sentence": "用減法算式把做法記下來：48位小朋友",
+                    "stype": "有",
+                    "trace_code": "2693-4334-1"
+                },
+                {
+                    "sentence": "每12位分成一隊",
+                    "stype": "每單位量",
+                    "trace_code": "2693-4334-2"
+                },
+                {
+                    "sentence": "可以分成幾隊",
+                    "stype": "問分配",
+                    "trace_code": "2693-4334-3"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0121552",
+            "question": "64根香蕉，每8根裝一袋，可以裝成幾袋？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "2",
+                "level": "中"
+            },
+            "answer": "8袋",
+            "sentences": [
+                {
+                    "sentence": "64根香蕉",
+                    "stype": "有",
+                    "trace_code": "9784-4335-1"
+                },
+                {
+                    "sentence": "每8根裝一袋",
+                    "stype": "每單位量",
+                    "trace_code": "9784-4335-2"
+                },
+                {
+                    "sentence": "可以裝成幾袋",
+                    "stype": "問分配",
+                    "trace_code": "9784-4335-3"
+                }
+            ]
+        },
+        {
+            "qid": "31608",
+            "question": "用乘法算算看：30顆章魚燒，每6顆裝成一盒，可裝成幾盒？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "2",
+                "level": "中"
+            },
+            "answer": "5盒",
+            "sentences": [
+                {
+                    "sentence": "用乘法算算看：30顆章魚燒",
+                    "stype": "有",
+                    "trace_code": "11036-4340-1"
+                },
+                {
+                    "sentence": "每6顆裝成一盒",
+                    "stype": "每單位量",
+                    "trace_code": "11036-4340-2"
+                },
+                {
+                    "sentence": "可裝成幾盒",
+                    "stype": "問分配",
+                    "trace_code": "11036-4340-3"
+                }
+            ]
+        },
+        {
+            "qid": "32076",
+            "question": "用乘法算算看：30顆葡萄，每6顆裝一盤，可以裝成幾盤？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "2",
+                "level": "中"
+            },
+            "answer": "5盤",
+            "sentences": [
+                {
+                    "sentence": "用乘法算算看：30顆葡萄",
+                    "stype": "有",
+                    "trace_code": "11057-4341-1"
+                },
+                {
+                    "sentence": "每6顆裝一盤",
+                    "stype": "每單位量",
+                    "trace_code": "11057-4341-2"
+                },
+                {
+                    "sentence": "可以裝成幾盤",
+                    "stype": "問分配",
+                    "trace_code": "11057-4341-3"
+                }
+            ]
+        },
+        {
+            "qid": "31875",
+            "question": "用乘法算式把做法記下來：81位小朋友，每9位分成一組，可分成幾組？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "2",
+                "level": "中"
+            },
+            "answer": "9組",
+            "sentences": [
+                {
+                    "sentence": "用乘法算式把做法記下來：81位小朋友",
+                    "stype": "有",
+                    "trace_code": "2741-4345-1"
+                },
+                {
+                    "sentence": "每9位分成一組",
+                    "stype": "每單位量",
+                    "trace_code": "2741-4345-2"
+                },
+                {
+                    "sentence": "可分成幾組",
+                    "stype": "問分配",
+                    "trace_code": "2741-4345-3"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0121190",
+            "question": "56公分的綵帶，每8公分剪成一段，可以剪成幾段？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "2",
+                "level": "中"
+            },
+            "answer": "7段",
+            "sentences": [
+                {
+                    "sentence": "56公分的綵帶",
+                    "stype": "有",
+                    "trace_code": "9705-4347-1"
+                },
+                {
+                    "sentence": "每8公分剪成一段",
+                    "stype": "每單位量",
+                    "trace_code": "9705-4347-2"
+                },
+                {
+                    "sentence": "可以剪成幾段",
+                    "stype": "問分配",
+                    "trace_code": "9705-4347-3"
+                }
+            ]
+        },
+        {
+            "qid": "31621",
+            "question": "用乘法算式把做法記下來：60顆雞蛋，每10顆裝成一盒，可裝成幾盒？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "2",
+                "level": "中"
+            },
+            "answer": "6盒",
+            "sentences": [
+                {
+                    "sentence": "用乘法算式把做法記下來：60顆雞蛋",
+                    "stype": "有",
+                    "trace_code": "2731-4349-1"
+                },
+                {
+                    "sentence": "每10顆裝成一盒",
+                    "stype": "每單位量",
+                    "trace_code": "2731-4349-2"
+                },
+                {
+                    "sentence": "可裝成幾盒",
+                    "stype": "問分配",
+                    "trace_code": "2731-4349-3"
+                }
+            ]
+        },
+        {
+            "qid": "31620",
+            "question": "用乘法算式把做法記下來：70朵花，每10朵綁成一束，可綁成幾束？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "2",
+                "level": "中"
+            },
+            "answer": "7束",
+            "sentences": [
+                {
+                    "sentence": "用乘法算式把做法記下來：70朵花",
+                    "stype": "有",
+                    "trace_code": "2730-4354-1"
+                },
+                {
+                    "sentence": "每10朵綁成一束",
+                    "stype": "每單位量",
+                    "trace_code": "2730-4354-2"
+                },
+                {
+                    "sentence": "可綁成幾束",
+                    "stype": "問分配",
+                    "trace_code": "2730-4354-3"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0120952",
+            "question": "媽媽買了5顆西瓜，1顆西瓜分成8片，一共分成多少片西瓜？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "2",
+                "level": "中"
+            },
+            "answer": "40片",
+            "sentences": [
+                {
+                    "sentence": "媽媽買了5顆西瓜",
+                    "stype": "量變",
+                    "trace_code": "2310-4365-1"
+                },
+                {
+                    "sentence": "1顆西瓜分成8片",
+                    "stype": "每單位量",
+                    "trace_code": "2310-4365-2"
+                },
+                {
+                    "sentence": "一共分成多少片西瓜",
+                    "stype": "問分配",
+                    "trace_code": "2310-4365-3"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0121197",
+            "question": "25粒丸子，每5粒串成一串，共可以串成幾串？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "2",
+                "level": "中"
+            },
+            "answer": "5串",
+            "sentences": [
+                {
+                    "sentence": "25粒丸子",
+                    "stype": "有",
+                    "trace_code": "14-4368-1"
+                },
+                {
+                    "sentence": "每5粒串成一串",
+                    "stype": "每單位量",
+                    "trace_code": "14-4368-2"
+                },
+                {
+                    "sentence": "共可以串成幾串",
+                    "stype": "問分配",
+                    "trace_code": "14-4368-3"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0121199",
+            "question": "20顆番茄，每人分4顆，一共可以分給幾人？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "2",
+                "level": "中"
+            },
+            "answer": "5人",
+            "sentences": [
+                {
+                    "sentence": "20顆番茄",
+                    "stype": "有",
+                    "trace_code": "9707-4369-1"
+                },
+                {
+                    "sentence": "每人分4顆",
+                    "stype": "每單位量",
+                    "trace_code": "9707-4369-2"
+                },
+                {
+                    "sentence": "一共可以分給幾人",
+                    "stype": "問分配",
+                    "trace_code": "9707-4369-3"
+                }
+            ]
+        },
+        {
+            "qid": "30900",
+            "question": "寫出乘法算式做做看：42枝鉛筆，每6枝裝成一袋，可以裝成幾袋？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "2",
+                "level": "中"
+            },
+            "answer": "7袋",
+            "sentences": [
+                {
+                    "sentence": "寫出乘法算式做做看：42枝鉛筆",
+                    "stype": "有",
+                    "trace_code": "2719-4370-1"
+                },
+                {
+                    "sentence": "每6枝裝成一袋",
+                    "stype": "每單位量",
+                    "trace_code": "2719-4370-2"
+                },
+                {
+                    "sentence": "可以裝成幾袋",
+                    "stype": "問分配",
+                    "trace_code": "2719-4370-3"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0121157",
+            "question": "老師有45枝鉛筆，送給小朋友每人5枝，可以送給幾個小朋友？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "2",
+                "level": "中"
+            },
+            "answer": "9個",
+            "sentences": [
+                {
+                    "sentence": "老師有45枝鉛筆",
+                    "stype": "有",
+                    "trace_code": "1891-4373-1"
+                },
+                {
+                    "sentence": "送給小朋友每人5枝",
+                    "stype": "量變",
+                    "trace_code": "1891-4373-2"
+                },
+                {
+                    "sentence": "可以送給幾個小朋友",
+                    "stype": "問分配",
+                    "trace_code": "1891-4373-3"
+                }
+            ]
+        },
+        {
+            "qid": "31618",
+            "question": "用乘法算式把做法記下來：40個餐包，每8個裝成一包，可裝成幾包？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "2",
+                "level": "中"
+            },
+            "answer": "5包",
+            "sentences": [
+                {
+                    "sentence": "用乘法算式把做法記下來：40個餐包",
+                    "stype": "有",
+                    "trace_code": "11042-4374-1"
+                },
+                {
+                    "sentence": "每8個裝成一包",
+                    "stype": "每單位量",
+                    "trace_code": "11042-4374-2"
+                },
+                {
+                    "sentence": "可裝成幾包",
+                    "stype": "問分配",
+                    "trace_code": "11042-4374-3"
+                }
+            ]
+        },
+        {
+            "qid": "31863",
+            "question": "用乘法算算看：21顆橘子，每3顆裝成一包，可裝成幾包？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "2",
+                "level": "中"
+            },
+            "answer": "7包",
+            "sentences": [
+                {
+                    "sentence": "用乘法算算看：21顆橘子",
+                    "stype": "有",
+                    "trace_code": "2734-4377-1"
+                },
+                {
+                    "sentence": "每3顆裝成一包",
+                    "stype": "每單位量",
+                    "trace_code": "2734-4377-2"
+                },
+                {
+                    "sentence": "可裝成幾包",
+                    "stype": "問分配",
+                    "trace_code": "2734-4377-3"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0121195",
+            "question": "27片甜不辣，每3片串成一串，共可串成幾串？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "2",
+                "level": "中"
+            },
+            "answer": "9串",
+            "sentences": [
+                {
+                    "sentence": "27片甜不辣",
+                    "stype": "有",
+                    "trace_code": "1912-4378-1"
+                },
+                {
+                    "sentence": "每3片串成一串",
+                    "stype": "每單位量",
+                    "trace_code": "1912-4378-2"
+                },
+                {
+                    "sentence": "共可串成幾串",
+                    "stype": "問分配",
+                    "trace_code": "1912-4378-3"
+                }
+            ]
+        },
+        {
+            "qid": "32077",
+            "question": "用乘法算算看：49枚硬幣，每7枚疊成一排，可以疊成幾排？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "2",
+                "level": "中"
+            },
+            "answer": "7排",
+            "sentences": [
+                {
+                    "sentence": "用乘法算算看：49枚硬幣",
+                    "stype": "有",
+                    "trace_code": "11058-4385-1"
+                },
+                {
+                    "sentence": "每7枚疊成一排",
+                    "stype": "每單位量",
+                    "trace_code": "11058-4385-2"
+                },
+                {
+                    "sentence": "可以疊成幾排",
+                    "stype": "問分配",
+                    "trace_code": "11058-4385-3"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0121270",
+            "question": "有54張卡片，每人給9張，一共可以分給幾人？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "2",
+                "level": "中"
+            },
+            "answer": "6人",
+            "sentences": [
+                {
+                    "sentence": "有54張卡片",
+                    "stype": "有",
+                    "trace_code": "1927-4388-1"
+                },
+                {
+                    "sentence": "每人給9張",
+                    "stype": "每單位量",
+                    "trace_code": "1927-4388-2"
+                },
+                {
+                    "sentence": "一共可以分給幾人",
+                    "stype": "問分配",
+                    "trace_code": "1927-4388-3"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0121196",
+            "question": "16個雞屁股，每4個串成一串，共可串成幾串？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "2",
+                "level": "中"
+            },
+            "answer": "4串",
+            "sentences": [
+                {
+                    "sentence": "16個雞屁股",
+                    "stype": "有",
+                    "trace_code": "1913-4391-1"
+                },
+                {
+                    "sentence": "每4個串成一串",
+                    "stype": "每單位量",
+                    "trace_code": "1913-4391-2"
+                },
+                {
+                    "sentence": "共可串成幾串",
+                    "stype": "問分配",
+                    "trace_code": "1913-4391-3"
+                }
+            ]
+        },
+        {
+            "qid": "30907",
+            "question": "寫出乘法算式做做看：49顆乒乓球，每7顆裝成一袋，可以裝成幾袋？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "2",
+                "level": "中"
+            },
+            "answer": "7袋",
+            "sentences": [
+                {
+                    "sentence": "寫出乘法算式做做看：49顆乒乓球",
+                    "stype": "有",
+                    "trace_code": "2723-4392-1"
+                },
+                {
+                    "sentence": "每7顆裝成一袋",
+                    "stype": "每單位量",
+                    "trace_code": "2723-4392-2"
+                },
+                {
+                    "sentence": "可以裝成幾袋",
+                    "stype": "問分配",
+                    "trace_code": "2723-4392-3"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0121171",
+            "question": "如森烤了45片餅乾，每5片裝1盤，一共可以裝幾盤？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "2",
+                "level": "中"
+            },
+            "answer": "9盤",
+            "sentences": [
+                {
+                    "sentence": "如森烤了45片餅乾",
+                    "stype": "量變",
+                    "trace_code": "9696-4393-1"
+                },
+                {
+                    "sentence": "每5片裝1盤",
+                    "stype": "每單位量",
+                    "trace_code": "9696-4393-2"
+                },
+                {
+                    "sentence": "一共可以裝幾盤",
+                    "stype": "問分配",
+                    "trace_code": "9696-4393-3"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0121175",
+            "question": "有36枝鉛筆，每9枝裝1盒，可以裝成幾盒？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "2",
+                "level": "中"
+            },
+            "answer": "4盒",
+            "sentences": [
+                {
+                    "sentence": "有36枝鉛筆",
+                    "stype": "有",
+                    "trace_code": "1900-4394-1"
+                },
+                {
+                    "sentence": "每9枝裝1盒",
+                    "stype": "每單位量",
+                    "trace_code": "1900-4394-2"
+                },
+                {
+                    "sentence": "可以裝成幾盒",
+                    "stype": "問分配",
+                    "trace_code": "1900-4394-3"
+                }
+            ]
+        },
+        {
+            "qid": "31619",
+            "question": "用乘法算式把做法記下來：50朵花，每10朵綁成一束，可綁成幾束？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "2",
+                "level": "中"
+            },
+            "answer": "5束",
+            "sentences": [
+                {
+                    "sentence": "用乘法算式把做法記下來：50朵花",
+                    "stype": "有",
+                    "trace_code": "11043-4398-1"
+                },
+                {
+                    "sentence": "每10朵綁成一束",
+                    "stype": "每單位量",
+                    "trace_code": "11043-4398-2"
+                },
+                {
+                    "sentence": "可綁成幾束",
+                    "stype": "問分配",
+                    "trace_code": "11043-4398-3"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0140124",
+            "question": "有60公升的紅茶，每150毫升裝成一杯，全部可以裝成多少杯？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "4",
+                "level": "難"
+            },
+            "answer": "400杯",
+            "sentences": [
+                {
+                    "sentence": "有60公升的紅茶",
+                    "stype": "有",
+                    "trace_code": "4190-4429-1"
+                },
+                {
+                    "sentence": "每150毫升裝成一杯",
+                    "stype": "每單位量",
+                    "trace_code": "4190-4429-2"
+                },
+                {
+                    "sentence": "全部可以裝成多少杯",
+                    "stype": "問分配",
+                    "trace_code": "4190-4429-3"
+                }
+            ]
+        },
+        {
+            "qid": "30906",
+            "question": "寫出乘法算式：20瓶鮮奶，平分給10個小朋友，每個小朋友可以分到幾瓶鮮奶？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "2",
+                "level": "中"
+            },
+            "answer": "2瓶",
+            "sentences": [
+                {
+                    "sentence": "寫出乘法算式：20瓶鮮奶",
+                    "stype": "有",
+                    "trace_code": "11027-4473-1"
+                },
+                {
+                    "sentence": "平分給10個小朋友",
+                    "stype": "平分",
+                    "trace_code": "11027-4473-2"
+                },
+                {
+                    "sentence": "每個小朋友可以分到幾瓶鮮奶",
+                    "stype": "問分配",
+                    "trace_code": "11027-4473-3"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0121267",
+            "question": "有一條42公分長的彩帶，每6公分剪成一段，一共可以剪成幾段？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "2",
+                "level": "中"
+            },
+            "answer": "7段",
+            "sentences": [
+                {
+                    "sentence": "有一條42公分長的彩帶",
+                    "stype": "有",
+                    "trace_code": "1924-4552-1"
+                },
+                {
+                    "sentence": "每6公分剪成一段",
+                    "stype": "每單位量",
+                    "trace_code": "1924-4552-2"
+                },
+                {
+                    "sentence": "一共可以剪成幾段",
+                    "stype": "問分配",
+                    "trace_code": "1924-4552-3"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0122040",
+            "question": "有16枝筷子，每2枝配成一雙，可以配成幾雙？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "2",
+                "level": "中"
+            },
+            "answer": "8雙",
+            "sentences": [
+                {
+                    "sentence": "有16枝筷子",
+                    "stype": "有",
+                    "trace_code": "9873-4587-1"
+                },
+                {
+                    "sentence": "每2枝配成一雙",
+                    "stype": "每單位量",
+                    "trace_code": "9873-4587-2"
+                },
+                {
+                    "sentence": "可以配成幾雙",
+                    "stype": "問分配",
+                    "trace_code": "9873-4587-3"
+                }
+            ]
+        },
+        {
+            "qid": "30910",
+            "question": "寫出乘法算式做做看：24個小朋友，每6個分成一組，可以分成幾組？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "2",
+                "level": "中"
+            },
+            "answer": "4組",
+            "sentences": [
+                {
+                    "sentence": "寫出乘法算式做做看：24個小朋友",
+                    "stype": "有",
+                    "trace_code": "11029-4636-1"
+                },
+                {
+                    "sentence": "每6個分成一組",
+                    "stype": "每單位量",
+                    "trace_code": "11029-4636-2"
+                },
+                {
+                    "sentence": "可以分成幾組",
+                    "stype": "問分配",
+                    "trace_code": "11029-4636-3"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0121746",
+            "question": "35個小朋友分組遊戲，每7個人組成一隊，共可以分成幾隊？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "2",
+                "level": "中"
+            },
+            "answer": "5隊",
+            "sentences": [
+                {
+                    "sentence": "35個小朋友分組遊戲",
+                    "stype": "有",
+                    "trace_code": "1970-4656-1"
+                },
+                {
+                    "sentence": "每7個人組成一隊",
+                    "stype": "每單位量",
+                    "trace_code": "1970-4656-2"
+                },
+                {
+                    "sentence": "共可以分成幾隊",
+                    "stype": "問分配",
+                    "trace_code": "1970-4656-3"
+                }
+            ]
+        },
+        {
+            "qid": "31617",
+            "question": "用乘法算式把做法記下來：56個餐包，每7個裝成一包，可裝成幾包？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "2",
+                "level": "中"
+            },
+            "answer": "8包",
+            "sentences": [
+                {
+                    "sentence": "用乘法算式把做法記下來：56個餐包",
+                    "stype": "有",
+                    "trace_code": "11041-4674-1"
+                },
+                {
+                    "sentence": "每7個裝成一包",
+                    "stype": "每單位量",
+                    "trace_code": "11041-4674-2"
+                },
+                {
+                    "sentence": "可裝成幾包",
+                    "stype": "問分配",
+                    "trace_code": "11041-4674-3"
+                }
+            ]
+        },
+        {
+            "qid": "31626",
+            "question": "用乘法算式把做法記下來：81條毛巾，每9條裝成一袋，可裝成幾袋？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "2",
+                "level": "中"
+            },
+            "answer": "9袋",
+            "sentences": [
+                {
+                    "sentence": "用乘法算式把做法記下來：81條毛巾",
+                    "stype": "有",
+                    "trace_code": "11047-4679-1"
+                },
+                {
+                    "sentence": "每9條裝成一袋",
+                    "stype": "每單位量",
+                    "trace_code": "11047-4679-2"
+                },
+                {
+                    "sentence": "可裝成幾袋",
+                    "stype": "問分配",
+                    "trace_code": "11047-4679-3"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0121182",
+            "question": "有42個小朋友參加合唱團表演，每6人排成一列，一共可以排成幾列？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "2",
+                "level": "中"
+            },
+            "answer": "7列",
+            "sentences": [
+                {
+                    "sentence": "有42個小朋友參加合唱團表演",
+                    "stype": "有",
+                    "trace_code": "1904-4715-1"
+                },
+                {
+                    "sentence": "每6人排成一列",
+                    "stype": "每單位量",
+                    "trace_code": "1904-4715-2"
+                },
+                {
+                    "sentence": "一共可以排成幾列",
+                    "stype": "問分配",
+                    "trace_code": "1904-4715-3"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0121176",
+            "question": "有30個果凍，每6個裝1盤，可以裝成幾盤果凍？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "2",
+                "level": "中"
+            },
+            "answer": "5盤",
+            "sentences": [
+                {
+                    "sentence": "有30個果凍",
+                    "stype": "有",
+                    "trace_code": "1901-4779-1"
+                },
+                {
+                    "sentence": "每6個裝1盤",
+                    "stype": "每單位量",
+                    "trace_code": "1901-4779-2"
+                },
+                {
+                    "sentence": "可以裝成幾盤果凍",
+                    "stype": "問分配",
+                    "trace_code": "1901-4779-3"
+                }
+            ]
+        },
+        {
+            "qid": "31865",
+            "question": "用乘法算算看：64張相片，每8張裝成一頁，可裝成幾頁？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "2",
+                "level": "中"
+            },
+            "answer": "8頁",
+            "sentences": [
+                {
+                    "sentence": "用乘法算算看：64張相片",
+                    "stype": "有",
+                    "trace_code": "11051-4810-1"
+                },
+                {
+                    "sentence": "每8張裝成一頁",
+                    "stype": "每單位量",
+                    "trace_code": "11051-4810-2"
+                },
+                {
+                    "sentence": "可裝成幾頁",
+                    "stype": "問分配",
+                    "trace_code": "11051-4810-3"
+                }
+            ]
+        },
+        {
+            "qid": "31906",
+            "question": "30顆蘋果，每3顆裝成一盤，可裝成幾盤？剩下幾顆？",
+            "fastype": "<UNK>",
+            "difficulty": {
+                "grade": "2",
+                "level": "中"
+            },
+            "answer": "10盤;0顆",
+            "sentences": [
+                {
+                    "sentence": "30顆蘋果",
+                    "stype": "有",
+                    "trace_code": "2888-4816-1"
+                },
+                {
+                    "sentence": "每3顆裝成一盤",
+                    "stype": "每單位量",
+                    "trace_code": "2888-4816-2"
+                },
+                {
+                    "sentence": "可裝成幾盤",
+                    "stype": "問分配",
+                    "trace_code": "2888-4816-3"
+                }
+            ],
+            "followers": [
+                {
+                    "sentence": "剩下幾顆",
+                    "stype": "問剩下",
+                    "trace_code": "2888-4816-4"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0121271",
+            "question": "有一本56頁的故事書，每天看7頁，可以分成幾天看完？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "2",
+                "level": "中"
+            },
+            "answer": "8天",
+            "sentences": [
+                {
+                    "sentence": "有一本56頁的故事書",
+                    "stype": "有",
+                    "trace_code": "9737-4840-1"
+                },
+                {
+                    "sentence": "每天看7頁",
+                    "stype": "每單位量",
+                    "trace_code": "9737-4840-2"
+                },
+                {
+                    "sentence": "可以分成幾天看完",
+                    "stype": "問分配",
+                    "trace_code": "9737-4840-3"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0121549",
+            "question": "有60朵花，每10朵紮成一束，可以紮成幾束？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "2",
+                "level": "中"
+            },
+            "answer": "6束",
+            "sentences": [
+                {
+                    "sentence": "有60朵花",
+                    "stype": "有",
+                    "trace_code": "9781-4849-1"
+                },
+                {
+                    "sentence": "每10朵紮成一束",
+                    "stype": "每單位量",
+                    "trace_code": "9781-4849-2"
+                },
+                {
+                    "sentence": "可以紮成幾束",
+                    "stype": "問分配",
+                    "trace_code": "9781-4849-3"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0121264",
+            "question": "把36顆草莓平分給4人，每人可以分到幾顆草莓？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "2",
+                "level": "中"
+            },
+            "answer": "9顆",
+            "sentences": [
+                {
+                    "sentence": "把36顆草莓平分給4人",
+                    "stype": "每單位量",
+                    "trace_code": "1922-4854-1"
+                },
+                {
+                    "sentence": "每人可以分到幾顆草莓",
+                    "stype": "問分配",
+                    "trace_code": "1922-4854-2"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0121163",
+            "question": "媽媽做了56個包子，每7個裝一盤，可裝成幾盤？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "2",
+                "level": "中"
+            },
+            "answer": "8盤",
+            "sentences": [
+                {
+                    "sentence": "媽媽做了56個包子",
+                    "stype": "量變",
+                    "trace_code": "9694-4869-1"
+                },
+                {
+                    "sentence": "每7個裝一盤",
+                    "stype": "每單位量",
+                    "trace_code": "9694-4869-2"
+                },
+                {
+                    "sentence": "可裝成幾盤",
+                    "stype": "問分配",
+                    "trace_code": "9694-4869-3"
+                }
+            ]
+        },
+        {
+            "qid": "30897",
+            "question": "寫出乘法算式做做看：45顆糖果，平分給9個小朋友，每個小朋友可以分到幾顆糖果？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "2",
+                "level": "中"
+            },
+            "answer": "5顆",
+            "sentences": [
+                {
+                    "sentence": "寫出乘法算式做做看：45顆糖果",
+                    "stype": "有",
+                    "trace_code": "2716-4903-1"
+                },
+                {
+                    "sentence": "平分給9個小朋友",
+                    "stype": "平分",
+                    "trace_code": "2716-4903-2"
+                },
+                {
+                    "sentence": "每個小朋友可以分到幾顆糖果",
+                    "stype": "問分配",
+                    "trace_code": "2716-4903-3"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0121208",
+            "question": "20個番茄，每人給4個，一共可以分給幾人？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "2",
+                "level": "中"
+            },
+            "answer": "5人",
+            "sentences": [
+                {
+                    "sentence": "20個番茄",
+                    "stype": "有",
+                    "trace_code": "9710-4907-1"
+                },
+                {
+                    "sentence": "每人給4個",
+                    "stype": "每單位量",
+                    "trace_code": "9710-4907-2"
+                },
+                {
+                    "sentence": "一共可以分給幾人",
+                    "stype": "問分配",
+                    "trace_code": "9710-4907-3"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0121156",
+            "question": "小傑摺了48隻紙鶴，每6隻串在一起，可以串成幾串？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "2",
+                "level": "中"
+            },
+            "answer": "8串",
+            "sentences": [
+                {
+                    "sentence": "小傑摺了48隻紙鶴",
+                    "stype": "量變",
+                    "trace_code": "9690-4910-1"
+                },
+                {
+                    "sentence": "每6隻串在一起",
+                    "stype": "每單位量",
+                    "trace_code": "9690-4910-2"
+                },
+                {
+                    "sentence": "可以串成幾串",
+                    "stype": "問分配",
+                    "trace_code": "9690-4910-3"
+                }
+            ]
+        },
+        {
+            "qid": "31606",
+            "question": "用乘法算算看：56顆蘋果，每7顆裝成一盒，可裝成多少盒？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "2",
+                "level": "中"
+            },
+            "answer": "8盒",
+            "sentences": [
+                {
+                    "sentence": "用乘法算算看：56顆蘋果",
+                    "stype": "有",
+                    "trace_code": "11034-4917-1"
+                },
+                {
+                    "sentence": "每7顆裝成一盒",
+                    "stype": "每單位量",
+                    "trace_code": "11034-4917-2"
+                },
+                {
+                    "sentence": "可裝成多少盒",
+                    "stype": "問分配",
+                    "trace_code": "11034-4917-3"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0121729",
+            "question": "有32枝吸管，每8枝綁成一束，可以綁成幾束？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "2",
+                "level": "中"
+            },
+            "answer": "4束",
+            "sentences": [
+                {
+                    "sentence": "有32枝吸管",
+                    "stype": "有",
+                    "trace_code": "9815-4930-1"
+                },
+                {
+                    "sentence": "每8枝綁成一束",
+                    "stype": "每單位量",
+                    "trace_code": "9815-4930-2"
+                },
+                {
+                    "sentence": "可以綁成幾束",
+                    "stype": "問分配",
+                    "trace_code": "9815-4930-3"
+                }
+            ]
+        },
+        {
+            "qid": "32075",
+            "question": "用乘法算算看：56個芋圓，每8個裝一碗，可以裝成幾碗？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "2",
+                "level": "中"
+            },
+            "answer": "7碗",
+            "sentences": [
+                {
+                    "sentence": "用乘法算算看：56個芋圓",
+                    "stype": "有",
+                    "trace_code": "11056-4959-1"
+                },
+                {
+                    "sentence": "每8個裝一碗",
+                    "stype": "每單位量",
+                    "trace_code": "11056-4959-2"
+                },
+                {
+                    "sentence": "可以裝成幾碗",
+                    "stype": "問分配",
+                    "trace_code": "11056-4959-3"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0121189",
+            "question": "36瓶飲料，每9瓶放成一堆，可以放成幾堆？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "2",
+                "level": "中"
+            },
+            "answer": "4堆",
+            "sentences": [
+                {
+                    "sentence": "36瓶飲料",
+                    "stype": "有",
+                    "trace_code": "9704-4973-1"
+                },
+                {
+                    "sentence": "每9瓶放成一堆",
+                    "stype": "每單位量",
+                    "trace_code": "9704-4973-2"
+                },
+                {
+                    "sentence": "可以放成幾堆",
+                    "stype": "問分配",
+                    "trace_code": "9704-4973-3"
+                }
+            ]
+        },
+        {
+            "qid": "30898",
+            "question": "寫出乘法算式做做看：32瓶鮮奶，平分給4個小朋友，每個小朋友可以分到幾瓶鮮奶？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "2",
+                "level": "中"
+            },
+            "answer": "8瓶",
+            "sentences": [
+                {
+                    "sentence": "寫出乘法算式做做看：32瓶鮮奶",
+                    "stype": "有",
+                    "trace_code": "2717-4980-1"
+                },
+                {
+                    "sentence": "平分給4個小朋友",
+                    "stype": "平分",
+                    "trace_code": "2717-4980-2"
+                },
+                {
+                    "sentence": "每個小朋友可以分到幾瓶鮮奶",
+                    "stype": "問分配",
+                    "trace_code": "2717-4980-3"
+                }
+            ]
+        },
+        {
+            "qid": "30902",
+            "question": "寫出乘法算式做做看：48個小朋友，每8個分成一組，可以分成幾組？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "2",
+                "level": "中"
+            },
+            "answer": "6組",
+            "sentences": [
+                {
+                    "sentence": "寫出乘法算式做做看：48個小朋友",
+                    "stype": "有",
+                    "trace_code": "2721-4989-1"
+                },
+                {
+                    "sentence": "每8個分成一組",
+                    "stype": "每單位量",
+                    "trace_code": "2721-4989-2"
+                },
+                {
+                    "sentence": "可以分成幾組",
+                    "stype": "問分配",
+                    "trace_code": "2721-4989-3"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0121269",
+            "question": "有35顆糖果，每人分5顆，一共可以分給幾人？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "2",
+                "level": "中"
+            },
+            "answer": "7人",
+            "sentences": [
+                {
+                    "sentence": "有35顆糖果",
+                    "stype": "有",
+                    "trace_code": "1926-5037-1"
+                },
+                {
+                    "sentence": "每人分5顆",
+                    "stype": "每單位量",
+                    "trace_code": "1926-5037-2"
+                },
+                {
+                    "sentence": "一共可以分給幾人",
+                    "stype": "問分配",
+                    "trace_code": "1926-5037-3"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0121194",
+            "question": "汽水一箱裝8瓶，48瓶汽水，一共可以裝幾箱？",
+            "fastype": "問單位量",
+            "difficulty": {
+                "grade": "2",
+                "level": "中"
+            },
+            "answer": "6箱",
+            "sentences": [
+                {
+                    "sentence": "汽水一箱裝8瓶",
+                    "stype": "每單位量",
+                    "trace_code": "9706-5038-1"
+                },
+                {
+                    "sentence": "48瓶汽水",
+                    "stype": "有",
+                    "trace_code": "9706-5038-2"
+                },
+                {
+                    "sentence": "一共可以裝幾箱",
+                    "stype": "問分配",
+                    "trace_code": "9706-5038-3"
+                }
+            ]
+        },
+        {
+            "qid": "30884",
+            "question": "用減法算式把做法記下來：45顆巧克力，每9顆裝成一盒，可以裝成幾盒？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "2",
+                "level": "中"
+            },
+            "answer": "5盒",
+            "sentences": [
+                {
+                    "sentence": "用減法算式把做法記下來：45顆巧克力",
+                    "stype": "有",
+                    "trace_code": "2696-5045-1"
+                },
+                {
+                    "sentence": "每9顆裝成一盒",
+                    "stype": "每單位量",
+                    "trace_code": "2696-5045-2"
+                },
+                {
+                    "sentence": "可以裝成幾盒",
+                    "stype": "問分配",
+                    "trace_code": "2696-5045-3"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0121550",
+            "question": "48個果凍，每8個裝一袋，可以裝成幾袋？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "2",
+                "level": "中"
+            },
+            "answer": "6袋",
+            "sentences": [
+                {
+                    "sentence": "48個果凍",
+                    "stype": "有",
+                    "trace_code": "9782-5060-1"
+                },
+                {
+                    "sentence": "每8個裝一袋",
+                    "stype": "每單位量",
+                    "trace_code": "9782-5060-2"
+                },
+                {
+                    "sentence": "可以裝成幾袋",
+                    "stype": "問分配",
+                    "trace_code": "9782-5060-3"
+                }
+            ]
+        },
+        {
+            "qid": "32180",
+            "question": "用算式把做法記下來：48張卡紙，每8張裝成一包，可裝成幾包？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "2",
+                "level": "中"
+            },
+            "answer": "6包",
+            "sentences": [
+                {
+                    "sentence": "用算式把做法記下來：48張卡紙",
+                    "stype": "有",
+                    "trace_code": "11064-5074-1"
+                },
+                {
+                    "sentence": "每8張裝成一包",
+                    "stype": "每單位量",
+                    "trace_code": "11064-5074-2"
+                },
+                {
+                    "sentence": "可裝成幾包",
+                    "stype": "問分配",
+                    "trace_code": "11064-5074-3"
+                }
+            ]
+        },
+        {
+            "qid": "31622",
+            "question": "用乘法算式把做法記下來：80顆雞蛋，每10顆裝成一盒，可裝成幾盒？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "2",
+                "level": "中"
+            },
+            "answer": "8盒",
+            "sentences": [
+                {
+                    "sentence": "用乘法算式把做法記下來：80顆雞蛋",
+                    "stype": "有",
+                    "trace_code": "11044-5080-1"
+                },
+                {
+                    "sentence": "每10顆裝成一盒",
+                    "stype": "每單位量",
+                    "trace_code": "11044-5080-2"
+                },
+                {
+                    "sentence": "可裝成幾盒",
+                    "stype": "問分配",
+                    "trace_code": "11044-5080-3"
+                }
+            ]
+        },
+        {
+            "qid": "31877",
+            "question": "用乘法算式把做法記下來：48個墊板，每8個疊成一排，共可疊成幾排？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "2",
+                "level": "中"
+            },
+            "answer": "6排",
+            "sentences": [
+                {
+                    "sentence": "用乘法算式把做法記下來：48個墊板",
+                    "stype": "有",
+                    "trace_code": "2743-5112-1"
+                },
+                {
+                    "sentence": "每8個疊成一排",
+                    "stype": "每單位量",
+                    "trace_code": "2743-5112-2"
+                },
+                {
+                    "sentence": "共可疊成幾排",
+                    "stype": "問分配",
+                    "trace_code": "2743-5112-3"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0121732",
+            "question": "全班有學生32人，每4人分成一組，共可分成幾組？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "2",
+                "level": "中"
+            },
+            "answer": "8組",
+            "sentences": [
+                {
+                    "sentence": "全班有學生32人",
+                    "stype": "有",
+                    "trace_code": "9817-5130-1"
+                },
+                {
+                    "sentence": "每4人分成一組",
+                    "stype": "每單位量",
+                    "trace_code": "9817-5130-2"
+                },
+                {
+                    "sentence": "共可分成幾組",
+                    "stype": "問分配",
+                    "trace_code": "9817-5130-3"
+                }
+            ]
+        },
+        {
+            "qid": "31616",
+            "question": "用乘法算式把做法記下來：28盒鮮奶，每4盒裝成一組，可裝成幾組？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "2",
+                "level": "中"
+            },
+            "answer": "7組",
+            "sentences": [
+                {
+                    "sentence": "用乘法算式把做法記下來：28盒鮮奶",
+                    "stype": "有",
+                    "trace_code": "11040-5139-1"
+                },
+                {
+                    "sentence": "每4盒裝成一組",
+                    "stype": "每單位量",
+                    "trace_code": "11040-5139-2"
+                },
+                {
+                    "sentence": "可裝成幾組",
+                    "stype": "問分配",
+                    "trace_code": "11040-5139-3"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0121169",
+            "question": "有18個木雕，每3個裝1袋，可以裝成幾袋？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "2",
+                "level": "中"
+            },
+            "answer": "6袋",
+            "sentences": [
+                {
+                    "sentence": "有18個木雕",
+                    "stype": "有",
+                    "trace_code": "1897-5142-1"
+                },
+                {
+                    "sentence": "每3個裝1袋",
+                    "stype": "每單位量",
+                    "trace_code": "1897-5142-2"
+                },
+                {
+                    "sentence": "可以裝成幾袋",
+                    "stype": "問分配",
+                    "trace_code": "1897-5142-3"
+                }
+            ]
+        },
+        {
+            "qid": "31609",
+            "question": "用乘法算算看：72顆乒乓球，每9顆裝成一袋，可裝成多少袋？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "2",
+                "level": "中"
+            },
+            "answer": "8袋",
+            "sentences": [
+                {
+                    "sentence": "用乘法算算看：72顆乒乓球",
+                    "stype": "有",
+                    "trace_code": "11037-5174-1"
+                },
+                {
+                    "sentence": "每9顆裝成一袋",
+                    "stype": "每單位量",
+                    "trace_code": "11037-5174-2"
+                },
+                {
+                    "sentence": "可裝成多少袋",
+                    "stype": "問分配",
+                    "trace_code": "11037-5174-3"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0121551",
+            "question": "56片口香糖，每7片裝一包，可以裝成幾包？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "2",
+                "level": "中"
+            },
+            "answer": "8包",
+            "sentences": [
+                {
+                    "sentence": "56片口香糖",
+                    "stype": "有",
+                    "trace_code": "9783-5185-1"
+                },
+                {
+                    "sentence": "每7片裝一包",
+                    "stype": "每單位量",
+                    "trace_code": "9783-5185-2"
+                },
+                {
+                    "sentence": "可以裝成幾包",
+                    "stype": "問分配",
+                    "trace_code": "9783-5185-3"
+                }
+            ]
+        },
+        {
+            "qid": "31872",
+            "question": "用乘法算式把做法記下來：30張色紙，每10張裝成一包，可裝成幾包？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "2",
+                "level": "中"
+            },
+            "answer": "3包",
+            "sentences": [
+                {
+                    "sentence": "用乘法算式把做法記下來：30張色紙",
+                    "stype": "有",
+                    "trace_code": "2739-5190-1"
+                },
+                {
+                    "sentence": "每10張裝成一包",
+                    "stype": "每單位量",
+                    "trace_code": "2739-5190-2"
+                },
+                {
+                    "sentence": "可裝成幾包",
+                    "stype": "問分配",
+                    "trace_code": "2739-5190-3"
+                }
+            ]
+        },
+        {
+            "qid": "30881",
+            "question": "用減法算式把做法記下來：50顆雞蛋，每10顆裝成一盒，可以裝成幾盒？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "2",
+                "level": "中"
+            },
+            "answer": "5盒",
+            "sentences": [
+                {
+                    "sentence": "用減法算式把做法記下來：50顆雞蛋",
+                    "stype": "有",
+                    "trace_code": "2694-5227-1"
+                },
+                {
+                    "sentence": "每10顆裝成一盒",
+                    "stype": "每單位量",
+                    "trace_code": "2694-5227-2"
+                },
+                {
+                    "sentence": "可以裝成幾盒",
+                    "stype": "問分配",
+                    "trace_code": "2694-5227-3"
+                }
+            ]
+        },
+        {
+            "qid": "31607",
+            "question": "用乘法算算看：49顆章魚燒，每7顆裝成一盒，可裝成幾盒？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "2",
+                "level": "中"
+            },
+            "answer": "7盒",
+            "sentences": [
+                {
+                    "sentence": "用乘法算算看：49顆章魚燒",
+                    "stype": "有",
+                    "trace_code": "11035-5237-1"
+                },
+                {
+                    "sentence": "每7顆裝成一盒",
+                    "stype": "每單位量",
+                    "trace_code": "11035-5237-2"
+                },
+                {
+                    "sentence": "可裝成幾盒",
+                    "stype": "問分配",
+                    "trace_code": "11035-5237-3"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0121547",
+            "question": "16張卡片，每2張裝一包，可以裝成幾包？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "2",
+                "level": "中"
+            },
+            "answer": "8包",
+            "sentences": [
+                {
+                    "sentence": "16張卡片",
+                    "stype": "有",
+                    "trace_code": "9779-5292-1"
+                },
+                {
+                    "sentence": "每2張裝一包",
+                    "stype": "每單位量",
+                    "trace_code": "9779-5292-2"
+                },
+                {
+                    "sentence": "可以裝成幾包",
+                    "stype": "問分配",
+                    "trace_code": "9779-5292-3"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0121548",
+            "question": "35瓶飲料，每5瓶排成一排，可以排成幾排？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "2",
+                "level": "中"
+            },
+            "answer": "7排",
+            "sentences": [
+                {
+                    "sentence": "35瓶飲料",
+                    "stype": "有",
+                    "trace_code": "9780-5343-1"
+                },
+                {
+                    "sentence": "每5瓶排成一排",
+                    "stype": "每單位量",
+                    "trace_code": "9780-5343-2"
+                },
+                {
+                    "sentence": "可以排成幾排",
+                    "stype": "問分配",
+                    "trace_code": "9780-5343-3"
+                }
+            ]
+        },
+        {
+            "qid": "31864",
+            "question": "用乘法算算看：32顆櫻桃，每4顆裝成一盤，可裝成幾盤？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "2",
+                "level": "中"
+            },
+            "answer": "8盤",
+            "sentences": [
+                {
+                    "sentence": "用乘法算算看：32顆櫻桃",
+                    "stype": "有",
+                    "trace_code": "2735-5345-1"
+                },
+                {
+                    "sentence": "每4顆裝成一盤",
+                    "stype": "每單位量",
+                    "trace_code": "2735-5345-2"
+                },
+                {
+                    "sentence": "可裝成幾盤",
+                    "stype": "問分配",
+                    "trace_code": "2735-5345-3"
+                }
+            ]
+        },
+        {
+            "qid": "30899",
+            "question": "寫出乘法算式做做看：35顆乒乓球，每7顆裝成一袋，可以裝成幾袋？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "2",
+                "level": "中"
+            },
+            "answer": "5袋",
+            "sentences": [
+                {
+                    "sentence": "寫出乘法算式做做看：35顆乒乓球",
+                    "stype": "有",
+                    "trace_code": "2718-5368-1"
+                },
+                {
+                    "sentence": "每7顆裝成一袋",
+                    "stype": "每單位量",
+                    "trace_code": "2718-5368-2"
+                },
+                {
+                    "sentence": "可以裝成幾袋",
+                    "stype": "問分配",
+                    "trace_code": "2718-5368-3"
+                }
+            ]
+        },
+        {
+            "qid": "31615",
+            "question": "用乘法算式把做法記下來：27盒鮮奶，每9盒裝成一組，可裝成幾組？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "2",
+                "level": "中"
+            },
+            "answer": "3組",
+            "sentences": [
+                {
+                    "sentence": "用乘法算式把做法記下來：27盒鮮奶",
+                    "stype": "有",
+                    "trace_code": "2729-5439-1"
+                },
+                {
+                    "sentence": "每9盒裝成一組",
+                    "stype": "每單位量",
+                    "trace_code": "2729-5439-2"
+                },
+                {
+                    "sentence": "可裝成幾組",
+                    "stype": "問分配",
+                    "trace_code": "2729-5439-3"
+                }
+            ]
+        },
+        {
+            "qid": "30883",
+            "question": "用減法算式把做法記下來：56顆彈珠，每8顆裝成一袋，可以裝成幾袋？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "2",
+                "level": "中"
+            },
+            "answer": "7袋",
+            "sentences": [
+                {
+                    "sentence": "用減法算式把做法記下來：56顆彈珠",
+                    "stype": "有",
+                    "trace_code": "11007-5498-1"
+                },
+                {
+                    "sentence": "每8顆裝成一袋",
+                    "stype": "每單位量",
+                    "trace_code": "11007-5498-2"
+                },
+                {
+                    "sentence": "可以裝成幾袋",
+                    "stype": "問分配",
+                    "trace_code": "11007-5498-3"
+                }
+            ]
+        },
+        {
+            "qid": "31610",
+            "question": "用乘法算算看：63顆乒乓球，每7顆裝成一袋，可裝成多少袋？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "2",
+                "level": "中"
+            },
+            "answer": "9袋",
+            "sentences": [
+                {
+                    "sentence": "用乘法算算看：63顆乒乓球",
+                    "stype": "有",
+                    "trace_code": "2728-5515-1"
+                },
+                {
+                    "sentence": "每7顆裝成一袋",
+                    "stype": "每單位量",
+                    "trace_code": "2728-5515-2"
+                },
+                {
+                    "sentence": "可裝成多少袋",
+                    "stype": "問分配",
+                    "trace_code": "2728-5515-3"
+                }
+            ]
+        },
+    
+        {
+            "qid": "1MA0121179",
+            "question": "小傑摺了32隻紙鶴，每4隻串在一起，可以串成幾串？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "2",
+                "level": "中"
+            },
+            "answer": "8串",
+            "sentences": [
+                {
+                    "sentence": "小傑摺了32隻紙鶴",
+                    "stype": "量變",
+                    "trace_code": "1903-5547-1"
+                },
+                {
+                    "sentence": "每4隻串在一起",
+                    "stype": "每單位量",
+                    "trace_code": "1903-5547-2"
+                },
+                {
+                    "sentence": "可以串成幾串",
+                    "stype": "問分配",
+                    "trace_code": "1903-5547-3"
+                }
+            ]
+        },
+        {
+            "qid": "31625",
+            "question": "用乘法算式把做法記下來：12條毛巾，每2條裝成一袋，可裝成幾袋？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "2",
+                "level": "中"
+            },
+            "answer": "6袋",
+            "sentences": [
+                {
+                    "sentence": "用乘法算式把做法記下來：12條毛巾",
+                    "stype": "有",
+                    "trace_code": "11046-5549-1"
+                },
+                {
+                    "sentence": "每2條裝成一袋",
+                    "stype": "每單位量",
+                    "trace_code": "11046-5549-2"
+                },
+                {
+                    "sentence": "可裝成幾袋",
+                    "stype": "問分配",
+                    "trace_code": "11046-5549-3"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0121193",
+            "question": "36顆小珠子，每6顆串成一條手鍊，可以串成幾條？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "2",
+                "level": "中"
+            },
+            "answer": "6條",
+            "sentences": [
+                {
+                    "sentence": "36顆小珠子",
+                    "stype": "有",
+                    "trace_code": "1911-5556-1"
+                },
+                {
+                    "sentence": "每6顆串成一條手鍊",
+                    "stype": "每單位量",
+                    "trace_code": "1911-5556-2"
+                },
+                {
+                    "sentence": "可以串成幾條",
+                    "stype": "問分配",
+                    "trace_code": "1911-5556-3"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0121174",
+            "question": "妹妹有21片餅乾，每7片裝成1包，可以裝成幾包？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "2",
+                "level": "中"
+            },
+            "answer": "3包",
+            "sentences": [
+                {
+                    "sentence": "妹妹有21片餅乾",
+                    "stype": "有",
+                    "trace_code": "9698-5569-1"
+                },
+                {
+                    "sentence": "每7片裝成1包",
+                    "stype": "每單位量",
+                    "trace_code": "9698-5569-2"
+                },
+                {
+                    "sentence": "可以裝成幾包",
+                    "stype": "問分配",
+                    "trace_code": "9698-5569-3"
+                }
+            ]
+        },
+    
+        {
+            "qid": "1MA0141116",
+            "question": "雜貨店老闆買進了87公斤的綠豆和46公斤的薏仁，混合後每10公斤裝成一包，可以裝滿幾包？還剩下多少公斤？",
+            "fastype": "<UNK>",
+            "difficulty": {
+                "grade": "4",
+                "level": "難"
+            },
+            "answer": "13包;3公斤",
+            "sentences": [
+                {
+                    "sentence": "雜貨店老闆買進了87公斤的綠豆和46公斤的薏仁",
+                    "stype": "量變",
+                    "trace_code": "13424-5649-1"
+                },
+                {
+                    "sentence": "混合後每10公斤裝成一包",
+                    "stype": "每單位量",
+                    "trace_code": "13424-5649-2"
+                },
+                {
+                    "sentence": "可以裝滿幾包",
+                    "stype": "問分配",
+                    "trace_code": "13424-5649-3"
+                }
+            ],
+            "followers": [
+                {
+                    "sentence": "還剩下多少公斤",
+                    "stype": "問剩下",
+                    "trace_code": "13424-5649-4"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0140849",
+            "question": "有3500個柳丁，爛了43個，剩下的每35個裝一盒，可以裝滿幾盒？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "4",
+                "level": "難"
+            },
+            "answer": "98盒",
+            "sentences": [
+                {
+                    "sentence": "有3500個柳丁",
+                    "stype": "有",
+                    "trace_code": "910-5668-1"
+                },
+                {
+                    "sentence": "爛了43個",
+                    "stype": "量變",
+                    "trace_code": "910-5668-2"
+                },
+                {
+                    "sentence": "剩下的每35個裝一盒",
+                    "stype": "每單位量",
+                    "trace_code": "910-5668-3"
+                },
+                {
+                    "sentence": "可以裝滿幾盒",
+                    "stype": "問分配",
+                    "trace_code": "910-5668-4"
+                }
+            ]
+        },
+    
+        {
+            "qid": "1MA0140852",
+            "question": "一條棉繩長30公尺，每26公分剪成一段，共可剪成幾段？還剩下多少公分？",
+            "fastype": "<UNK>",
+            "difficulty": {
+                "grade": "4",
+                "level": "難"
+            },
+            "answer": "115段;0.1公尺",
+            "sentences": [
+                {
+                    "sentence": "一條棉繩長30公尺",
+                    "stype": "每單位量",
+                    "trace_code": "8119-5743-1"
+                },
+                {
+                    "sentence": "每26公分剪成一段",
+                    "stype": "每單位量",
+                    "trace_code": "8119-5743-2"
+                },
+                {
+                    "sentence": "共可剪成幾段",
+                    "stype": "問分配",
+                    "trace_code": "8119-5743-3"
+                }
+            ],
+            "followers": [
+                {
+                    "sentence": "還剩下多少公分",
+                    "stype": "問剩下",
+                    "trace_code": "8119-5743-4"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0140123",
+            "question": "有34公斤的櫻桃，每400公克裝成一盒，全部可以裝成多少盒？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "4",
+                "level": "難"
+            },
+            "answer": "85盒",
+            "sentences": [
+                {
+                    "sentence": "有34公斤的櫻桃",
+                    "stype": "有",
+                    "trace_code": "4189-5771-1"
+                },
+                {
+                    "sentence": "每400公克裝成一盒",
+                    "stype": "每單位量",
+                    "trace_code": "4189-5771-2"
+                },
+                {
+                    "sentence": "全部可以裝成多少盒",
+                    "stype": "問分配",
+                    "trace_code": "4189-5771-3"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0140126",
+            "question": "一包黃豆重18公斤，每350公克裝成一袋，共可裝成多少袋？還需要多少公克的黃豆才可以再裝成一袋？",
+            "fastype": "<UNK>",
+            "difficulty": {
+                "grade": "4",
+                "level": "難"
+            },
+            "answer": "51袋;200公克",
+            "sentences": [
+                {
+                    "sentence": "一包黃豆重18公斤",
+                    "stype": "每單位量",
+                    "trace_code": "4192-5820-1"
+                },
+                {
+                    "sentence": "每350公克裝成一袋",
+                    "stype": "每單位量",
+                    "trace_code": "4192-5820-2"
+                },
+                {
+                    "sentence": "共可裝成多少袋",
+                    "stype": "問分配",
+                    "trace_code": "4192-5820-3"
+                }
+            ],
+            "followers": [
+                {
+                    "sentence": "還需要多少公克的黃豆才可以再裝成一袋",
+                    "stype": "問單位量",
+                    "trace_code": "4192-5820-4"
+                }
+            ]
+        },
+    
+        {
+            "qid": "41070",
+            "question": "寫出算式做做看：毽子56個，每8個裝一盒，可以裝成多少盒？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "3",
+                "level": "易"
+            },
+            "answer": "7盒",
+            "sentences": [
+                {
+                    "sentence": "寫出算式做做看：毽子56個",
+                    "stype": "有",
+                    "trace_code": "14849-6023-1"
+                },
+                {
+                    "sentence": "每8個裝一盒",
+                    "stype": "每單位量",
+                    "trace_code": "14849-6023-2"
+                },
+                {
+                    "sentence": "可以裝成多少盒",
+                    "stype": "問分配",
+                    "trace_code": "14849-6023-3"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0131304",
+            "question": "有98片仙貝，每2片裝成一包，可以裝成幾包？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "3",
+                "level": "易"
+            },
+            "answer": "49包",
+            "sentences": [
+                {
+                    "sentence": "有98片仙貝",
+                    "stype": "有",
+                    "trace_code": "8359-6041-1"
+                },
+                {
+                    "sentence": "每2片裝成一包",
+                    "stype": "每單位量",
+                    "trace_code": "8359-6041-2"
+                },
+                {
+                    "sentence": "可以裝成幾包",
+                    "stype": "問分配",
+                    "trace_code": "8359-6041-3"
+                }
+            ]
+        },
+       
+        {
+            "qid": "1MA0130983",
+            "question": "有15顆梅子，做一杯梅子綠茶要放3顆，可以做幾杯？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "3",
+                "level": "易"
+            },
+            "answer": "5杯",
+            "sentences": [
+                {
+                    "sentence": "有15顆梅子",
+                    "stype": "有",
+                    "trace_code": "8299-6141-1"
+                },
+                {
+                    "sentence": "做一杯梅子綠茶要放3顆",
+                    "stype": "每單位量",
+                    "trace_code": "8299-6141-2"
+                },
+                {
+                    "sentence": "可以做幾杯",
+                    "stype": "問分配",
+                    "trace_code": "8299-6141-3"
+                }
+            ]
+        },
+        {
+            "qid": "40959",
+            "question": "寫出除法算式做做看：16枝筷子，2枝排成一雙，可以排成幾雙？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "3",
+                "level": "易"
+            },
+            "answer": "8雙",
+            "sentences": [
+                {
+                    "sentence": "寫出除法算式做做看：16枝筷子",
+                    "stype": "有",
+                    "trace_code": "14819-6227-1"
+                },
+                {
+                    "sentence": "2枝排成一雙",
+                    "stype": "每單位量",
+                    "trace_code": "14819-6227-2"
+                },
+                {
+                    "sentence": "可以排成幾雙",
+                    "stype": "問分配",
+                    "trace_code": "14819-6227-3"
+                }
+            ]
+        },
+        {
+            "qid": "40944",
+            "question": "寫出除法算式做做看：12顆氣球，每個小朋友分2顆，一共可以分給幾個小朋友？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "3",
+                "level": "易"
+            },
+            "answer": "6個",
+            "sentences": [
+                {
+                    "sentence": "寫出除法算式做做看：12顆氣球",
+                    "stype": "有",
+                    "trace_code": "14810-6229-1"
+                },
+                {
+                    "sentence": "每個小朋友分2顆",
+                    "stype": "平分",
+                    "trace_code": "14810-6229-2"
+                },
+                {
+                    "sentence": "一共可以分給幾個小朋友",
+                    "stype": "問分配",
+                    "trace_code": "14810-6229-3"
+                }
+            ]
+        },
+        {
+            "qid": "53899",
+            "question": "470顆巧克力，每9顆裝成一盒，可裝成幾盒？剩下幾顆？",
+            "fastype": "<UNK>",
+            "difficulty": {
+                "grade": "3",
+                "level": "易"
+            },
+            "answer": "52盒;2顆",
+            "sentences": [
+                {
+                    "sentence": "470顆巧克力",
+                    "stype": "有",
+                    "trace_code": "11944-6254-1"
+                },
+                {
+                    "sentence": "每9顆裝成一盒",
+                    "stype": "每單位量",
+                    "trace_code": "11944-6254-2"
+                },
+                {
+                    "sentence": "可裝成幾盒",
+                    "stype": "問分配",
+                    "trace_code": "11944-6254-3"
+                }
+            ],
+            "followers": [
+                {
+                    "sentence": "剩下幾顆",
+                    "stype": "問剩下",
+                    "trace_code": "11944-6254-4"
+                }
+            ]
+        },
+        {
+            "qid": "40975",
+            "question": "寫出算式做做看：18顆蘋果，2顆裝一盒，可裝幾盒？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "3",
+                "level": "易"
+            },
+            "answer": "9盒",
+            "sentences": [
+                {
+                    "sentence": "寫出算式做做看：18顆蘋果",
+                    "stype": "有",
+                    "trace_code": "14826-6264-1"
+                },
+                {
+                    "sentence": "2顆裝一盒",
+                    "stype": "每單位量",
+                    "trace_code": "14826-6264-2"
+                },
+                {
+                    "sentence": "可裝幾盒",
+                    "stype": "問分配",
+                    "trace_code": "14826-6264-3"
+                }
+            ]
+        },
+        {
+            "qid": "40998",
+            "question": "12顆番茄，2顆裝一盒，可裝幾盒？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "3",
+                "level": "易"
+            },
+            "answer": "6盒",
+            "sentences": [
+                {
+                    "sentence": "12顆番茄",
+                    "stype": "有",
+                    "trace_code": "14836-6280-1"
+                },
+                {
+                    "sentence": "2顆裝一盒",
+                    "stype": "每單位量",
+                    "trace_code": "14836-6280-2"
+                },
+                {
+                    "sentence": "可裝幾盒",
+                    "stype": "問分配",
+                    "trace_code": "14836-6280-3"
+                }
+            ]
+        },
+        {
+            "qid": "41028",
+            "question": "寫出算式做做看：15張椅子，5張排成一排，可以排成幾排椅子？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "3",
+                "level": "易"
+            },
+            "answer": "3排",
+            "sentences": [
+                {
+                    "sentence": "寫出算式做做看：15張椅子",
+                    "stype": "有",
+                    "trace_code": "5091-6324-1"
+                },
+                {
+                    "sentence": "5張排成一排",
+                    "stype": "每單位量",
+                    "trace_code": "5091-6324-2"
+                },
+                {
+                    "sentence": "可以排成幾排椅子",
+                    "stype": "問分配",
+                    "trace_code": "5091-6324-3"
+                }
+            ]
+        },
+        {
+            "qid": "40940",
+            "question": "寫出除法算式做做看：14個杯子，2個裝一盒，可裝成幾盒？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "3",
+                "level": "易"
+            },
+            "answer": "7盒",
+            "sentences": [
+                {
+                    "sentence": "寫出除法算式做做看：14個杯子",
+                    "stype": "有",
+                    "trace_code": "14807-6383-1"
+                },
+                {
+                    "sentence": "2個裝一盒",
+                    "stype": "每單位量",
+                    "trace_code": "14807-6383-2"
+                },
+                {
+                    "sentence": "可裝成幾盒",
+                    "stype": "問分配",
+                    "trace_code": "14807-6383-3"
+                }
+            ]
+        },
+        {
+            "qid": "40949",
+            "question": "寫出除法算式做做看：15顆番茄，3顆串成一串，可以串成幾串？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "3",
+                "level": "易"
+            },
+            "answer": "5串",
+            "sentences": [
+                {
+                    "sentence": "寫出除法算式做做看：15顆番茄",
+                    "stype": "有",
+                    "trace_code": "14814-6388-1"
+                },
+                {
+                    "sentence": "3顆串成一串",
+                    "stype": "每單位量",
+                    "trace_code": "14814-6388-2"
+                },
+                {
+                    "sentence": "可以串成幾串",
+                    "stype": "問分配",
+                    "trace_code": "14814-6388-3"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0131263",
+            "question": "小惠的媽媽做了64個飯糰，4個裝一盒，可以裝成多少盒？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "3",
+                "level": "易"
+            },
+            "answer": "16盒",
+            "sentences": [
+                {
+                    "sentence": "小惠的媽媽做了64個飯糰",
+                    "stype": "量變",
+                    "trace_code": "8338-6457-1"
+                },
+                {
+                    "sentence": "4個裝一盒",
+                    "stype": "每單位量",
+                    "trace_code": "8338-6457-2"
+                },
+                {
+                    "sentence": "可以裝成多少盒",
+                    "stype": "問分配",
+                    "trace_code": "8338-6457-3"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0131025",
+            "question": "有22個花片，每3個分成一堆，可以分成幾堆？還剩下幾個？",
+            "fastype": "<UNK>",
+            "difficulty": {
+                "grade": "3",
+                "level": "易"
+            },
+            "answer": "7堆;1個",
+            "sentences": [
+                {
+                    "sentence": "有22個花片",
+                    "stype": "有",
+                    "trace_code": "1029-6467-1"
+                },
+                {
+                    "sentence": "每3個分成一堆",
+                    "stype": "每單位量",
+                    "trace_code": "1029-6467-2"
+                },
+                {
+                    "sentence": "可以分成幾堆",
+                    "stype": "問分配",
+                    "trace_code": "1029-6467-3"
+                }
+            ],
+            "followers": [
+                {
+                    "sentence": "還剩下幾個",
+                    "stype": "問剩下",
+                    "trace_code": "1029-6467-4"
+                }
+            ]
+        },
+        {
+            "qid": "40965",
+            "question": "寫出除法算式做做看：18顆球，3顆裝成一袋，可以裝成幾袋？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "3",
+                "level": "易"
+            },
+            "answer": "6袋",
+            "sentences": [
+                {
+                    "sentence": "寫出除法算式做做看：18顆球",
+                    "stype": "有",
+                    "trace_code": "14824-6482-1"
+                },
+                {
+                    "sentence": "3顆裝成一袋",
+                    "stype": "每單位量",
+                    "trace_code": "14824-6482-2"
+                },
+                {
+                    "sentence": "可以裝成幾袋",
+                    "stype": "問分配",
+                    "trace_code": "14824-6482-3"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0130982",
+            "question": "有30個香水蠟燭，6個裝一盒，可以裝成幾盒？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "3",
+                "level": "易"
+            },
+            "answer": "5盒",
+            "sentences": [
+                {
+                    "sentence": "有30個香水蠟燭",
+                    "stype": "有",
+                    "trace_code": "1012-6510-1"
+                },
+                {
+                    "sentence": "6個裝一盒",
+                    "stype": "每單位量",
+                    "trace_code": "1012-6510-2"
+                },
+                {
+                    "sentence": "可以裝成幾盒",
+                    "stype": "問分配",
+                    "trace_code": "1012-6510-3"
+                }
+            ]
+        },
+        {
+            "qid": "41072",
+            "question": "寫出算式做做看：玻璃珠70顆，每10顆裝一瓶，可以裝成多少瓶？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "3",
+                "level": "易"
+            },
+            "answer": "7瓶",
+            "sentences": [
+                {
+                    "sentence": "寫出算式做做看：玻璃珠70顆",
+                    "stype": "有",
+                    "trace_code": "14851-6518-1"
+                },
+                {
+                    "sentence": "每10顆裝一瓶",
+                    "stype": "每單位量",
+                    "trace_code": "14851-6518-2"
+                },
+                {
+                    "sentence": "可以裝成多少瓶",
+                    "stype": "問分配",
+                    "trace_code": "14851-6518-3"
+                }
+            ]
+        },
+        {
+            "qid": "41005",
+            "question": "20個毽子，平分給5組小朋友，每組小朋友分到幾個？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "3",
+                "level": "易"
+            },
+            "answer": "4個",
+            "sentences": [
+                {
+                    "sentence": "20個毽子",
+                    "stype": "有",
+                    "trace_code": "14839-6539-1"
+                },
+                {
+                    "sentence": "平分給5組小朋友",
+                    "stype": "平分",
+                    "trace_code": "14839-6539-2"
+                },
+                {
+                    "sentence": "每組小朋友分到幾個",
+                    "stype": "問分配",
+                    "trace_code": "14839-6539-3"
+                }
+            ]
+        },
+        {
+            "qid": "41083",
+            "question": "寫出算式做做看：14公斤的鹽，每2公斤裝成一袋，可以裝成幾袋？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "3",
+                "level": "易"
+            },
+            "answer": "7袋",
+            "sentences": [
+                {
+                    "sentence": "寫出算式做做看：14公斤的鹽",
+                    "stype": "有",
+                    "trace_code": "14854-6549-1"
+                },
+                {
+                    "sentence": "每2公斤裝成一袋",
+                    "stype": "每單位量",
+                    "trace_code": "14854-6549-2"
+                },
+                {
+                    "sentence": "可以裝成幾袋",
+                    "stype": "問分配",
+                    "trace_code": "14854-6549-3"
+                }
+            ]
+        },
+        {
+            "qid": "41044",
+            "question": "40個扯鈴，平分給8組小朋友，每組小朋友分到幾個？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "3",
+                "level": "易"
+            },
+            "answer": "5個",
+            "sentences": [
+                {
+                    "sentence": "40個扯鈴",
+                    "stype": "有",
+                    "trace_code": "5092-6561-1"
+                },
+                {
+                    "sentence": "平分給8組小朋友",
+                    "stype": "平分",
+                    "trace_code": "5092-6561-2"
+                },
+                {
+                    "sentence": "每組小朋友分到幾個",
+                    "stype": "問分配",
+                    "trace_code": "5092-6561-3"
+                }
+            ]
+        },
+        {
+            "qid": "40978",
+            "question": "寫出算式做做看：8個小朋友跳舞，每2個人分成一組，可以分成幾組？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "3",
+                "level": "易"
+            },
+            "answer": "4組",
+            "sentences": [
+                {
+                    "sentence": "寫出算式做做看：8個小朋友跳舞",
+                    "stype": "有",
+                    "trace_code": "5083-6568-1"
+                },
+                {
+                    "sentence": "每2個人分成一組",
+                    "stype": "每單位量",
+                    "trace_code": "5083-6568-2"
+                },
+                {
+                    "sentence": "可以分成幾組",
+                    "stype": "問分配",
+                    "trace_code": "5083-6568-3"
+                }
+            ]
+        },
+        {
+            "qid": "53906",
+            "question": "142個甜甜圈，每4個裝成一袋，可裝成幾袋？剩下幾個？",
+            "fastype": "<UNK>",
+            "difficulty": {
+                "grade": "3",
+                "level": "易"
+            },
+            "answer": "35袋;2個",
+            "sentences": [
+                {
+                    "sentence": "142個甜甜圈",
+                    "stype": "有",
+                    "trace_code": "3372-6583-1"
+                },
+                {
+                    "sentence": "每4個裝成一袋",
+                    "stype": "每單位量",
+                    "trace_code": "3372-6583-2"
+                },
+                {
+                    "sentence": "可裝成幾袋",
+                    "stype": "問分配",
+                    "trace_code": "3372-6583-3"
+                }
+            ],
+            "followers": [
+                {
+                    "sentence": "剩下幾個",
+                    "stype": "問剩下",
+                    "trace_code": "3372-6583-4"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0131110",
+            "question": "鉛筆一枝賣5元，美美帶了48元，最多可以買幾枝鉛筆？",
+            "fastype": "<UNK>",
+            "difficulty": {
+                "grade": "3",
+                "level": "易"
+            },
+            "answer": "9枝",
+            "sentences": [
+                {
+                    "sentence": "鉛筆一枝賣5元",
+                    "stype": "每單位量",
+                    "trace_code": "8324-6586-1"
+                },
+                {
+                    "sentence": "美美帶了48元",
+                    "stype": "量變",
+                    "trace_code": "8324-6586-2"
+                },
+                {
+                    "sentence": "最多可以買幾枝鉛筆",
+                    "stype": "問分配",
+                    "trace_code": "8324-6586-3"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0131289",
+            "question": "一個盤子可以裝9顆水餃，媽媽煮了95顆水餃，可以裝滿幾個盤子？還剩下幾顆水餃？",
+            "fastype": "<UNK>",
+            "difficulty": {
+                "grade": "3",
+                "level": "易"
+            },
+            "answer": "10個;5顆",
+            "sentences": [
+                {
+                    "sentence": "一個盤子可以裝9顆水餃",
+                    "stype": "每單位量",
+                    "trace_code": "1062-6588-1"
+                },
+                {
+                    "sentence": "媽媽煮了95顆水餃",
+                    "stype": "量變",
+                    "trace_code": "1062-6588-2"
+                },
+                {
+                    "sentence": "可以裝滿幾個盤子",
+                    "stype": "問分配",
+                    "trace_code": "1062-6588-3"
+                }
+            ],
+            "followers": [
+                {
+                    "sentence": "還剩下幾顆水餃",
+                    "stype": "問剩下",
+                    "trace_code": "1062-6588-4"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0131318",
+            "question": "有954顆水餃，每9顆裝一盤，一共可以裝成幾盤？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "3",
+                "level": "易"
+            },
+            "answer": "106盤",
+            "sentences": [
+                {
+                    "sentence": "有954顆水餃",
+                    "stype": "有",
+                    "trace_code": "1070-6613-1"
+                },
+                {
+                    "sentence": "每9顆裝一盤",
+                    "stype": "每單位量",
+                    "trace_code": "1070-6613-2"
+                },
+                {
+                    "sentence": "一共可以裝成幾盤",
+                    "stype": "問分配",
+                    "trace_code": "1070-6613-3"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0151525",
+            "question": "1.8公噸的香菇，每200公斤裝成1袋，可以裝成幾袋？",
+            "fastype": "<問重量>",
+            "difficulty": {
+                "grade": "5",
+                "level": "中"
+            },
+            "answer": "9袋",
+            "sentences": [
+                {
+                    "sentence": "1.8公噸的香菇",
+                    "stype": "有",
+                    "trace_code": "2579-7181-1"
+                },
+                {
+                    "sentence": "每200公斤裝成1袋",
+                    "stype": "每單位量",
+                    "trace_code": "2579-7181-2"
+                },
+                {
+                    "sentence": "可以裝成幾袋",
+                    "stype": "問分配",
+                    "trace_code": "2579-7181-3"
+                }
+            ]
+        },
+        {
+            "qid": "84150",
+            "question": "4500顆巧克力，每15顆裝成一包，每12包裝成一箱，共可裝成幾箱？",
+            "fastype": "問分配",
+            "difficulty": {
+                "grade": "5",
+                "level": "中"
+            },
+            "answer": "25箱",
+            "sentences": [
+                {
+                    "sentence": "4500顆巧克力",
+                    "stype": "有",
+                    "trace_code": "6634-7232-1"
+                },
+                {
+                    "sentence": "每15顆裝成一包",
+                    "stype": "每單位量",
+                    "trace_code": "6634-7232-2"
+                },
+                {
+                    "sentence": "每12包裝成一箱",
+                    "stype": "每單位量",
+                    "trace_code": "6634-7232-3"
+                },
+                {
+                    "sentence": "共可裝成幾箱",
+                    "stype": "問分配",
+                    "trace_code": "6634-7232-4"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0151559",
+            "question": "一袋糖果重3公噸500公斤，每50公斤裝成一包，全部可以裝成幾包糖果？",
+            "fastype": "問重量",
+            "difficulty": {
+                "grade": "5",
+                "level": "中"
+            },
+            "answer": "70包",
+            "sentences": [
+                {
+                    "sentence": "一袋糖果重3公噸500公斤",
+                    "stype": "每單位量",
+                    "trace_code": "4454-7259-1"
+                },
+                {
+                    "sentence": "每50公斤裝成一包",
+                    "stype": "每單位量",
+                    "trace_code": "4454-7259-2"
+                },
+                {
+                    "sentence": "全部可以裝成幾包糖果",
+                    "stype": "問分配",
+                    "trace_code": "4454-7259-3"
+                }
+            ]
+        }
+       
+    ]
+}

@@ -1,0 +1,3922 @@
+{
+    "data": [
+        {
+            "qid": "71324",
+            "question": "阿智和言言共有7.32盒筆芯。已知阿智有4.62盒，兩人的筆芯相差幾盒？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "4",
+                "level": "中"
+            },
+            "answer": "1.92盒",
+            "sentences": [
+                {
+                    "sentence": "阿智和言言共有7.32盒筆芯",
+                    "stype": "有",
+                    "trace_code": "3479-223-1"
+                },
+                {
+                    "sentence": "已知阿智有4.62盒",
+                    "stype": "有",
+                    "trace_code": "3479-223-2"
+                },
+                {
+                    "sentence": "兩人的筆芯相差幾盒",
+                    "stype": "問相差",
+                    "trace_code": "3479-223-3"
+                }
+            ]
+        },
+        {
+            "qid": "71302",
+            "question": "小賢和小鈞共有5.65盒電池。已知小賢有2.85盒，兩人的電池相差幾盒？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "4",
+                "level": "易"
+            },
+            "answer": "0.05盒",
+            "sentences": [
+                {
+                    "sentence": "小賢和小鈞共有5.65盒電池",
+                    "stype": "有",
+                    "trace_code": "3466-409-1"
+                },
+                {
+                    "sentence": "已知小賢有2.85盒",
+                    "stype": "有",
+                    "trace_code": "3466-409-2"
+                },
+                {
+                    "sentence": "兩人的電池相差幾盒",
+                    "stype": "問相差",
+                    "trace_code": "3466-409-3"
+                }
+            ]
+        },
+        {
+            "qid": "71335",
+            "question": "阿信買了3包花生，阿南買了1.31包，阿信比阿南多買幾包？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "4",
+                "level": "易"
+            },
+            "answer": "1.69包",
+            "sentences": [
+                {
+                    "sentence": "阿信買了3包花生",
+                    "stype": "量變",
+                    "trace_code": "12151-421-1"
+                },
+                {
+                    "sentence": "阿南買了1.31包",
+                    "stype": "量變",
+                    "trace_code": "12151-421-2"
+                },
+                {
+                    "sentence": "阿信比阿南多買幾包",
+                    "stype": "問相差",
+                    "trace_code": "12151-421-3"
+                }
+            ]
+        },
+        {
+            "qid": "70418",
+            "question": "甲道路長6公里，乙道路長4公里285公尺，兩條道路的長度相差幾公里幾公尺？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "4",
+                "level": "易"
+            },
+            "answer": "1公里715公尺",
+            "sentences": [
+                {
+                    "sentence": "甲道路長6公里",
+                    "stype": "有",
+                    "trace_code": "12050-441-1"
+                },
+                {
+                    "sentence": "乙道路長4公里285公尺",
+                    "stype": "有",
+                    "trace_code": "12050-441-2"
+                },
+                {
+                    "sentence": "兩條道路的長度相差幾公里幾公尺",
+                    "stype": "問相差",
+                    "trace_code": "12050-441-3"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0141858",
+            "question": "一條紅色繩子長21.73公尺，另一條藍色繩子長19.96公尺，兩條繩子相差多少公尺？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "4",
+                "level": "易"
+            },
+            "answer": "1.77公尺",
+            "sentences": [
+                {
+                    "sentence": "一條紅色繩子長21.73公尺",
+                    "stype": "每單位量",
+                    "trace_code": "4317-464-1"
+                },
+                {
+                    "sentence": "另一條藍色繩子長19.96公尺",
+                    "stype": "有",
+                    "trace_code": "4317-464-2"
+                },
+                {
+                    "sentence": "兩條繩子相差多少公尺",
+                    "stype": "問相差",
+                    "trace_code": "4317-464-3"
+                }
+            ]
+        },
+        {
+            "qid": "70425",
+            "question": "有兩條公路，一條長6公里50公尺，另一條長9000公尺，兩條公路相差幾公尺？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "4",
+                "level": "易"
+            },
+            "answer": "2950公尺",
+            "sentences": [
+                {
+                    "sentence": "有兩條公路",
+                    "stype": "有",
+                    "trace_code": "12057-518-1"
+                },
+                {
+                    "sentence": "一條長6公里50公尺",
+                    "stype": "每單位量",
+                    "trace_code": "12057-518-2"
+                },
+                {
+                    "sentence": "另一條長9000公尺",
+                    "stype": "有",
+                    "trace_code": "12057-518-3"
+                },
+                {
+                    "sentence": "兩條公路相差幾公尺",
+                    "stype": "問相差",
+                    "trace_code": "12057-518-4"
+                }
+            ]
+        },
+        {
+            "qid": "63187",
+            "question": "每一盒果凍都有24個。超商今天賣出4+(7/24)盒，昨天賣出7+(9/24)盒，昨天比今天多賣幾盒？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "4",
+                "level": "易"
+            },
+            "answer": "3+(1/12)盒",
+            "sentences": [
+                {
+                    "sentence": "每一盒果凍都有24個",
+                    "stype": "每單位量",
+                    "trace_code": "6164-533-1"
+                },
+                {
+                    "sentence": "超商今天賣出4+(7/24)盒",
+                    "stype": "量變",
+                    "trace_code": "6164-533-2"
+                },
+                {
+                    "sentence": "昨天賣出7+(9/24)盒",
+                    "stype": "量變",
+                    "trace_code": "6164-533-3"
+                },
+                {
+                    "sentence": "昨天比今天多賣幾盒",
+                    "stype": "問相差",
+                    "trace_code": "6164-533-4"
+                }
+            ]
+        },
+        {
+            "qid": "70261",
+            "question": "最便宜電信去年發出的拜年簡訊有636000000則，今年有471000000則，去年比今年多幾則？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "4",
+                "level": "易"
+            },
+            "answer": "165000000則",
+            "sentences": [
+                {
+                    "sentence": "最便宜電信去年發出的拜年簡訊有636000000則",
+                    "stype": "有",
+                    "trace_code": "12027-598-1"
+                },
+                {
+                    "sentence": "今年有471000000則",
+                    "stype": "有",
+                    "trace_code": "12027-598-2"
+                },
+                {
+                    "sentence": "去年比今年多幾則",
+                    "stype": "問相差",
+                    "trace_code": "12027-598-3"
+                }
+            ]
+        },
+        {
+            "qid": "61913",
+            "question": "門高3公尺，小媚身高是1.68公尺，門比小媚高多少公尺？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "4",
+                "level": "易"
+            },
+            "answer": "1.32公尺",
+            "sentences": [
+                {
+                    "sentence": "門高3公尺",
+                    "stype": "有",
+                    "trace_code": "4837-621-1"
+                },
+                {
+                    "sentence": "小媚身高是1.68公尺",
+                    "stype": "有",
+                    "trace_code": "4837-621-2"
+                },
+                {
+                    "sentence": "門比小媚高多少公尺",
+                    "stype": "問相差",
+                    "trace_code": "4837-621-3"
+                }
+            ]
+        },
+        {
+            "qid": "63676",
+            "question": "一包糖果有30顆。小英有4+(2/3)包，小明有6+(1/3)包，兩人相差幾包？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "4",
+                "level": "易"
+            },
+            "answer": "1+(2/3)包",
+            "sentences": [
+                {
+                    "sentence": "一包糖果有30顆",
+                    "stype": "每單位量",
+                    "trace_code": "16518-622-1"
+                },
+                {
+                    "sentence": "小英有4+(2/3)包",
+                    "stype": "有",
+                    "trace_code": "16518-622-2"
+                },
+                {
+                    "sentence": "小明有6+(1/3)包",
+                    "stype": "有",
+                    "trace_code": "16518-622-3"
+                },
+                {
+                    "sentence": "兩人相差幾包",
+                    "stype": "問相差",
+                    "trace_code": "16518-622-4"
+                }
+            ]
+        },
+        {
+            "qid": "70252",
+            "question": "進口奇異果有785000000顆，蘋果有365000000顆，奇異果比蘋果多幾顆？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "4",
+                "level": "易"
+            },
+            "answer": "420000000顆",
+            "sentences": [
+                {
+                    "sentence": "進口奇異果有785000000顆",
+                    "stype": "有",
+                    "trace_code": "12020-630-1"
+                },
+                {
+                    "sentence": "蘋果有365000000顆",
+                    "stype": "有",
+                    "trace_code": "12020-630-2"
+                },
+                {
+                    "sentence": "奇異果比蘋果多幾顆",
+                    "stype": "問相差",
+                    "trace_code": "12020-630-3"
+                }
+            ]
+        },
+        {
+            "qid": "70406",
+            "question": "甲道路長7公里，乙道路長5公里318公尺，兩條路的長度相差幾公里幾公尺？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "4",
+                "level": "易"
+            },
+            "answer": "1公里682公尺",
+            "sentences": [
+                {
+                    "sentence": "甲道路長7公里",
+                    "stype": "有",
+                    "trace_code": "12045-639-1"
+                },
+                {
+                    "sentence": "乙道路長5公里318公尺",
+                    "stype": "有",
+                    "trace_code": "12045-639-2"
+                },
+                {
+                    "sentence": "兩條路的長度相差幾公里幾公尺",
+                    "stype": "問相差",
+                    "trace_code": "12045-639-3"
+                }
+            ]
+        },
+        {
+            "qid": "72223",
+            "question": "自由路長2.064公里，仁愛路長2.604公里，兩條路的長度相差幾公里？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "4",
+                "level": "易"
+            },
+            "answer": "0.54公里",
+            "sentences": [
+                {
+                    "sentence": "自由路長2.064公里",
+                    "stype": "有",
+                    "trace_code": "12206-658-1"
+                },
+                {
+                    "sentence": "仁愛路長2.604公里",
+                    "stype": "有",
+                    "trace_code": "12206-658-2"
+                },
+                {
+                    "sentence": "兩條路的長度相差幾公里",
+                    "stype": "問相差",
+                    "trace_code": "12206-658-3"
+                }
+            ]
+        },
+        {
+            "qid": "62611",
+            "question": "每一盒橡皮擦都有18個。文具店昨天賣了7+(6/18)盒，今天賣了3+(5/18)盒，昨天比今天多賣幾盒？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "4",
+                "level": "易"
+            },
+            "answer": "4+(1/18)盒",
+            "sentences": [
+                {
+                    "sentence": "每一盒橡皮擦都有18個",
+                    "stype": "每單位量",
+                    "trace_code": "16347-710-1"
+                },
+                {
+                    "sentence": "文具店昨天賣了7+(6/18)盒",
+                    "stype": "量變",
+                    "trace_code": "16347-710-2"
+                },
+                {
+                    "sentence": "今天賣了3+(5/18)盒",
+                    "stype": "量變",
+                    "trace_code": "16347-710-3"
+                },
+                {
+                    "sentence": "昨天比今天多賣幾盒",
+                    "stype": "問相差",
+                    "trace_code": "16347-710-4"
+                }
+            ]
+        },
+        {
+            "qid": "61644",
+            "question": "哥哥的書包重7公斤，弟弟的書包重5公斤，哥哥的書包比弟弟的書包重多少公斤？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "4",
+                "level": "易"
+            },
+            "answer": "2公斤",
+            "sentences": [
+                {
+                    "sentence": "哥哥的書包重7公斤",
+                    "stype": "有",
+                    "trace_code": "14403-754-1"
+                },
+                {
+                    "sentence": "弟弟的書包重5公斤",
+                    "stype": "有",
+                    "trace_code": "14403-754-2"
+                },
+                {
+                    "sentence": "哥哥的書包比弟弟的書包重多少公斤",
+                    "stype": "問相差",
+                    "trace_code": "14403-754-3"
+                }
+            ]
+        },
+        {
+            "qid": "61909",
+            "question": "門高2公尺，小梅身高是1.32公尺，門比小梅高多少公尺？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "4",
+                "level": "易"
+            },
+            "answer": "0.68公尺",
+            "sentences": [
+                {
+                    "sentence": "門高2公尺",
+                    "stype": "有",
+                    "trace_code": "4835-780-1"
+                },
+                {
+                    "sentence": "小梅身高是1.32公尺",
+                    "stype": "有",
+                    "trace_code": "4835-780-2"
+                },
+                {
+                    "sentence": "門比小梅高多少公尺",
+                    "stype": "問相差",
+                    "trace_code": "4835-780-3"
+                }
+            ]
+        },
+        {
+            "qid": "73993",
+            "question": "一袋糖果有200顆，小美有1.03袋，欣欣有0.68袋，兩人相差幾袋？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "4",
+                "level": "易"
+            },
+            "answer": "0.35袋",
+            "sentences": [
+                {
+                    "sentence": "一袋糖果有200顆",
+                    "stype": "每單位量",
+                    "trace_code": "12363-847-1"
+                },
+                {
+                    "sentence": "小美有1.03袋",
+                    "stype": "有",
+                    "trace_code": "12363-847-2"
+                },
+                {
+                    "sentence": "欣欣有0.68袋",
+                    "stype": "有",
+                    "trace_code": "12363-847-3"
+                },
+                {
+                    "sentence": "兩人相差幾袋",
+                    "stype": "問相差",
+                    "trace_code": "12363-847-4"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0140707",
+            "question": "小俊和君怡的體重分別是28.76公斤和35.5公斤，兩人的體重相差多少公斤？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "4",
+                "level": "易"
+            },
+            "answer": "6.74公斤",
+            "sentences": [
+                {
+                    "sentence": "小俊和君怡的體重分別是28.76公斤和35.5公斤",
+                    "stype": "有",
+                    "trace_code": "4250-875-1"
+                },
+                {
+                    "sentence": "兩人的體重相差多少公斤",
+                    "stype": "問相差",
+                    "trace_code": "4250-875-2"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0131059",
+            "question": "文中和文華分別摺一隻一模一樣的紙鶴，文中花了186秒摺好，文華花了2分38秒摺好，文華比文中快多少秒摺好紙鶴？",
+            "fastype": "<UNK>",
+            "difficulty": {
+                "grade": "3",
+                "level": "難"
+            },
+            "answer": "28秒",
+            "sentences": [
+                {
+                    "sentence": "文中和文華分別摺一隻一模一樣的紙鶴",
+                    "stype": "量變",
+                    "trace_code": "10194-961-1"
+                },
+                {
+                    "sentence": "文中花了186秒摺好",
+                    "stype": "量變",
+                    "trace_code": "10194-961-2"
+                },
+                {
+                    "sentence": "文華花了2分38秒摺好",
+                    "stype": "量變",
+                    "trace_code": "10194-961-3"
+                },
+                {
+                    "sentence": "文華比文中快多少秒摺好紙鶴",
+                    "stype": "問相差",
+                    "trace_code": "10194-961-4"
+                }
+            ]
+        },
+        {
+            "qid": "52196",
+            "question": "一本百科全書厚2公分9毫米，一本字典厚4公分3毫米，兩本書的厚度相差幾公分幾毫米？",
+            "fastype": "<UNK>",
+            "difficulty": {
+                "grade": "3",
+                "level": "難"
+            },
+            "answer": "1公分4毫米",
+            "sentences": [
+                {
+                    "sentence": "一本百科全書厚2公分9毫米",
+                    "stype": "每單位量",
+                    "trace_code": "11606-996-1"
+                },
+                {
+                    "sentence": "一本字典厚4公分3毫米",
+                    "stype": "每單位量",
+                    "trace_code": "11606-996-2"
+                },
+                {
+                    "sentence": "兩本書的厚度相差幾公分幾毫米",
+                    "stype": "問相差",
+                    "trace_code": "11606-996-3"
+                }
+            ]
+        },
+        {
+            "qid": "43493",
+            "question": "文具店昨天賣了7102枝原子筆、5463枝鉛筆，原子筆比鉛筆多賣幾枝？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "3",
+                "level": "難"
+            },
+            "answer": "1639枝",
+            "sentences": [
+                {
+                    "sentence": "文具店昨天賣了7102枝原子筆、5463枝鉛筆",
+                    "stype": "量變",
+                    "trace_code": "15929-1121-1"
+                },
+                {
+                    "sentence": "原子筆比鉛筆多賣幾枝",
+                    "stype": "問相差",
+                    "trace_code": "15929-1121-2"
+                }
+            ]
+        },
+        {
+            "qid": "82145",
+            "question": "一盒彩色筆的定價是135元，減價時一盒賣110元，老師在減價時買了25盒彩色筆，總共便宜幾元？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "5",
+                "level": "中"
+            },
+            "answer": "625元",
+            "sentences": [
+                {
+                    "sentence": "一盒彩色筆的定價是135元",
+                    "stype": "每單位量",
+                    "trace_code": "15269-1542-1"
+                },
+                {
+                    "sentence": "減價時一盒賣110元",
+                    "stype": "每單位量",
+                    "trace_code": "15269-1542-2"
+                },
+                {
+                    "sentence": "老師在減價時買了25盒彩色筆",
+                    "stype": "量變",
+                    "trace_code": "15269-1542-3"
+                },
+                {
+                    "sentence": "總共便宜幾元",
+                    "stype": "問相差",
+                    "trace_code": "15269-1542-4"
+                }
+            ]
+        },
+        {
+            "qid": "21804",
+            "question": "草莓蛋糕一個73元，桂圓蛋糕一個45元，草莓蛋糕比桂圓蛋糕貴幾元？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "2",
+                "level": "易"
+            },
+            "answer": "28元",
+            "sentences": [
+                {
+                    "sentence": "草莓蛋糕一個73元",
+                    "stype": "每單位量",
+                    "trace_code": "14618-1737-1"
+                },
+                {
+                    "sentence": "桂圓蛋糕一個45元",
+                    "stype": "每單位量",
+                    "trace_code": "14618-1737-2"
+                },
+                {
+                    "sentence": "草莓蛋糕比桂圓蛋糕貴幾元",
+                    "stype": "問相差",
+                    "trace_code": "14618-1737-3"
+                }
+            ]
+        },
+        {
+            "qid": "20491",
+            "question": "小玉有43張好棒貼紙，小英有37張，小玉比小英多幾張好棒貼紙？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "2",
+                "level": "易"
+            },
+            "answer": "6張",
+            "sentences": [
+                {
+                    "sentence": "小玉有43張好棒貼紙",
+                    "stype": "有",
+                    "trace_code": "15091-1824-1"
+                },
+                {
+                    "sentence": "小英有37張",
+                    "stype": "有",
+                    "trace_code": "15091-1824-2"
+                },
+                {
+                    "sentence": "小玉比小英多幾張好棒貼紙",
+                    "stype": "問相差",
+                    "trace_code": "15091-1824-3"
+                }
+            ]
+        },
+        {
+            "qid": "21803",
+            "question": "草莓蛋糕一個48元，桂圓蛋糕一個39元，草莓蛋糕比桂圓蛋糕貴幾元？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "2",
+                "level": "易"
+            },
+            "answer": "9元",
+            "sentences": [
+                {
+                    "sentence": "草莓蛋糕一個48元",
+                    "stype": "每單位量",
+                    "trace_code": "14617-1836-1"
+                },
+                {
+                    "sentence": "桂圓蛋糕一個39元",
+                    "stype": "每單位量",
+                    "trace_code": "14617-1836-2"
+                },
+                {
+                    "sentence": "草莓蛋糕比桂圓蛋糕貴幾元",
+                    "stype": "問相差",
+                    "trace_code": "14617-1836-3"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0120272",
+            "question": "媽媽買47顆橘子和33顆柳丁，橘子比柳丁多幾顆？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "2",
+                "level": "易"
+            },
+            "answer": "14顆",
+            "sentences": [
+                {
+                    "sentence": "媽媽買47顆橘子和33顆柳丁",
+                    "stype": "量變",
+                    "trace_code": "10623-1926-1"
+                },
+                {
+                    "sentence": "橘子比柳丁多幾顆",
+                    "stype": "問相差",
+                    "trace_code": "10623-1926-2"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0120134",
+            "question": "一盒月餅有6塊，晶晶買了8盒，月月買了5盒，晶晶比月月多買了幾塊月餅？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "2",
+                "level": "易"
+            },
+            "answer": "18塊",
+            "sentences": [
+                {
+                    "sentence": "一盒月餅有6塊",
+                    "stype": "每單位量",
+                    "trace_code": "10495-1932-1"
+                },
+                {
+                    "sentence": "晶晶買了8盒",
+                    "stype": "量變",
+                    "trace_code": "10495-1932-2"
+                },
+                {
+                    "sentence": "月月買了5盒",
+                    "stype": "量變",
+                    "trace_code": "10495-1932-3"
+                },
+                {
+                    "sentence": "晶晶比月月多買了幾塊月餅",
+                    "stype": "問相差",
+                    "trace_code": "10495-1932-4"
+                }
+            ]
+        },
+        {
+            "qid": "20486",
+            "question": "一瓶果汁牛奶65元，一瓶可樂29元，一瓶果汁牛奶比一瓶可樂貴多少元？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "2",
+                "level": "易"
+            },
+            "answer": "36元",
+            "sentences": [
+                {
+                    "sentence": "一瓶果汁牛奶65元",
+                    "stype": "每單位量",
+                    "trace_code": "15087-1942-1"
+                },
+                {
+                    "sentence": "一瓶可樂29元",
+                    "stype": "每單位量",
+                    "trace_code": "15087-1942-2"
+                },
+                {
+                    "sentence": "一瓶果汁牛奶比一瓶可樂貴多少元",
+                    "stype": "問相差",
+                    "trace_code": "15087-1942-3"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0161757",
+            "question": "逸萱買了1/4公斤的香瓜，花了36元；育誠買了1公斤的西瓜，花了21元。1公斤的香瓜比1公斤的西瓜貴多少元？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "6",
+                "level": "中"
+            },
+            "answer": "123元",
+            "sentences": [
+                {
+                    "sentence": "逸萱買了1/4公斤的香瓜",
+                    "stype": "量變",
+                    "trace_code": "4609-2161-1"
+                },
+                {
+                    "sentence": "花了36元",
+                    "stype": "量變",
+                    "trace_code": "4609-2161-2"
+                },
+                {
+                    "sentence": "育誠買了1公斤的西瓜",
+                    "stype": "量變",
+                    "trace_code": "4609-2161-3"
+                },
+                {
+                    "sentence": "花了21元",
+                    "stype": "量變",
+                    "trace_code": "4609-2161-4"
+                },
+                {
+                    "sentence": "1公斤的香瓜比1公斤的西瓜貴多少元",
+                    "stype": "問相差",
+                    "trace_code": "4609-2161-5"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0160166",
+            "question": "小琪買橘子0.8公斤，花了36元，小全買桃子1公斤，花了96元。1公斤的桃子比橘子貴多少元？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "6",
+                "level": "中"
+            },
+            "answer": "35元",
+            "sentences": [
+                {
+                    "sentence": "小琪買橘子0.8公斤",
+                    "stype": "量變",
+                    "trace_code": "4506-2490-1"
+                },
+                {
+                    "sentence": "花了36元",
+                    "stype": "量變",
+                    "trace_code": "4506-2490-2"
+                },
+                {
+                    "sentence": "小全買桃子1公斤",
+                    "stype": "量變",
+                    "trace_code": "4506-2490-3"
+                },
+                {
+                    "sentence": "花了96元",
+                    "stype": "量變",
+                    "trace_code": "4506-2490-4"
+                },
+                {
+                    "sentence": "1公斤的桃子比橘子貴多少元",
+                    "stype": "問相差",
+                    "trace_code": "4506-2490-5"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0160266",
+            "question": "崇和40分鐘走2.6公里，文佑35分鐘走2.38公里，兩人每分鐘相差幾公尺？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "6",
+                "level": "中"
+            },
+            "answer": "3公尺",
+            "sentences": [
+                {
+                    "sentence": "崇和40分鐘走2.6公里",
+                    "stype": "每單位量",
+                    "trace_code": "4530-2551-1"
+                },
+                {
+                    "sentence": "文佑35分鐘走2.38公里",
+                    "stype": "每單位量",
+                    "trace_code": "4530-2551-2"
+                },
+                {
+                    "sentence": "兩人每分鐘相差幾公尺",
+                    "stype": "問相差",
+                    "trace_code": "4530-2551-3"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0160406",
+            "question": "從家裡到兒童樂園有150公里，去的時候爸爸開車要1.5小時，回來的時候媽媽開車要2小時，爸爸和媽媽開車的平均時速相差幾公里？",
+            "fastype": "<UNK>",
+            "difficulty": {
+                "grade": "6",
+                "level": "中"
+            },
+            "answer": "25公里",
+            "sentences": [
+                {
+                    "sentence": "從家裡到兒童樂園有150公里",
+                    "stype": "有",
+                    "trace_code": "4556-2629-1"
+                },
+                {
+                    "sentence": "去的時候爸爸開車要1.5小時",
+                    "stype": "量變",
+                    "trace_code": "4556-2629-2"
+                },
+                {
+                    "sentence": "回來的時候媽媽開車要2小時",
+                    "stype": "量變",
+                    "trace_code": "4556-2629-3"
+                },
+                {
+                    "sentence": "爸爸和媽媽開車的平均時速相差幾公里",
+                    "stype": "問相差",
+                    "trace_code": "4556-2629-4"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0160382",
+            "question": "哥哥每天都會慢跑0.2小時，今天他慢跑的分速是320公尺，昨天他慢跑的分速是325公尺，這兩天慢跑的距離相差多少公尺？",
+            "fastype": "<UNK>",
+            "difficulty": {
+                "grade": "6",
+                "level": "中"
+            },
+            "answer": "60公尺",
+            "sentences": [
+                {
+                    "sentence": "哥哥每天都會慢跑0.2小時",
+                    "stype": "每單位量",
+                    "trace_code": "4549-2787-1"
+                },
+                {
+                    "sentence": "今天他慢跑的分速是320公尺",
+                    "stype": "每單位量",
+                    "trace_code": "4549-2787-2"
+                },
+                {
+                    "sentence": "昨天他慢跑的分速是325公尺",
+                    "stype": "每單位量",
+                    "trace_code": "4549-2787-3"
+                },
+                {
+                    "sentence": "這兩天慢跑的距離相差多少公尺",
+                    "stype": "問相差",
+                    "trace_code": "4549-2787-4"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0150672",
+            "question": "哥哥有110元，弟弟有55元，媽媽再給弟弟25元後，哥哥和弟弟相差多少元？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "5",
+                "level": "易"
+            },
+            "answer": "30元",
+            "sentences": [
+                {
+                    "sentence": "哥哥有110元",
+                    "stype": "有",
+                    "trace_code": "1178-3153-1"
+                },
+                {
+                    "sentence": "弟弟有55元",
+                    "stype": "有",
+                    "trace_code": "1178-3153-2"
+                },
+                {
+                    "sentence": "媽媽再給弟弟25元後",
+                    "stype": "量變",
+                    "trace_code": "1178-3153-3"
+                },
+                {
+                    "sentence": "哥哥和弟弟相差多少元",
+                    "stype": "問相差",
+                    "trace_code": "1178-3153-4"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0150181",
+            "question": "一箱蘋果重15.037公斤，另一箱水梨重9.37公斤，這兩箱水果的重量相差多少公斤？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "5",
+                "level": "易"
+            },
+            "answer": "5.667公斤",
+            "sentences": [
+                {
+                    "sentence": "一箱蘋果重15.037公斤",
+                    "stype": "每單位量",
+                    "trace_code": "8494-3173-1"
+                },
+                {
+                    "sentence": "另一箱水梨重9.37公斤",
+                    "stype": "有",
+                    "trace_code": "8494-3173-2"
+                },
+                {
+                    "sentence": "這兩箱水果的重量相差多少公斤",
+                    "stype": "問相差",
+                    "trace_code": "8494-3173-3"
+                }
+            ]
+        },
+        {
+            "qid": "82785",
+            "question": "一張卡紙的厚度大約0.0346公分，一張影印紙的厚度大約0.012公分，卡紙比影印紙厚幾公分？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "5",
+                "level": "易"
+            },
+            "answer": "0.0226公分",
+            "sentences": [
+                {
+                    "sentence": "一張卡紙的厚度大約0.0346公分",
+                    "stype": "每單位量",
+                    "trace_code": "6505-3189-1"
+                },
+                {
+                    "sentence": "一張影印紙的厚度大約0.012公分",
+                    "stype": "每單位量",
+                    "trace_code": "6505-3189-2"
+                },
+                {
+                    "sentence": "卡紙比影印紙厚幾公分",
+                    "stype": "問相差",
+                    "trace_code": "6505-3189-3"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0150175",
+            "question": "一罐葡萄汁有2.305公升，一罐柳橙汁有3.09公升，兩罐果汁相差多少公升？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "5",
+                "level": "易"
+            },
+            "answer": "0.785公升",
+            "sentences": [
+                {
+                    "sentence": "一罐葡萄汁有2.305公升",
+                    "stype": "每單位量",
+                    "trace_code": "8491-3191-1"
+                },
+                {
+                    "sentence": "一罐柳橙汁有3.09公升",
+                    "stype": "每單位量",
+                    "trace_code": "8491-3191-2"
+                },
+                {
+                    "sentence": "兩罐果汁相差多少公升",
+                    "stype": "問相差",
+                    "trace_code": "8491-3191-3"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0150184",
+            "question": "青蛙卵的直徑約0.2公分，人類的紅血球直徑約0.0009公分，它們相差多少？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "5",
+                "level": "易"
+            },
+            "answer": "0.1991公分",
+            "sentences": [
+                {
+                    "sentence": "青蛙卵的直徑約0.2公分",
+                    "stype": "有",
+                    "trace_code": "10432-3209-1"
+                },
+                {
+                    "sentence": "人類的紅血球直徑約0.0009公分",
+                    "stype": "有",
+                    "trace_code": "10432-3209-2"
+                },
+                {
+                    "sentence": "它們相差多少",
+                    "stype": "問相差",
+                    "trace_code": "10432-3209-3"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0152309",
+            "question": "哥哥吃了1+(3/4)包的餅乾，姐姐吃了2+(5/16)包，姐姐比哥哥多吃了多少包餅乾？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "5",
+                "level": "易"
+            },
+            "answer": "9/16包",
+            "sentences": [
+                {
+                    "sentence": "哥哥吃了1+(3/4)包的餅乾",
+                    "stype": "量變",
+                    "trace_code": "1323-3224-1"
+                },
+                {
+                    "sentence": "姐姐吃了2+(5/16)包",
+                    "stype": "量變",
+                    "trace_code": "1323-3224-2"
+                },
+                {
+                    "sentence": "姐姐比哥哥多吃了多少包餅乾",
+                    "stype": "問相差",
+                    "trace_code": "1323-3224-3"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0151073",
+            "question": "黃彩帶長2公尺，藍彩帶長4+(1/2)公尺，藍彩帶比黃彩帶長幾公尺？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "5",
+                "level": "易"
+            },
+            "answer": "2+(1/2)公尺",
+            "sentences": [
+                {
+                    "sentence": "黃彩帶長2公尺",
+                    "stype": "有",
+                    "trace_code": "8730-3261-1"
+                },
+                {
+                    "sentence": "藍彩帶長4+(1/2)公尺",
+                    "stype": "有",
+                    "trace_code": "8730-3261-2"
+                },
+                {
+                    "sentence": "藍彩帶比黃彩帶長幾公尺",
+                    "stype": "問相差",
+                    "trace_code": "8730-3261-3"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0152307",
+            "question": "有一袋重7/10公斤的李子和另一袋重3/8公斤的李子，兩袋相差多少公斤？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "5",
+                "level": "易"
+            },
+            "answer": "13/40公斤",
+            "sentences": [
+                {
+                    "sentence": "有一袋重7/10公斤的李子和另一袋重3/8公斤的李子",
+                    "stype": "有",
+                    "trace_code": "1322-3268-1"
+                },
+                {
+                    "sentence": "兩袋相差多少公斤",
+                    "stype": "問相差",
+                    "trace_code": "1322-3268-2"
+                }
+            ]
+        },
+        {
+            "qid": "80167",
+            "question": "特大罐的鮮乳容量為2.9872公升，大罐的鮮乳容量為1.9563公升，兩種容量相差幾公升？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "5",
+                "level": "易"
+            },
+            "answer": "1.0309公升",
+            "sentences": [
+                {
+                    "sentence": "特大罐的鮮乳容量為2.9872公升",
+                    "stype": "有",
+                    "trace_code": "16585-3269-1"
+                },
+                {
+                    "sentence": "大罐的鮮乳容量為1.9563公升",
+                    "stype": "有",
+                    "trace_code": "16585-3269-2"
+                },
+                {
+                    "sentence": "兩種容量相差幾公升",
+                    "stype": "問相差",
+                    "trace_code": "16585-3269-3"
+                }
+            ]
+        },
+        {
+            "qid": "82784",
+            "question": "一張卡紙的厚度大約0.048公分，一張影印紙的厚度大約0.00123公分，卡紙比影印紙厚幾公分？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "5",
+                "level": "易"
+            },
+            "answer": "0.04677公分",
+            "sentences": [
+                {
+                    "sentence": "一張卡紙的厚度大約0.048公分",
+                    "stype": "每單位量",
+                    "trace_code": "6504-3274-1"
+                },
+                {
+                    "sentence": "一張影印紙的厚度大約0.00123公分",
+                    "stype": "每單位量",
+                    "trace_code": "6504-3274-2"
+                },
+                {
+                    "sentence": "卡紙比影印紙厚幾公分",
+                    "stype": "問相差",
+                    "trace_code": "6504-3274-3"
+                }
+            ]
+        },
+        {
+            "qid": "71667",
+            "question": "小明有256元，小華有573元，後來小明花掉了78元，小華花掉了429元，現在小明比小華多幾元？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "4",
+                "level": "挑戰"
+            },
+            "answer": "34元",
+            "sentences": [
+                {
+                    "sentence": "小明有256元",
+                    "stype": "有",
+                    "trace_code": "12165-3333-1"
+                },
+                {
+                    "sentence": "小華有573元",
+                    "stype": "有",
+                    "trace_code": "12165-3333-2"
+                },
+                {
+                    "sentence": "後來小明花掉了78元",
+                    "stype": "量變",
+                    "trace_code": "12165-3333-3"
+                },
+                {
+                    "sentence": "小華花掉了429元",
+                    "stype": "量變",
+                    "trace_code": "12165-3333-4"
+                },
+                {
+                    "sentence": "現在小明比小華多幾元",
+                    "stype": "問相差",
+                    "trace_code": "12165-3333-5"
+                }
+            ]
+        },
+        {
+            "qid": "63959",
+            "question": "大忠騎腳踏車到學校花了3分25秒，走路到學校花了6分37秒，騎腳踏車比走路快多少時間？",
+            "fastype": "<UNK>",
+            "difficulty": {
+                "grade": "4",
+                "level": "易"
+            },
+            "answer": "3分12秒",
+            "sentences": [
+                {
+                    "sentence": "大忠騎腳踏車到學校花了3分25秒",
+                    "stype": "量變",
+                    "trace_code": "16570-3377-1"
+                },
+                {
+                    "sentence": "走路到學校花了6分37秒",
+                    "stype": "量變",
+                    "trace_code": "16570-3377-2"
+                },
+                {
+                    "sentence": "騎腳踏車比走路快多少時間",
+                    "stype": "問相差",
+                    "trace_code": "16570-3377-3"
+                }
+            ]
+        },
+        {
+            "qid": "90509",
+            "question": "一桶冬瓜茶是12公升，甲分店今天賣出0.48桶，乙分店今天賣出1.6桶，兩家分店今天賣出的冬瓜茶相差幾公升？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "5",
+                "level": "挑戰"
+            },
+            "answer": "13.44公升",
+            "sentences": [
+                {
+                    "sentence": "一桶冬瓜茶是12公升",
+                    "stype": "每單位量",
+                    "trace_code": "12478-3474-1"
+                },
+                {
+                    "sentence": "甲分店今天賣出0.48桶",
+                    "stype": "量變",
+                    "trace_code": "12478-3474-2"
+                },
+                {
+                    "sentence": "乙分店今天賣出1.6桶",
+                    "stype": "量變",
+                    "trace_code": "12478-3474-3"
+                },
+                {
+                    "sentence": "兩家分店今天賣出的冬瓜茶相差幾公升",
+                    "stype": "問相差",
+                    "trace_code": "12478-3474-4"
+                }
+            ]
+        },
+        {
+            "qid": "1212",
+            "question": "動物園裡有4隻小熊、9隻企鵝，企鵝比小熊多幾隻？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "1",
+                "level": "中"
+            },
+            "answer": "5隻",
+            "sentences": [
+                {
+                    "sentence": "動物園裡有4隻小熊、9隻企鵝",
+                    "stype": "有",
+                    "trace_code": "14913-3521-1"
+                },
+                {
+                    "sentence": "企鵝比小熊多幾隻",
+                    "stype": "問相差",
+                    "trace_code": "14913-3521-2"
+                }
+            ]
+        },
+        {
+            "qid": "2034",
+            "question": "盒子裡有4顆草莓糖和8顆牛奶糖，草莓糖比牛奶糖少幾顆？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "1",
+                "level": "中"
+            },
+            "answer": "4顆",
+            "sentences": [
+                {
+                    "sentence": "盒子裡有4顆草莓糖和8顆牛奶糖",
+                    "stype": "有",
+                    "trace_code": "14950-3538-1"
+                },
+                {
+                    "sentence": "草莓糖比牛奶糖少幾顆",
+                    "stype": "問相差",
+                    "trace_code": "14950-3538-2"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0110760",
+            "question": "瑞瑞有11本故事書和6本圖畫書，圖畫書比故事書少幾本？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "1",
+                "level": "中"
+            },
+            "answer": "5本",
+            "sentences": [
+                {
+                    "sentence": "瑞瑞有11本故事書和6本圖畫書",
+                    "stype": "有",
+                    "trace_code": "1702-3550-1"
+                },
+                {
+                    "sentence": "圖畫書比故事書少幾本",
+                    "stype": "問相差",
+                    "trace_code": "1702-3550-2"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0111472",
+            "question": "美美有17顆紅珠子和8顆藍珠子，紅珠子比藍珠子多幾顆？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "1",
+                "level": "中"
+            },
+            "answer": "9顆",
+            "sentences": [
+                {
+                    "sentence": "美美有17顆紅珠子和8顆藍珠子",
+                    "stype": "有",
+                    "trace_code": "1771-3577-1"
+                },
+                {
+                    "sentence": "紅珠子比藍珠子多幾顆",
+                    "stype": "問相差",
+                    "trace_code": "1771-3577-2"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0110770",
+            "question": "安安有7顆糖，平平有11顆糖，平平比安安多幾顆糖？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "1",
+                "level": "中"
+            },
+            "answer": "4顆",
+            "sentences": [
+                {
+                    "sentence": "安安有7顆糖",
+                    "stype": "有",
+                    "trace_code": "1705-3585-1"
+                },
+                {
+                    "sentence": "平平有11顆糖",
+                    "stype": "有",
+                    "trace_code": "1705-3585-2"
+                },
+                {
+                    "sentence": "平平比安安多幾顆糖",
+                    "stype": "問相差",
+                    "trace_code": "1705-3585-3"
+                }
+            ]
+        },
+        {
+            "qid": "917",
+            "question": "樹上有7隻鳥，電線桿上有4隻鳥，樹上的鳥比電線桿上的多幾隻？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "1",
+                "level": "中"
+            },
+            "answer": "3隻",
+            "sentences": [
+                {
+                    "sentence": "樹上有7隻鳥",
+                    "stype": "有",
+                    "trace_code": "15047-3674-1"
+                },
+                {
+                    "sentence": "電線桿上有4隻鳥",
+                    "stype": "有",
+                    "trace_code": "15047-3674-2"
+                },
+                {
+                    "sentence": "樹上的鳥比電線桿上的多幾隻",
+                    "stype": "問相差",
+                    "trace_code": "15047-3674-3"
+                }
+            ]
+        },
+        {
+            "qid": "10404",
+            "question": "繩子繞爸爸腰帶一圈是18塊布長，繩子繞妹妹腰帶一圈有9塊布長，妹妹的腰帶比爸爸的腰帶少幾塊布長？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "1",
+                "level": "中"
+            },
+            "answer": "9塊",
+            "sentences": [
+                {
+                    "sentence": "繩子繞爸爸腰帶一圈是18塊布長",
+                    "stype": "每單位量",
+                    "trace_code": "7129-3682-1"
+                },
+                {
+                    "sentence": "繩子繞妹妹腰帶一圈有9塊布長",
+                    "stype": "每單位量",
+                    "trace_code": "7129-3682-2"
+                },
+                {
+                    "sentence": "妹妹的腰帶比爸爸的腰帶少幾塊布長",
+                    "stype": "問相差",
+                    "trace_code": "7129-3682-3"
+                }
+            ]
+        },
+        {
+            "qid": "10713",
+            "question": "豬大哥存了44元，豬小弟存了5元，豬大哥比豬小弟多存了幾元？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "1",
+                "level": "中"
+            },
+            "answer": "39元",
+            "sentences": [
+                {
+                    "sentence": "豬大哥存了44元",
+                    "stype": "量變",
+                    "trace_code": "7156-3683-1"
+                },
+                {
+                    "sentence": "豬小弟存了5元",
+                    "stype": "量變",
+                    "trace_code": "7156-3683-2"
+                },
+                {
+                    "sentence": "豬大哥比豬小弟多存了幾元",
+                    "stype": "問相差",
+                    "trace_code": "7156-3683-3"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0110805",
+            "question": "有18瓶牛奶和6瓶果汁，牛奶比果汁多幾瓶？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "1",
+                "level": "中"
+            },
+            "answer": "12瓶",
+            "sentences": [
+                {
+                    "sentence": "有18瓶牛奶和6瓶果汁",
+                    "stype": "有",
+                    "trace_code": "550-3688-1"
+                },
+                {
+                    "sentence": "牛奶比果汁多幾瓶",
+                    "stype": "問相差",
+                    "trace_code": "550-3688-2"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0110802",
+            "question": "阿杰有14臺小汽車，弟弟有2臺，阿杰比弟弟多幾臺小汽車？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "1",
+                "level": "中"
+            },
+            "answer": "12臺",
+            "sentences": [
+                {
+                    "sentence": "阿杰有14臺小汽車",
+                    "stype": "有",
+                    "trace_code": "548-3690-1"
+                },
+                {
+                    "sentence": "弟弟有2臺",
+                    "stype": "有",
+                    "trace_code": "548-3690-2"
+                },
+                {
+                    "sentence": "阿杰比弟弟多幾臺小汽車",
+                    "stype": "問相差",
+                    "trace_code": "548-3690-3"
+                }
+            ]
+        },
+        {
+            "qid": "2385",
+            "question": "一塊披薩，弟弟吃了2片，爸爸吃了4片，爸爸比弟弟多吃了幾片？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "1",
+                "level": "中"
+            },
+            "answer": "2片",
+            "sentences": [
+                {
+                    "sentence": "一塊披薩",
+                    "stype": "有",
+                    "trace_code": "5175-3691-1"
+                },
+                {
+                    "sentence": "弟弟吃了2片",
+                    "stype": "量變",
+                    "trace_code": "5175-3691-2"
+                },
+                {
+                    "sentence": "爸爸吃了4片",
+                    "stype": "量變",
+                    "trace_code": "5175-3691-3"
+                },
+                {
+                    "sentence": "爸爸比弟弟多吃了幾片",
+                    "stype": "問相差",
+                    "trace_code": "5175-3691-4"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0110789",
+            "question": "農場上有18隻黑豬和3隻白豬，黑豬比白豬多幾隻？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "1",
+                "level": "中"
+            },
+            "answer": "15隻",
+            "sentences": [
+                {
+                    "sentence": "農場上有18隻黑豬和3隻白豬",
+                    "stype": "有",
+                    "trace_code": "544-3741-1"
+                },
+                {
+                    "sentence": "黑豬比白豬多幾隻",
+                    "stype": "問相差",
+                    "trace_code": "544-3741-2"
+                }
+            ]
+        },
+        {
+            "qid": "11771",
+            "question": "冰箱裡有15瓶果汁和7瓶牛奶，果汁比牛奶多幾瓶？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "1",
+                "level": "中"
+            },
+            "answer": "8瓶",
+            "sentences": [
+                {
+                    "sentence": "冰箱裡有15瓶果汁和7瓶牛奶",
+                    "stype": "有",
+                    "trace_code": "7085-3742-1"
+                },
+                {
+                    "sentence": "果汁比牛奶多幾瓶",
+                    "stype": "問相差",
+                    "trace_code": "7085-3742-2"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0111132",
+            "question": "妹妹有14枝彩色筆和7枝鉛筆，彩色筆比鉛筆多幾枝？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "1",
+                "level": "中"
+            },
+            "answer": "7枝",
+            "sentences": [
+                {
+                    "sentence": "妹妹有14枝彩色筆和7枝鉛筆",
+                    "stype": "有",
+                    "trace_code": "570-3745-1"
+                },
+                {
+                    "sentence": "彩色筆比鉛筆多幾枝",
+                    "stype": "問相差",
+                    "trace_code": "570-3745-2"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0111428",
+            "question": "芋頭果汁一杯65元、珍珠奶茶一杯40元，一杯芋頭果汁比一杯珍珠奶茶貴多少元?",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "1",
+                "level": "中"
+            },
+            "answer": "25元",
+            "sentences": [
+                {
+                    "sentence": "芋頭果汁一杯65元、珍珠奶茶一杯40元",
+                    "stype": "每單位量",
+                    "trace_code": "1766-3758-1"
+                },
+                {
+                    "sentence": "一杯芋頭果汁比一杯珍珠奶茶貴多少元?",
+                    "stype": "問相差",
+                    "trace_code": "1766-3758-2"
+                }
+            ]
+        },
+        {
+            "qid": "1983",
+            "question": "妹妹有4張貼紙，姐姐有7張貼紙，姐姐比妹妹多幾張？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "1",
+                "level": "中"
+            },
+            "answer": "3張",
+            "sentences": [
+                {
+                    "sentence": "妹妹有4張貼紙",
+                    "stype": "有",
+                    "trace_code": "14945-3774-1"
+                },
+                {
+                    "sentence": "姐姐有7張貼紙",
+                    "stype": "有",
+                    "trace_code": "14945-3774-2"
+                },
+                {
+                    "sentence": "姐姐比妹妹多幾張",
+                    "stype": "問相差",
+                    "trace_code": "14945-3774-3"
+                }
+            ]
+        },
+        {
+            "qid": "1208",
+            "question": "盤子裡有4顆木瓜和6顆芭樂，木瓜比芭樂少幾顆？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "1",
+                "level": "中"
+            },
+            "answer": "2顆",
+            "sentences": [
+                {
+                    "sentence": "盤子裡有4顆木瓜和6顆芭樂",
+                    "stype": "有",
+                    "trace_code": "5139-3777-1"
+                },
+                {
+                    "sentence": "木瓜比芭樂少幾顆",
+                    "stype": "問相差",
+                    "trace_code": "5139-3777-2"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0111269",
+            "question": "車上有14個男生和9個女生，男生比女生多幾人？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "1",
+                "level": "中"
+            },
+            "answer": "5人",
+            "sentences": [
+                {
+                    "sentence": "車上有14個男生和9個女生",
+                    "stype": "有",
+                    "trace_code": "7637-3780-1"
+                },
+                {
+                    "sentence": "男生比女生多幾人",
+                    "stype": "問相差",
+                    "trace_code": "7637-3780-2"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0110651",
+            "question": "魚缸裡有4條紅魚和11條黃魚，黃魚比紅魚多幾條？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "1",
+                "level": "中"
+            },
+            "answer": "7條",
+            "sentences": [
+                {
+                    "sentence": "魚缸裡有4條紅魚和11條黃魚",
+                    "stype": "有",
+                    "trace_code": "10056-3782-1"
+                },
+                {
+                    "sentence": "黃魚比紅魚多幾條",
+                    "stype": "問相差",
+                    "trace_code": "10056-3782-2"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0110649",
+            "question": "偉偉有8張貼紙，凱凱有14張貼紙，偉偉比凱凱少幾張貼紙？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "1",
+                "level": "中"
+            },
+            "answer": "6張",
+            "sentences": [
+                {
+                    "sentence": "偉偉有8張貼紙",
+                    "stype": "有",
+                    "trace_code": "10055-3790-1"
+                },
+                {
+                    "sentence": "凱凱有14張貼紙",
+                    "stype": "有",
+                    "trace_code": "10055-3790-2"
+                },
+                {
+                    "sentence": "偉偉比凱凱少幾張貼紙",
+                    "stype": "問相差",
+                    "trace_code": "10055-3790-3"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0111268",
+            "question": "罐子裡有14顆糖和8顆巧克力，糖比巧克力多幾顆？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "1",
+                "level": "中"
+            },
+            "answer": "6顆",
+            "sentences": [
+                {
+                    "sentence": "罐子裡有14顆糖和8顆巧克力",
+                    "stype": "有",
+                    "trace_code": "7636-3814-1"
+                },
+                {
+                    "sentence": "糖比巧克力多幾顆",
+                    "stype": "問相差",
+                    "trace_code": "7636-3814-2"
+                }
+            ]
+        },
+        {
+            "qid": "2104",
+            "question": "小惠有9枝鉛筆，小文有7枝鉛筆，小惠的鉛筆比小文的多幾枝？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "1",
+                "level": "中"
+            },
+            "answer": "2枝",
+            "sentences": [
+                {
+                    "sentence": "小惠有9枝鉛筆",
+                    "stype": "有",
+                    "trace_code": "14954-3822-1"
+                },
+                {
+                    "sentence": "小文有7枝鉛筆",
+                    "stype": "有",
+                    "trace_code": "14954-3822-2"
+                },
+                {
+                    "sentence": "小惠的鉛筆比小文的多幾枝",
+                    "stype": "問相差",
+                    "trace_code": "14954-3822-3"
+                }
+            ]
+        },
+        {
+            "qid": "10692",
+            "question": "農場裡有46隻小雞和13隻公雞，小雞比公雞多幾隻？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "1",
+                "level": "中"
+            },
+            "answer": "33隻",
+            "sentences": [
+                {
+                    "sentence": "農場裡有46隻小雞和13隻公雞",
+                    "stype": "有",
+                    "trace_code": "294-3849-1"
+                },
+                {
+                    "sentence": "小雞比公雞多幾隻",
+                    "stype": "問相差",
+                    "trace_code": "294-3849-2"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0110831",
+            "question": "玩具箱裡有4個布娃娃和11個玩具汽車，玩具汽車比布娃娃多幾個？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "1",
+                "level": "中"
+            },
+            "answer": "7個",
+            "sentences": [
+                {
+                    "sentence": "玩具箱裡有4個布娃娃和11個玩具汽車",
+                    "stype": "有",
+                    "trace_code": "7588-3858-1"
+                },
+                {
+                    "sentence": "玩具汽車比布娃娃多幾個",
+                    "stype": "問相差",
+                    "trace_code": "7588-3858-2"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0111267",
+            "question": "哥哥有18元，弟弟有5元，哥哥比弟弟多幾元？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "1",
+                "level": "中"
+            },
+            "answer": "13元",
+            "sentences": [
+                {
+                    "sentence": "哥哥有18元",
+                    "stype": "有",
+                    "trace_code": "7635-3870-1"
+                },
+                {
+                    "sentence": "弟弟有5元",
+                    "stype": "有",
+                    "trace_code": "7635-3870-2"
+                },
+                {
+                    "sentence": "哥哥比弟弟多幾元",
+                    "stype": "問相差",
+                    "trace_code": "7635-3870-3"
+                }
+            ]
+        },
+        {
+            "qid": "2404",
+            "question": "小茹到文具店買了6枝麥克筆和9枝白板筆，白板筆比麥克筆多了幾枝？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "1",
+                "level": "中"
+            },
+            "answer": "3枝",
+            "sentences": [
+                {
+                    "sentence": "小茹到文具店買了6枝麥克筆和9枝白板筆",
+                    "stype": "量變",
+                    "trace_code": "14974-3879-1"
+                },
+                {
+                    "sentence": "白板筆比麥克筆多了幾枝",
+                    "stype": "問相差",
+                    "trace_code": "14974-3879-2"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0110771",
+            "question": "冰箱裡有6顆鹹蛋和15顆皮蛋，鹹蛋比皮蛋少幾顆？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "1",
+                "level": "中"
+            },
+            "answer": "9顆",
+            "sentences": [
+                {
+                    "sentence": "冰箱裡有6顆鹹蛋和15顆皮蛋",
+                    "stype": "有",
+                    "trace_code": "9408-3905-1"
+                },
+                {
+                    "sentence": "鹹蛋比皮蛋少幾顆",
+                    "stype": "問相差",
+                    "trace_code": "9408-3905-2"
+                }
+            ]
+        },
+        {
+            "qid": "1203",
+            "question": "菜籃裡有7把空心菜和4把芹菜，空心菜比芹菜多幾把？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "1",
+                "level": "中"
+            },
+            "answer": "3把",
+            "sentences": [
+                {
+                    "sentence": "菜籃裡有7把空心菜和4把芹菜",
+                    "stype": "有",
+                    "trace_code": "5137-3911-1"
+                },
+                {
+                    "sentence": "空心菜比芹菜多幾把",
+                    "stype": "問相差",
+                    "trace_code": "5137-3911-2"
+                }
+            ]
+        },
+        {
+            "qid": "1204",
+            "question": "球桶裡有5顆籃球和10顆躲避球，籃球比躲避球少幾顆？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "1",
+                "level": "中"
+            },
+            "answer": "5顆",
+            "sentences": [
+                {
+                    "sentence": "球桶裡有5顆籃球和10顆躲避球",
+                    "stype": "有",
+                    "trace_code": "14907-3930-1"
+                },
+                {
+                    "sentence": "籃球比躲避球少幾顆",
+                    "stype": "問相差",
+                    "trace_code": "14907-3930-2"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0110786",
+            "question": "冰箱裡有17瓶牛奶和4瓶汽水，牛奶比汽水多幾瓶？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "1",
+                "level": "中"
+            },
+            "answer": "13瓶",
+            "sentences": [
+                {
+                    "sentence": "冰箱裡有17瓶牛奶和4瓶汽水",
+                    "stype": "有",
+                    "trace_code": "542-3960-1"
+                },
+                {
+                    "sentence": "牛奶比汽水多幾瓶",
+                    "stype": "問相差",
+                    "trace_code": "542-3960-2"
+                }
+            ]
+        },
+        {
+            "qid": "11852",
+            "question": "小明有76元，小輝有22元，小明比小輝多幾元？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "1",
+                "level": "中"
+            },
+            "answer": "54元",
+            "sentences": [
+                {
+                    "sentence": "小明有76元",
+                    "stype": "有",
+                    "trace_code": "7167-3961-1"
+                },
+                {
+                    "sentence": "小輝有22元",
+                    "stype": "有",
+                    "trace_code": "7167-3961-2"
+                },
+                {
+                    "sentence": "小明比小輝多幾元",
+                    "stype": "問相差",
+                    "trace_code": "7167-3961-3"
+                }
+            ]
+        },
+        {
+            "qid": "926",
+            "question": "媽媽有10雙鞋子，爸爸有7雙鞋子，媽媽比爸爸多幾雙鞋子？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "1",
+                "level": "中"
+            },
+            "answer": "3雙",
+            "sentences": [
+                {
+                    "sentence": "媽媽有10雙鞋子",
+                    "stype": "有",
+                    "trace_code": "1543-3969-1"
+                },
+                {
+                    "sentence": "爸爸有7雙鞋子",
+                    "stype": "有",
+                    "trace_code": "1543-3969-2"
+                },
+                {
+                    "sentence": "媽媽比爸爸多幾雙鞋子",
+                    "stype": "問相差",
+                    "trace_code": "1543-3969-3"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0111133",
+            "question": "小文有8顆彈珠，小云有5顆彈珠，小文比小云多幾顆彈珠？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "1",
+                "level": "中"
+            },
+            "answer": "3顆",
+            "sentences": [
+                {
+                    "sentence": "小文有8顆彈珠",
+                    "stype": "有",
+                    "trace_code": "571-3974-1"
+                },
+                {
+                    "sentence": "小云有5顆彈珠",
+                    "stype": "有",
+                    "trace_code": "571-3974-2"
+                },
+                {
+                    "sentence": "小文比小云多幾顆彈珠",
+                    "stype": "問相差",
+                    "trace_code": "571-3974-3"
+                }
+            ]
+        },
+        {
+            "qid": "2403",
+            "question": "小靜有8張小熊貼紙，小美有2張，小靜比小美多幾張小熊貼紙？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "1",
+                "level": "中"
+            },
+            "answer": "6張",
+            "sentences": [
+                {
+                    "sentence": "小靜有8張小熊貼紙",
+                    "stype": "有",
+                    "trace_code": "14973-3976-1"
+                },
+                {
+                    "sentence": "小美有2張",
+                    "stype": "有",
+                    "trace_code": "14973-3976-2"
+                },
+                {
+                    "sentence": "小靜比小美多幾張小熊貼紙",
+                    "stype": "問相差",
+                    "trace_code": "14973-3976-3"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0110826",
+            "question": "停車場裡有6臺汽車和17臺摩托車，摩托車比汽車多幾臺？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "1",
+                "level": "中"
+            },
+            "answer": "11臺",
+            "sentences": [
+                {
+                    "sentence": "停車場裡有6臺汽車和17臺摩托車",
+                    "stype": "有",
+                    "trace_code": "558-3977-1"
+                },
+                {
+                    "sentence": "摩托車比汽車多幾臺",
+                    "stype": "問相差",
+                    "trace_code": "558-3977-2"
+                }
+            ]
+        },
+        {
+            "qid": "1211",
+            "question": "哥哥有7枝鉛筆，弟弟有3枝鉛筆，哥哥的鉛筆比弟弟的多幾枝？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "1",
+                "level": "中"
+            },
+            "answer": "4枝",
+            "sentences": [
+                {
+                    "sentence": "哥哥有7枝鉛筆",
+                    "stype": "有",
+                    "trace_code": "14912-3990-1"
+                },
+                {
+                    "sentence": "弟弟有3枝鉛筆",
+                    "stype": "有",
+                    "trace_code": "14912-3990-2"
+                },
+                {
+                    "sentence": "哥哥的鉛筆比弟弟的多幾枝",
+                    "stype": "問相差",
+                    "trace_code": "14912-3990-3"
+                }
+            ]
+        },
+        {
+            "qid": "1981",
+            "question": "妹妹有9枝原子筆，3枝鉛筆，原子筆比鉛筆多幾枝？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "1",
+                "level": "中"
+            },
+            "answer": "6枝",
+            "sentences": [
+                {
+                    "sentence": "妹妹有9枝原子筆",
+                    "stype": "有",
+                    "trace_code": "14943-3993-1"
+                },
+                {
+                    "sentence": "3枝鉛筆",
+                    "stype": "有",
+                    "trace_code": "14943-3993-2"
+                },
+                {
+                    "sentence": "原子筆比鉛筆多幾枝",
+                    "stype": "問相差",
+                    "trace_code": "14943-3993-3"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0111382",
+            "question": "冰箱裡有16瓶果汁和7瓶牛奶，牛奶比果汁少幾瓶?",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "1",
+                "level": "中"
+            },
+            "answer": "9瓶",
+            "sentences": [
+                {
+                    "sentence": "冰箱裡有16瓶果汁和7瓶牛奶",
+                    "stype": "有",
+                    "trace_code": "9482-4001-1"
+                },
+                {
+                    "sentence": "牛奶比果汁少幾瓶?",
+                    "stype": "問相差",
+                    "trace_code": "9482-4001-2"
+                }
+            ]
+        },
+        {
+            "qid": "1215",
+            "question": "池塘裡有5隻鵝、8隻鴨子，鵝比鴨子少幾隻？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "1",
+                "level": "中"
+            },
+            "answer": "3隻",
+            "sentences": [
+                {
+                    "sentence": "池塘裡有5隻鵝、8隻鴨子",
+                    "stype": "有",
+                    "trace_code": "5140-4040-1"
+                },
+                {
+                    "sentence": "鵝比鴨子少幾隻",
+                    "stype": "問相差",
+                    "trace_code": "5140-4040-2"
+                }
+            ]
+        },
+        {
+            "qid": "918",
+            "question": "雞舍裡有2隻公雞和8隻母雞，公雞比母雞少幾隻？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "1",
+                "level": "中"
+            },
+            "answer": "6隻",
+            "sentences": [
+                {
+                    "sentence": "雞舍裡有2隻公雞和8隻母雞",
+                    "stype": "有",
+                    "trace_code": "15048-4065-1"
+                },
+                {
+                    "sentence": "公雞比母雞少幾隻",
+                    "stype": "問相差",
+                    "trace_code": "15048-4065-2"
+                }
+            ]
+        },
+        {
+            "qid": "2483",
+            "question": "教室裡有10個女生和6個男生，女生比男生多幾人？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "1",
+                "level": "中"
+            },
+            "answer": "4人",
+            "sentences": [
+                {
+                    "sentence": "教室裡有10個女生和6個男生",
+                    "stype": "有",
+                    "trace_code": "14983-4070-1"
+                },
+                {
+                    "sentence": "女生比男生多幾人",
+                    "stype": "問相差",
+                    "trace_code": "14983-4070-2"
+                }
+            ]
+        },
+        {
+            "qid": "10685",
+            "question": "故事書裡有37隻白天鵝和16隻黑天鵝，白天鵝比黑天鵝多幾隻？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "1",
+                "level": "中"
+            },
+            "answer": "21隻",
+            "sentences": [
+                {
+                    "sentence": "故事書裡有37隻白天鵝和16隻黑天鵝",
+                    "stype": "有",
+                    "trace_code": "7136-4086-1"
+                },
+                {
+                    "sentence": "白天鵝比黑天鵝多幾隻",
+                    "stype": "問相差",
+                    "trace_code": "7136-4086-2"
+                }
+            ]
+        },
+        {
+            "qid": "928",
+            "question": "桃太郎有9張獎勵卡，豬小妹有7張獎勵卡，桃太郎的獎勵卡比豬小妹多幾張？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "1",
+                "level": "中"
+            },
+            "answer": "2張",
+            "sentences": [
+                {
+                    "sentence": "桃太郎有9張獎勵卡",
+                    "stype": "有",
+                    "trace_code": "14901-4102-1"
+                },
+                {
+                    "sentence": "豬小妹有7張獎勵卡",
+                    "stype": "有",
+                    "trace_code": "14901-4102-2"
+                },
+                {
+                    "sentence": "桃太郎的獎勵卡比豬小妹多幾張",
+                    "stype": "問相差",
+                    "trace_code": "14901-4102-3"
+                }
+            ]
+        },
+        {
+            "qid": "929",
+            "question": "草莓蛋糕有4個，巧克力蛋糕有2個，草莓蛋糕比巧克力蛋糕多幾個？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "1",
+                "level": "中"
+            },
+            "answer": "2個",
+            "sentences": [
+                {
+                    "sentence": "草莓蛋糕有4個",
+                    "stype": "有",
+                    "trace_code": "14902-4105-1"
+                },
+                {
+                    "sentence": "巧克力蛋糕有2個",
+                    "stype": "有",
+                    "trace_code": "14902-4105-2"
+                },
+                {
+                    "sentence": "草莓蛋糕比巧克力蛋糕多幾個",
+                    "stype": "問相差",
+                    "trace_code": "14902-4105-3"
+                }
+            ]
+        },
+        {
+            "qid": "20511",
+            "question": "今年爸爸41歲，小年12歲，兩人相差幾歲？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "2",
+                "level": "中"
+            },
+            "answer": "29歲",
+            "sentences": [
+                {
+                    "sentence": "今年爸爸41歲",
+                    "stype": "有",
+                    "trace_code": "15105-4399-1"
+                },
+                {
+                    "sentence": "小年12歲",
+                    "stype": "有",
+                    "trace_code": "15105-4399-2"
+                },
+                {
+                    "sentence": "兩人相差幾歲",
+                    "stype": "問相差",
+                    "trace_code": "15105-4399-3"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0142354",
+            "question": "馬路旁每隔7.84公尺種一棵樹，第1棵樹和第15棵樹相距多少公尺？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "4",
+                "level": "難"
+            },
+            "answer": "109.76公尺",
+            "sentences": [
+                {
+                    "sentence": "馬路旁每隔7.84公尺種一棵樹",
+                    "stype": "每單位量",
+                    "trace_code": "10837-4439-1"
+                },
+                {
+                    "sentence": "第1棵樹和第15棵樹相距多少公尺",
+                    "stype": "問相差",
+                    "trace_code": "10837-4439-2"
+                }
+            ]
+        },
+        {
+            "qid": "20667",
+            "question": "阿立跳遠跳了91公分，小如跳了87公分，阿立比小如多跳了多少公分？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "2",
+                "level": "中"
+            },
+            "answer": "4公分",
+            "sentences": [
+                {
+                    "sentence": "阿立跳遠跳了91公分",
+                    "stype": "量變",
+                    "trace_code": "15136-4484-1"
+                },
+                {
+                    "sentence": "小如跳了87公分",
+                    "stype": "量變",
+                    "trace_code": "15136-4484-2"
+                },
+                {
+                    "sentence": "阿立比小如多跳了多少公分",
+                    "stype": "問相差",
+                    "trace_code": "15136-4484-3"
+                }
+            ]
+        },
+        {
+            "qid": "22693",
+            "question": "小強有28元，阿力有40元，小強比阿力少幾元？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "2",
+                "level": "中"
+            },
+            "answer": "12元",
+            "sentences": [
+                {
+                    "sentence": "小強有28元",
+                    "stype": "有",
+                    "trace_code": "14737-4526-1"
+                },
+                {
+                    "sentence": "阿力有40元",
+                    "stype": "有",
+                    "trace_code": "14737-4526-2"
+                },
+                {
+                    "sentence": "小強比阿力少幾元",
+                    "stype": "問相差",
+                    "trace_code": "14737-4526-3"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0121682",
+            "question": "一袋水果有8顆，媽媽買了3袋，阿姨買了5袋，阿姨買的水果比媽媽多幾顆？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "2",
+                "level": "中"
+            },
+            "answer": "16顆",
+            "sentences": [
+                {
+                    "sentence": "一袋水果有8顆",
+                    "stype": "每單位量",
+                    "trace_code": "9806-4578-1"
+                },
+                {
+                    "sentence": "媽媽買了3袋",
+                    "stype": "量變",
+                    "trace_code": "9806-4578-2"
+                },
+                {
+                    "sentence": "阿姨買了5袋",
+                    "stype": "量變",
+                    "trace_code": "9806-4578-3"
+                },
+                {
+                    "sentence": "阿姨買的水果比媽媽多幾顆",
+                    "stype": "問相差",
+                    "trace_code": "9806-4578-4"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0120269",
+            "question": "君伊有72張遊戲卡，怡嫻有16張遊戲卡，怡嫻比君伊少幾張遊戲卡？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "2",
+                "level": "中"
+            },
+            "answer": "56張",
+            "sentences": [
+                {
+                    "sentence": "君伊有72張遊戲卡",
+                    "stype": "有",
+                    "trace_code": "7258-4682-1"
+                },
+                {
+                    "sentence": "怡嫻有16張遊戲卡",
+                    "stype": "有",
+                    "trace_code": "7258-4682-2"
+                },
+                {
+                    "sentence": "怡嫻比君伊少幾張遊戲卡",
+                    "stype": "問相差",
+                    "trace_code": "7258-4682-3"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0120265",
+            "question": "一盒蘋果賣60元，一盒橘子賣35元，一盒蘋果和一盒橘子相差多少元？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "2",
+                "level": "中"
+            },
+            "answer": "25元",
+            "sentences": [
+                {
+                    "sentence": "一盒蘋果賣60元",
+                    "stype": "每單位量",
+                    "trace_code": "6788-4729-1"
+                },
+                {
+                    "sentence": "一盒橘子賣35元",
+                    "stype": "每單位量",
+                    "trace_code": "6788-4729-2"
+                },
+                {
+                    "sentence": "一盒蘋果和一盒橘子相差多少元",
+                    "stype": "問相差",
+                    "trace_code": "6788-4729-3"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0122032",
+            "question": "一盒卡片有7張，小文有8盒，小麗有5盒，小文的卡片比小麗多幾張？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "2",
+                "level": "中"
+            },
+            "answer": "21張",
+            "sentences": [
+                {
+                    "sentence": "一盒卡片有7張",
+                    "stype": "每單位量",
+                    "trace_code": "2010-4767-1"
+                },
+                {
+                    "sentence": "小文有8盒",
+                    "stype": "有",
+                    "trace_code": "2010-4767-2"
+                },
+                {
+                    "sentence": "小麗有5盒",
+                    "stype": "有",
+                    "trace_code": "2010-4767-3"
+                },
+                {
+                    "sentence": "小文的卡片比小麗多幾張",
+                    "stype": "問相差",
+                    "trace_code": "2010-4767-4"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0120250",
+            "question": "一個漢堡65元，一包薯條32元，一個漢堡比一包薯條貴幾元？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "2",
+                "level": "中"
+            },
+            "answer": "33元",
+            "sentences": [
+                {
+                    "sentence": "一個漢堡65元",
+                    "stype": "每單位量",
+                    "trace_code": "65-4771-1"
+                },
+                {
+                    "sentence": "一包薯條32元",
+                    "stype": "每單位量",
+                    "trace_code": "65-4771-2"
+                },
+                {
+                    "sentence": "一個漢堡比一包薯條貴幾元",
+                    "stype": "問相差",
+                    "trace_code": "65-4771-3"
+                }
+            ]
+        },
+        {
+            "qid": "20497",
+            "question": "布丁店早上賣出42個巧克力布丁、28個紅豆布丁，巧克力布丁比紅豆布丁多賣出幾個？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "2",
+                "level": "中"
+            },
+            "answer": "14個",
+            "sentences": [
+                {
+                    "sentence": "布丁店早上賣出42個巧克力布丁、28個紅豆布丁",
+                    "stype": "量變",
+                    "trace_code": "5236-4789-1"
+                },
+                {
+                    "sentence": "巧克力布丁比紅豆布丁多賣出幾個",
+                    "stype": "問相差",
+                    "trace_code": "5236-4789-2"
+                }
+            ]
+        },
+        {
+            "qid": "21806",
+            "question": "飲料店上午賣出53杯紅茶，下午賣出71杯紅茶，上午比下午少賣幾杯紅茶？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "2",
+                "level": "中"
+            },
+            "answer": "18杯",
+            "sentences": [
+                {
+                    "sentence": "飲料店上午賣出53杯紅茶",
+                    "stype": "量變",
+                    "trace_code": "14620-4806-1"
+                },
+                {
+                    "sentence": "下午賣出71杯紅茶",
+                    "stype": "量變",
+                    "trace_code": "14620-4806-2"
+                },
+                {
+                    "sentence": "上午比下午少賣幾杯紅茶",
+                    "stype": "問相差",
+                    "trace_code": "14620-4806-3"
+                }
+            ]
+        },
+        {
+            "qid": "22296",
+            "question": "阿宏有45張遊戲卡，東東有18張遊戲卡，東東的遊戲卡比阿宏的少幾張？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "2",
+                "level": "中"
+            },
+            "answer": "27張",
+            "sentences": [
+                {
+                    "sentence": "阿宏有45張遊戲卡",
+                    "stype": "有",
+                    "trace_code": "9201-4969-1"
+                },
+                {
+                    "sentence": "東東有18張遊戲卡",
+                    "stype": "有",
+                    "trace_code": "9201-4969-2"
+                },
+                {
+                    "sentence": "東東的遊戲卡比阿宏的少幾張",
+                    "stype": "問相差",
+                    "trace_code": "9201-4969-3"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0120252",
+            "question": "喜餅盒裡圓形的餅乾有45片，方形的餅乾有29片，圓形的餅乾比方形多幾片？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "2",
+                "level": "中"
+            },
+            "answer": "16片",
+            "sentences": [
+                {
+                    "sentence": "喜餅盒裡圓形的餅乾有45片",
+                    "stype": "有",
+                    "trace_code": "6781-5094-1"
+                },
+                {
+                    "sentence": "方形的餅乾有29片",
+                    "stype": "有",
+                    "trace_code": "6781-5094-2"
+                },
+                {
+                    "sentence": "圓形的餅乾比方形多幾片",
+                    "stype": "問相差",
+                    "trace_code": "6781-5094-3"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0120100",
+            "question": "一盒月餅有7個，菁菁買了8盒，美美買了5盒，菁菁比美美多買了幾個月餅？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "2",
+                "level": "中"
+            },
+            "answer": "21個",
+            "sentences": [
+                {
+                    "sentence": "一盒月餅有7個",
+                    "stype": "每單位量",
+                    "trace_code": "1805-5103-1"
+                },
+                {
+                    "sentence": "菁菁買了8盒",
+                    "stype": "量變",
+                    "trace_code": "1805-5103-2"
+                },
+                {
+                    "sentence": "美美買了5盒",
+                    "stype": "量變",
+                    "trace_code": "1805-5103-3"
+                },
+                {
+                    "sentence": "菁菁比美美多買了幾個月餅",
+                    "stype": "問相差",
+                    "trace_code": "1805-5103-4"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0121972",
+            "question": "一個牛角麵包9元，愛麗絲買7個，兔子買4個，愛麗絲比兔子多買幾個？要多付幾元？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "2",
+                "level": "中"
+            },
+            "answer": "3個;27元",
+            "sentences": [
+                {
+                    "sentence": "一個牛角麵包9元",
+                    "stype": "每單位量",
+                    "trace_code": "9854-5172-1"
+                },
+                {
+                    "sentence": "愛麗絲買7個",
+                    "stype": "量變",
+                    "trace_code": "9854-5172-2"
+                },
+                {
+                    "sentence": "兔子買4個",
+                    "stype": "量變",
+                    "trace_code": "9854-5172-3"
+                },
+                {
+                    "sentence": "愛麗絲比兔子多買幾個",
+                    "stype": "問相差",
+                    "trace_code": "9854-5172-4"
+                }
+            ],
+            "followers": [
+                {
+                    "sentence": "要多付幾元",
+                    "stype": "問相差",
+                    "trace_code": "9854-5172-5"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0120072",
+            "question": "一包巧克力有3顆，每包賣9元。阿明買5包，小美買3包，阿明比小美多買了幾顆？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "2",
+                "level": "中"
+            },
+            "answer": "6顆",
+            "sentences": [
+                {
+                    "sentence": "一包巧克力有3顆",
+                    "stype": "每單位量",
+                    "trace_code": "9528-5246-1"
+                },
+                {
+                    "sentence": "每包賣9元",
+                    "stype": "每單位量",
+                    "trace_code": "9528-5246-2"
+                },
+                {
+                    "sentence": "阿明買5包",
+                    "stype": "量變",
+                    "trace_code": "9528-5246-3"
+                },
+                {
+                    "sentence": "小美買3包",
+                    "stype": "量變",
+                    "trace_code": "9528-5246-4"
+                },
+                {
+                    "sentence": "阿明比小美多買了幾顆",
+                    "stype": "問相差",
+                    "trace_code": "9528-5246-5"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0120073",
+            "question": "一包糖果賣9元。明祥買5包，美杏買3包，美杏比明祥少付幾元？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "2",
+                "level": "中"
+            },
+            "answer": "18元",
+            "sentences": [
+                {
+                    "sentence": "一包糖果賣9元",
+                    "stype": "每單位量",
+                    "trace_code": "9529-5297-1"
+                },
+                {
+                    "sentence": "明祥買5包",
+                    "stype": "量變",
+                    "trace_code": "9529-5297-2"
+                },
+                {
+                    "sentence": "美杏買3包",
+                    "stype": "量變",
+                    "trace_code": "9529-5297-3"
+                },
+                {
+                    "sentence": "美杏比明祥少付幾元",
+                    "stype": "問相差",
+                    "trace_code": "9529-5297-4"
+                }
+            ]
+        },
+        {
+            "qid": "22739",
+            "question": "65公分長的緞帶，分成兩段，一段長23公分，另一段長幾公分？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "2",
+                "level": "中"
+            },
+            "answer": "42公分",
+            "sentences": [
+                {
+                    "sentence": "65公分長的緞帶",
+                    "stype": "有",
+                    "trace_code": "14745-5302-1"
+                },
+                {
+                    "sentence": "分成兩段",
+                    "stype": "平分",
+                    "trace_code": "14745-5302-2"
+                },
+                {
+                    "sentence": "一段長23公分",
+                    "stype": "每單位量",
+                    "trace_code": "14745-5302-3"
+                },
+                {
+                    "sentence": "另一段長幾公分",
+                    "stype": "問相差",
+                    "trace_code": "14745-5302-4"
+                }
+            ]
+        },
+        {
+            "qid": "20818",
+            "question": "明齊有36元，弟弟有26元，英豪有80元，明齊和弟弟的錢合起來比英豪少幾元？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "2",
+                "level": "中"
+            },
+            "answer": "18元",
+            "sentences": [
+                {
+                    "sentence": "明齊有36元",
+                    "stype": "有",
+                    "trace_code": "15204-5313-1"
+                },
+                {
+                    "sentence": "弟弟有26元",
+                    "stype": "有",
+                    "trace_code": "15204-5313-2"
+                },
+                {
+                    "sentence": "英豪有80元",
+                    "stype": "有",
+                    "trace_code": "15204-5313-3"
+                },
+                {
+                    "sentence": "明齊和弟弟的錢合起來比英豪少幾元",
+                    "stype": "問相差",
+                    "trace_code": "15204-5313-4"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0120279",
+            "question": "小夢做了16顆紙星星，曉琪做了30顆紙星星，曉琪比小夢多做幾顆紙星星？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "2",
+                "level": "中"
+            },
+            "answer": "14顆",
+            "sentences": [
+                {
+                    "sentence": "小夢做了16顆紙星星",
+                    "stype": "量變",
+                    "trace_code": "7265-5330-1"
+                },
+                {
+                    "sentence": "曉琪做了30顆紙星星",
+                    "stype": "量變",
+                    "trace_code": "7265-5330-2"
+                },
+                {
+                    "sentence": "曉琪比小夢多做幾顆紙星星",
+                    "stype": "問相差",
+                    "trace_code": "7265-5330-3"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0120278",
+            "question": "帆帆有19張榮譽卡，小昌有40張榮譽卡，小昌比帆帆多幾張榮譽卡？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "2",
+                "level": "中"
+            },
+            "answer": "21張",
+            "sentences": [
+                {
+                    "sentence": "帆帆有19張榮譽卡",
+                    "stype": "有",
+                    "trace_code": "7264-5369-1"
+                },
+                {
+                    "sentence": "小昌有40張榮譽卡",
+                    "stype": "有",
+                    "trace_code": "7264-5369-2"
+                },
+                {
+                    "sentence": "小昌比帆帆多幾張榮譽卡",
+                    "stype": "問相差",
+                    "trace_code": "7264-5369-3"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0120232",
+            "question": "公車上男生有11人，女生有23人，男生和女生相差幾人？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "2",
+                "level": "中"
+            },
+            "answer": "12人",
+            "sentences": [
+                {
+                    "sentence": "公車上男生有11人",
+                    "stype": "有",
+                    "trace_code": "6774-5396-1"
+                },
+                {
+                    "sentence": "女生有23人",
+                    "stype": "有",
+                    "trace_code": "6774-5396-2"
+                },
+                {
+                    "sentence": "男生和女生相差幾人",
+                    "stype": "問相差",
+                    "trace_code": "6774-5396-3"
+                }
+            ]
+        },
+        {
+            "qid": "21832",
+            "question": "周伯伯上午賣了51枝冰淇淋，下午賣了60枝，下午比上午多賣了幾枝冰淇淋？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "2",
+                "level": "中"
+            },
+            "answer": "9枝",
+            "sentences": [
+                {
+                    "sentence": "周伯伯上午賣了51枝冰淇淋",
+                    "stype": "量變",
+                    "trace_code": "4947-5442-1"
+                },
+                {
+                    "sentence": "下午賣了60枝",
+                    "stype": "量變",
+                    "trace_code": "4947-5442-2"
+                },
+                {
+                    "sentence": "下午比上午多賣了幾枝冰淇淋",
+                    "stype": "問相差",
+                    "trace_code": "4947-5442-3"
+                }
+            ]
+        },
+        {
+            "qid": "20395",
+            "question": "一個便當65元，一個米漢堡39元，便當比米漢堡貴幾元？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "2",
+                "level": "中"
+            },
+            "answer": "26元",
+            "sentences": [
+                {
+                    "sentence": "一個便當65元",
+                    "stype": "每單位量",
+                    "trace_code": "5227-5467-1"
+                },
+                {
+                    "sentence": "一個米漢堡39元",
+                    "stype": "每單位量",
+                    "trace_code": "5227-5467-2"
+                },
+                {
+                    "sentence": "便當比米漢堡貴幾元",
+                    "stype": "問相差",
+                    "trace_code": "5227-5467-3"
+                }
+            ]
+        },
+        {
+            "qid": "71927",
+            "question": "海綿寶寶的手錶每天快5秒，派大星的手錶每天慢3秒，幾天後兩支手錶相差40秒？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "4",
+                "level": "難"
+            },
+            "answer": "5天",
+            "sentences": [
+                {
+                    "sentence": "海綿寶寶的手錶每天快5秒",
+                    "stype": "每單位量",
+                    "trace_code": "12191-5632-1"
+                },
+                {
+                    "sentence": "派大星的手錶每天慢3秒",
+                    "stype": "每單位量",
+                    "trace_code": "12191-5632-2"
+                },
+                {
+                    "sentence": "幾天後兩支手錶相差40秒",
+                    "stype": "問相差",
+                    "trace_code": "12191-5632-3"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0141143",
+            "question": "去年陽光國小有92個男生及83個女生，今年全校有210個學生，其中97個是男生。今年的女生比去年的女生多幾人？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "4",
+                "level": "難"
+            },
+            "answer": "30人",
+            "sentences": [
+                {
+                    "sentence": "去年陽光國小有92個男生及83個女生",
+                    "stype": "有",
+                    "trace_code": "941-5739-1"
+                },
+                {
+                    "sentence": "今年全校有210個學生",
+                    "stype": "有",
+                    "trace_code": "941-5739-2"
+                },
+                {
+                    "sentence": "其中97個是男生",
+                    "stype": "有",
+                    "trace_code": "941-5739-3"
+                },
+                {
+                    "sentence": "今年的女生比去年的女生多幾人",
+                    "stype": "問相差",
+                    "trace_code": "941-5739-4"
+                }
+            ]
+        },
+        {
+            "qid": "61387",
+            "question": "紅繩子長3+(1/5)公尺，黃繩子長5+(3/5)公尺，紅繩子用去1+(1/5)公尺後，兩條繩子相差幾公尺？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "4",
+                "level": "難"
+            },
+            "answer": "3+(3/5) 公尺",
+            "sentences": [
+                {
+                    "sentence": "紅繩子長3+(1/5)公尺",
+                    "stype": "有",
+                    "trace_code": "16195-5759-1"
+                },
+                {
+                    "sentence": "黃繩子長5+(3/5)公尺",
+                    "stype": "有",
+                    "trace_code": "16195-5759-2"
+                },
+                {
+                    "sentence": "紅繩子用去1+(1/5)公尺後",
+                    "stype": "量變",
+                    "trace_code": "16195-5759-3"
+                },
+                {
+                    "sentence": "兩條繩子相差幾公尺",
+                    "stype": "問相差",
+                    "trace_code": "16195-5759-4"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0141144",
+            "question": "去年大城國小有78個男生及66個女生參加社團，今年參加社團的學生有175個人，其中83個是女生。去年的男生和今年的男生相差多少人？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "4",
+                "level": "難"
+            },
+            "answer": "14人",
+            "sentences": [
+                {
+                    "sentence": "去年大城國小有78個男生及66個女生參加社團",
+                    "stype": "有",
+                    "trace_code": "942-5829-1"
+                },
+                {
+                    "sentence": "今年參加社團的學生有175個人",
+                    "stype": "有",
+                    "trace_code": "942-5829-2"
+                },
+                {
+                    "sentence": "其中83個是女生",
+                    "stype": "有",
+                    "trace_code": "942-5829-3"
+                },
+                {
+                    "sentence": "去年的男生和今年的男生相差多少人",
+                    "stype": "問相差",
+                    "trace_code": "942-5829-4"
+                }
+            ]
+        },
+        {
+            "qid": "60631",
+            "question": "林雯有17張超商集點卡，林姍有21張超商集點卡，林姍把自己的18張超商集點卡給林雯，現在林雯比林姍多幾張超商集點卡？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "4",
+                "level": "難"
+            },
+            "answer": "32張",
+            "sentences": [
+                {
+                    "sentence": "林雯有17張超商集點卡",
+                    "stype": "有",
+                    "trace_code": "14267-5890-1"
+                },
+                {
+                    "sentence": "林姍有21張超商集點卡",
+                    "stype": "有",
+                    "trace_code": "14267-5890-2"
+                },
+                {
+                    "sentence": "林姍把自己的18張超商集點卡給林雯",
+                    "stype": "量變",
+                    "trace_code": "14267-5890-3"
+                },
+                {
+                    "sentence": "現在林雯比林姍多幾張超商集點卡",
+                    "stype": "問相差",
+                    "trace_code": "14267-5890-4"
+                }
+            ]
+        },
+        {
+            "qid": "54136",
+            "question": "一盒捲心酥有10枝。姐姐有5.6盒，妹妹有3.9盒，兩人的捲心酥相差幾盒？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "3",
+                "level": "易"
+            },
+            "answer": "1.7盒",
+            "sentences": [
+                {
+                    "sentence": "一盒捲心酥有10枝",
+                    "stype": "每單位量",
+                    "trace_code": "11994-5993-1"
+                },
+                {
+                    "sentence": "姐姐有5.6盒",
+                    "stype": "有",
+                    "trace_code": "11994-5993-2"
+                },
+                {
+                    "sentence": "妹妹有3.9盒",
+                    "stype": "有",
+                    "trace_code": "11994-5993-3"
+                },
+                {
+                    "sentence": "兩人的捲心酥相差幾盒",
+                    "stype": "問相差",
+                    "trace_code": "11994-5993-4"
+                }
+            ]
+        },
+        {
+            "qid": "43045",
+            "question": "三年級的男生有205人，女生有176人，男生比女生多幾人？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "3",
+                "level": "易"
+            },
+            "answer": "29人",
+            "sentences": [
+                {
+                    "sentence": "三年級的男生有205人",
+                    "stype": "有",
+                    "trace_code": "15860-6004-1"
+                },
+                {
+                    "sentence": "女生有176人",
+                    "stype": "有",
+                    "trace_code": "15860-6004-2"
+                },
+                {
+                    "sentence": "男生比女生多幾人",
+                    "stype": "問相差",
+                    "trace_code": "15860-6004-3"
+                }
+            ]
+        },
+        {
+            "qid": "51074",
+            "question": "一條10公分長的繩子分成兩段，一段是3公分5毫米，另一段長幾公分幾毫米？",
+            "fastype": "問長度",
+            "difficulty": {
+                "grade": "3",
+                "level": "易"
+            },
+            "answer": "6公分;5毫米",
+            "sentences": [
+                {
+                    "sentence": "一條10公分長的繩子分成兩段",
+                    "stype": "每單位量",
+                    "trace_code": "3008-6007-1"
+                },
+                {
+                    "sentence": "一段是3公分5毫米",
+                    "stype": "每單位量",
+                    "trace_code": "3008-6007-2"
+                },
+                {
+                    "sentence": "另一段長幾公分幾毫米",
+                    "stype": "問相差",
+                    "trace_code": "3008-6007-3"
+                }
+            ]
+        },
+        {
+            "qid": "42644",
+            "question": "用直式算算看：農場裡有418隻羊和152隻牛，羊比牛多幾隻？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "3",
+                "level": "易"
+            },
+            "answer": "266隻",
+            "sentences": [
+                {
+                    "sentence": "用直式算算看：農場裡有418隻羊和152隻牛",
+                    "stype": "有",
+                    "trace_code": "5665-6055-1"
+                },
+                {
+                    "sentence": "羊比牛多幾隻",
+                    "stype": "問相差",
+                    "trace_code": "5665-6055-2"
+                }
+            ]
+        },
+        {
+            "qid": "54156",
+            "question": "跳遠比賽成績超過3公尺20公分可以獲得獎盃一座，小可跳了1公尺80公分，差幾公尺幾公分？",
+            "fastype": "問長度",
+            "difficulty": {
+                "grade": "3",
+                "level": "易"
+            },
+            "answer": "1公尺40公分",
+            "sentences": [
+                {
+                    "sentence": "跳遠比賽成績超過3公尺20公分可以獲得獎盃一座",
+                    "stype": "每單位量",
+                    "trace_code": "12001-6177-1"
+                },
+                {
+                    "sentence": "小可跳了1公尺80公分",
+                    "stype": "量變",
+                    "trace_code": "12001-6177-2"
+                },
+                {
+                    "sentence": "差幾公尺幾公分",
+                    "stype": "問相差",
+                    "trace_code": "12001-6177-3"
+                }
+            ]
+        },
+        {
+            "qid": "51073",
+            "question": "一枝彩色筆長8公分6毫米，一枝色鉛筆長12公分4毫米，一枝彩色筆比一枝色鉛筆短幾公分幾毫米？",
+            "fastype": "問長度",
+            "difficulty": {
+                "grade": "3",
+                "level": "易"
+            },
+            "answer": "3公分8毫米",
+            "sentences": [
+                {
+                    "sentence": "一枝彩色筆長8公分6毫米",
+                    "stype": "每單位量",
+                    "trace_code": "11454-6228-1"
+                },
+                {
+                    "sentence": "一枝色鉛筆長12公分4毫米",
+                    "stype": "每單位量",
+                    "trace_code": "11454-6228-2"
+                },
+                {
+                    "sentence": "一枝彩色筆比一枝色鉛筆短幾公分幾毫米",
+                    "stype": "問相差",
+                    "trace_code": "11454-6228-3"
+                }
+            ]
+        },
+        {
+            "qid": "51698",
+            "question": "大瓶礦泉水是4公升800毫升，小瓶礦泉水是2公升200毫升，大瓶礦泉水比小瓶礦泉水多幾公升幾毫升？",
+            "fastype": "問重量",
+            "difficulty": {
+                "grade": "3",
+                "level": "易"
+            },
+            "answer": "2公升600毫升",
+            "sentences": [
+                {
+                    "sentence": "大瓶礦泉水是4公升800毫升",
+                    "stype": "每單位量",
+                    "trace_code": "11545-6243-1"
+                },
+                {
+                    "sentence": "小瓶礦泉水是2公升200毫升",
+                    "stype": "每單位量",
+                    "trace_code": "11545-6243-2"
+                },
+                {
+                    "sentence": "大瓶礦泉水比小瓶礦泉水多幾公升幾毫升",
+                    "stype": "問相差",
+                    "trace_code": "11545-6243-3"
+                }
+            ]
+        },
+        {
+            "qid": "43199",
+            "question": "哥哥重32公斤，弟弟重26公斤，兩人體重相差幾公斤？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "3",
+                "level": "易"
+            },
+            "answer": "6公斤",
+            "sentences": [
+                {
+                    "sentence": "哥哥重32公斤",
+                    "stype": "有",
+                    "trace_code": "15888-6278-1"
+                },
+                {
+                    "sentence": "弟弟重26公斤",
+                    "stype": "有",
+                    "trace_code": "15888-6278-2"
+                },
+                {
+                    "sentence": "兩人體重相差幾公斤",
+                    "stype": "問相差",
+                    "trace_code": "15888-6278-3"
+                }
+            ]
+        },
+        {
+            "qid": "42676",
+            "question": "棒球比賽第一場觀眾人數為7355人，第二場觀眾人數為9001人，這兩場觀眾人數相差幾人？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "3",
+                "level": "易"
+            },
+            "answer": "1646人",
+            "sentences": [
+                {
+                    "sentence": "棒球比賽第一場觀眾人數為7355人",
+                    "stype": "有",
+                    "trace_code": "5672-6307-1"
+                },
+                {
+                    "sentence": "第二場觀眾人數為9001人",
+                    "stype": "有",
+                    "trace_code": "5672-6307-2"
+                },
+                {
+                    "sentence": "這兩場觀眾人數相差幾人",
+                    "stype": "問相差",
+                    "trace_code": "5672-6307-3"
+                }
+            ]
+        },
+        {
+            "qid": "51063",
+            "question": "一枝鉛筆長15公分7毫米，一枝蠟筆長5公分4毫米，一枝鉛筆比一枝蠟筆長幾公分幾毫米？",
+            "fastype": "問長度",
+            "difficulty": {
+                "grade": "3",
+                "level": "易"
+            },
+            "answer": "10公分3毫米",
+            "sentences": [
+                {
+                    "sentence": "一枝鉛筆長15公分7毫米",
+                    "stype": "每單位量",
+                    "trace_code": "11448-6386-1"
+                },
+                {
+                    "sentence": "一枝蠟筆長5公分4毫米",
+                    "stype": "每單位量",
+                    "trace_code": "11448-6386-2"
+                },
+                {
+                    "sentence": "一枝鉛筆比一枝蠟筆長幾公分幾毫米",
+                    "stype": "問相差",
+                    "trace_code": "11448-6386-3"
+                }
+            ]
+        },
+        {
+            "qid": "54128",
+            "question": "國語字典厚6.1公分，英語字典厚2.8公分，兩本書的厚度相差幾公分？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "3",
+                "level": "易"
+            },
+            "answer": "3.3公分",
+            "sentences": [
+                {
+                    "sentence": "國語字典厚6.1公分",
+                    "stype": "有",
+                    "trace_code": "11991-6491-1"
+                },
+                {
+                    "sentence": "英語字典厚2.8公分",
+                    "stype": "有",
+                    "trace_code": "11991-6491-2"
+                },
+                {
+                    "sentence": "兩本書的厚度相差幾公分",
+                    "stype": "問相差",
+                    "trace_code": "11991-6491-3"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0151864",
+            "question": "佳佳買6枝原子筆花了132元，買一打鉛筆花了108元，一枝原子筆比一枝鉛筆貴多少元？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "5",
+                "level": "中"
+            },
+            "answer": "13元",
+            "sentences": [
+                {
+                    "sentence": "佳佳買6枝原子筆花了132元",
+                    "stype": "每單位量",
+                    "trace_code": "8757-7174-1"
+                },
+                {
+                    "sentence": "買一打鉛筆花了108元",
+                    "stype": "量變",
+                    "trace_code": "8757-7174-2"
+                },
+                {
+                    "sentence": "一枝原子筆比一枝鉛筆貴多少元",
+                    "stype": "問相差",
+                    "trace_code": "8757-7174-3"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0150901",
+            "question": "芒果每公斤69元，如如買了9公斤，若平買了5公斤，如如比若平多付多少元？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "5",
+                "level": "中"
+            },
+            "answer": "276元",
+            "sentences": [
+                {
+                    "sentence": "芒果每公斤69元",
+                    "stype": "每單位量",
+                    "trace_code": "9300-7252-1"
+                },
+                {
+                    "sentence": "如如買了9公斤",
+                    "stype": "量變",
+                    "trace_code": "9300-7252-2"
+                },
+                {
+                    "sentence": "若平買了5公斤",
+                    "stype": "量變",
+                    "trace_code": "9300-7252-3"
+                },
+                {
+                    "sentence": "如如比若平多付多少元",
+                    "stype": "問相差",
+                    "trace_code": "9300-7252-4"
+                }
+            ]
+        },
+        {
+            "qid": "83886",
+            "question": "一條繩子長0.35公尺，哥哥有8條，弟弟有5條，2人的繩子相差幾公分？",
+            "fastype": "問長度",
+            "difficulty": {
+                "grade": "5",
+                "level": "中"
+            },
+            "answer": "105公分",
+            "sentences": [
+                {
+                    "sentence": "一條繩子長0.35公尺",
+                    "stype": "每單位量",
+                    "trace_code": "17132-7253-1"
+                },
+                {
+                    "sentence": "哥哥有8條",
+                    "stype": "有",
+                    "trace_code": "17132-7253-2"
+                },
+                {
+                    "sentence": "弟弟有5條",
+                    "stype": "有",
+                    "trace_code": "17132-7253-3"
+                },
+                {
+                    "sentence": "2人的繩子相差幾公分",
+                    "stype": "問相差",
+                    "trace_code": "17132-7253-4"
+                }
+            ]
+        },
+        {
+            "qid": "83467",
+            "question": "用逐次減項的方法做做看：一杯果汁0.5公升，老闆上週賣350杯，本週賣150杯，上週比本週多賣幾公升？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "5",
+                "level": "中"
+            },
+            "answer": "100公升",
+            "sentences": [
+                {
+                    "sentence": "用逐次減項的方法做做看：一杯果汁0.5公升",
+                    "stype": "每單位量",
+                    "trace_code": "17077-7274-1"
+                },
+                {
+                    "sentence": "老闆上週賣350杯",
+                    "stype": "量變",
+                    "trace_code": "17077-7274-2"
+                },
+                {
+                    "sentence": "本週賣150杯",
+                    "stype": "量變",
+                    "trace_code": "17077-7274-3"
+                },
+                {
+                    "sentence": "上週比本週多賣幾公升",
+                    "stype": "問相差",
+                    "trace_code": "17077-7274-4"
+                }
+            ]
+        },
+        {
+            "qid": "84131",
+            "question": "果汁一瓶30元，咖啡一瓶25元，各買50瓶相差幾元？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "5",
+                "level": "中"
+            },
+            "answer": "250元",
+            "sentences": [
+                {
+                    "sentence": "果汁一瓶30元",
+                    "stype": "每單位量",
+                    "trace_code": "17161-7275-1"
+                },
+                {
+                    "sentence": "咖啡一瓶25元",
+                    "stype": "每單位量",
+                    "trace_code": "17161-7275-2"
+                },
+                {
+                    "sentence": "各買50瓶相差幾元",
+                    "stype": "問相差",
+                    "trace_code": "17161-7275-3"
+                }
+            ]
+        },
+        {
+            "qid": "92884",
+            "question": "可口飲料店九月用去茶葉35+(1/2)公斤，新鮮飲料店九月用去茶葉20+(1/3)公斤，平均一天相差幾公斤？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "5",
+                "level": "中"
+            },
+            "answer": "91/180公斤",
+            "sentences": [
+                {
+                    "sentence": "可口飲料店九月用去茶葉35+(1/2)公斤",
+                    "stype": "量變",
+                    "trace_code": "12716-7312-1"
+                },
+                {
+                    "sentence": "新鮮飲料店九月用去茶葉20+(1/3)公斤",
+                    "stype": "量變",
+                    "trace_code": "12716-7312-2"
+                },
+                {
+                    "sentence": "平均一天相差幾公斤",
+                    "stype": "問相差",
+                    "trace_code": "12716-7312-3"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0150735",
+            "question": "橘子一公斤賣24元，昨天賣出84公斤，今天賣出70公斤，昨天比今天多賣得幾元？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "5",
+                "level": "中"
+            },
+            "answer": "336元",
+            "sentences": [
+                {
+                    "sentence": "橘子一公斤賣24元",
+                    "stype": "每單位量",
+                    "trace_code": "8576-7321-1"
+                },
+                {
+                    "sentence": "昨天賣出84公斤",
+                    "stype": "量變",
+                    "trace_code": "8576-7321-2"
+                },
+                {
+                    "sentence": "今天賣出70公斤",
+                    "stype": "量變",
+                    "trace_code": "8576-7321-3"
+                },
+                {
+                    "sentence": "昨天比今天多賣得幾元",
+                    "stype": "問相差",
+                    "trace_code": "8576-7321-4"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0152073",
+            "question": "小怡買5公斤的水蜜桃，花了460元，家家買4公斤的櫻桃，花了520元，1公斤櫻桃比1公斤水蜜桃貴多少元？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "5",
+                "level": "中"
+            },
+            "answer": "38元",
+            "sentences": [
+                {
+                    "sentence": "小怡買5公斤的水蜜桃",
+                    "stype": "量變",
+                    "trace_code": "8787-7325-1"
+                },
+                {
+                    "sentence": "花了460元",
+                    "stype": "量變",
+                    "trace_code": "8787-7325-2"
+                },
+                {
+                    "sentence": "家家買4公斤的櫻桃",
+                    "stype": "量變",
+                    "trace_code": "8787-7325-3"
+                },
+                {
+                    "sentence": "花了520元",
+                    "stype": "量變",
+                    "trace_code": "8787-7325-4"
+                },
+                {
+                    "sentence": "1公斤櫻桃比1公斤水蜜桃貴多少元",
+                    "stype": "問相差",
+                    "trace_code": "8787-7325-5"
+                }
+            ]
+        },
+        {
+            "qid": "83459",
+            "question": "用逐次減項的方法做做看：一瓶礦泉水500毫升，甲班喝了24瓶，乙班喝了19瓶，甲班比乙班多喝幾公升？",
+            "fastype": "問重量",
+            "difficulty": {
+                "grade": "5",
+                "level": "中"
+            },
+            "answer": "2.5公升",
+            "sentences": [
+                {
+                    "sentence": "用逐次減項的方法做做看：一瓶礦泉水500毫升",
+                    "stype": "每單位量",
+                    "trace_code": "17075-7372-1"
+                },
+                {
+                    "sentence": "甲班喝了24瓶",
+                    "stype": "量變",
+                    "trace_code": "17075-7372-2"
+                },
+                {
+                    "sentence": "乙班喝了19瓶",
+                    "stype": "量變",
+                    "trace_code": "17075-7372-3"
+                },
+                {
+                    "sentence": "甲班比乙班多喝幾公升",
+                    "stype": "問相差",
+                    "trace_code": "17075-7372-4"
+                }
+            ]
+        },
+        {
+            "qid": "82097",
+            "question": "樂樂牌果乾每100公克的鈉含量是0.00325公克，莉莉牌果乾每100公克的鈉含量是0.00296公克，這兩個牌子的果乾每100公克的鈉含量相差幾公克？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "5",
+                "level": "中"
+            },
+            "answer": "0.00029公克",
+            "sentences": [
+                {
+                    "sentence": "樂樂牌果乾每100公克的鈉含量是0.00325公克",
+                    "stype": "每單位量",
+                    "trace_code": "6451-7374-1"
+                },
+                {
+                    "sentence": "莉莉牌果乾每100公克的鈉含量是0.00296公克",
+                    "stype": "每單位量",
+                    "trace_code": "6451-7374-2"
+                },
+                {
+                    "sentence": "這兩個牌子的果乾每100公克的鈉含量相差幾公克",
+                    "stype": "問相差",
+                    "trace_code": "6451-7374-3"
+                }
+            ]
+        },
+        {
+            "qid": "81425",
+            "question": "團圓自助餐每個月用掉16桶沙拉油，每桶沙拉油原價185元，這個月每桶漲到215元，漲價後團圓自助餐一個月沙拉油的費用要多花多少元？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "5",
+                "level": "中"
+            },
+            "answer": "480元",
+            "sentences": [
+                {
+                    "sentence": "團圓自助餐每個月用掉16桶沙拉油",
+                    "stype": "每單位量",
+                    "trace_code": "15206-7381-1"
+                },
+                {
+                    "sentence": "每桶沙拉油原價185元",
+                    "stype": "每單位量",
+                    "trace_code": "15206-7381-2"
+                },
+                {
+                    "sentence": "這個月每桶漲到215元",
+                    "stype": "每單位量",
+                    "trace_code": "15206-7381-3"
+                },
+                {
+                    "sentence": "漲價後團圓自助餐一個月沙拉油的費用要多花多少元",
+                    "stype": "問相差",
+                    "trace_code": "15206-7381-4"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0151874",
+            "question": "精裝版繪本一本售價380元，平裝版繪本一本售價250元，各買15本，相差多少元？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "5",
+                "level": "中"
+            },
+            "answer": "1950元",
+            "sentences": [
+                {
+                    "sentence": "精裝版繪本一本售價380元",
+                    "stype": "每單位量",
+                    "trace_code": "6717-7382-1"
+                },
+                {
+                    "sentence": "平裝版繪本一本售價250元",
+                    "stype": "每單位量",
+                    "trace_code": "6717-7382-2"
+                },
+                {
+                    "sentence": "各買15本",
+                    "stype": "量變",
+                    "trace_code": "6717-7382-3"
+                },
+                {
+                    "sentence": "相差多少元",
+                    "stype": "問相差",
+                    "trace_code": "6717-7382-4"
+                }
+            ]
+        },
+        {
+            "qid": "83465",
+            "question": "用逐次減項的方法做做看：粗鐵絲315公分，細鐵絲189公分，每9公分剪成一段，粗鐵絲比細鐵絲多幾段？",
+            "fastype": "問相差",
+            "difficulty": {
+                "grade": "5",
+                "level": "中"
+            },
+            "answer": "14段",
+            "sentences": [
+                {
+                    "sentence": "用逐次減項的方法做做看：粗鐵絲315公分",
+                    "stype": "有",
+                    "trace_code": "6564-7396-1"
+                },
+                {
+                    "sentence": "細鐵絲189公分",
+                    "stype": "有",
+                    "trace_code": "6564-7396-2"
+                },
+                {
+                    "sentence": "每9公分剪成一段",
+                    "stype": "每單位量",
+                    "trace_code": "6564-7396-3"
+                },
+                {
+                    "sentence": "粗鐵絲比細鐵絲多幾段",
+                    "stype": "問相差",
+                    "trace_code": "6564-7396-4"
+                }
+            ]
+        }
+    ]
+}

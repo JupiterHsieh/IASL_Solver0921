@@ -1,0 +1,266 @@
+[{
+    "qid": "10052",
+    "sentence": "12可以分成幾個十幾個一?",
+    "quantities": {
+        "s1": []
+    },
+    "unitmaps": {},
+    "answer": "1個十和2個一",
+    "stype": [
+        "問單位量"
+    ]
+},
+{
+    "qid": "10052",
+    "sentence": "12可以分成幾個十幾個一?",
+    "quantities": {
+        "s1": []
+    },
+    "unitmaps": {},
+    "answer": "1個十和2個一",
+    "stype": [
+        "問單位量"
+    ]
+},{
+    "qid": "31918",
+    "sentence": "5張100元合起來是幾元？",
+    "quantities": {
+        "s1": []
+    },
+    "unitmaps": {},
+    "answer": "500元",
+    "stype": [
+        "問單位量"
+    ]
+},{
+    "qid": "30345",
+    "sentence": "15個1公尺合起來是幾公尺？",
+    "quantities": {
+        "s1": []
+    },
+    "unitmaps": {},
+    "answer": "15公尺",
+    "stype": [
+        "問單位量"
+    ]
+}, {
+    "qid": "1MA0121104",
+    "sentence": "2星期又6天合起來是幾天？",
+    "quantities": {
+        "s1": []
+    },
+    "unitmaps": {},
+    "answer": "20天",
+    "stype": [
+        "問單位量"
+    ]
+}, {
+    "qid": "1MA0121209",
+    "sentence": "9個10元合起來是幾元？",
+    "quantities": {
+        "s1": []
+    },
+    "unitmaps": {},
+    "answer": "90元",
+    "stype": [
+        "問單位量"
+    ]
+},{
+    "qid": "84589",
+    "sentence": "450平方公尺＝多少公畝？",
+    "quantities": {
+        "s1": []
+    },
+    "unitmaps": {},
+    "answer": "4.5公畝",
+    "stype": [
+        "問單位量"
+    ]
+},{
+    "qid": "84590",
+    "sentence": "72000公畝＝幾公頃？",
+    "quantities": {
+        "s1": []
+    },
+    "unitmaps": {},
+    "answer": "720公頃",
+    "stype": [
+        "問單位量"
+    ]
+},{
+    "qid": "31354",
+    "sentence": "1公尺10公分是幾公分？",
+    "quantities": {
+        "s1": []
+    },
+    "unitmaps": {},
+    "answer": "110公分",
+    "stype": [
+        "問單位量"
+    ]
+}, {
+    "qid": "31355",
+    "sentence": "1公尺24公分是幾公分？",
+    "quantities": {
+        "s1": []
+    },
+    "unitmaps": {},
+    "answer": "124公分",
+    "stype": [
+        "問單位量"
+    ]
+},{
+    "qid": "1MA0121172",
+    "sentence": "21天是幾個星期？",
+    "quantities": {
+        "s1": []
+    },
+    "unitmaps": {},
+    "answer": "3個星期",
+    "stype": [
+        "問單位量"
+    ]
+},{
+    "qid": "31356",
+    "sentence": "1公尺36公分是幾公分？",
+    "quantities": {
+        "s1": []
+    },
+    "unitmaps": {},
+    "answer": "136公分",
+    "stype": [
+        "問單位量"
+    ]
+}, {
+    "qid": "31358",
+    "sentence": "1公尺95公分是幾公分？",
+    "quantities": {
+        "s1": []
+    },
+    "unitmaps": {},
+    "answer": "195公分",
+    "stype": [
+        "問單位量"
+    ]
+},{
+    "qid": "30386",
+    "sentence": "1公尺10公分等於幾公分？",
+    "quantities": {
+        "s1": []
+    },
+    "unitmaps": {},
+    "answer": "110公分",
+    "stype": [
+        "問單位量"
+    ]
+},{
+    "qid": "31353",
+    "sentence": "1公尺5公分是幾公分？",
+    "quantities": {
+        "s1": []
+    },
+    "unitmaps": {},
+    "answer": "105公分",
+    "stype": [
+        "問單位量"
+    ]
+},{
+    "qid": "30384",
+    "sentence": "1公尺92公分等於幾公分？",
+    "quantities": {
+        "s1": []
+    },
+    "unitmaps": {},
+    "answer": "192公分",
+    "stype": [
+        "問單位量"
+    ]
+}, {
+    "qid": "31921",
+    "sentence": "10張100元合起來是幾元？",
+    "quantities": {
+        "s1": []
+    },
+    "unitmaps": {},
+    "answer": "1000元",
+    "stype": [
+        "問單位量"
+    ]
+}, {
+    "qid": "31357",
+    "sentence": "1公尺99公分是幾公分？",
+    "quantities": {
+        "s1": []
+    },
+    "unitmaps": {},
+    "answer": "199公分",
+    "stype": [
+        "問單位量"
+    ]
+},{
+    "qid": "1MA0131033",
+    "sentence": "12分25秒也就是多少秒？",
+    "quantities": {
+        "s1": []
+    },
+    "unitmaps": {},
+    "answer": "745秒",
+    "stype": [
+        "問單位量"
+    ]
+}, {
+    "qid": "1MA0131623",
+    "sentence": "鉛筆長12公分也就是多少毫米？",
+    "quantities": {
+        "s1": [
+
+            {
+                "qtyid": "E2",
+                "quantity": {
+                    "value": "12",
+                    "unit": "公分",
+                    "entity": "鉛筆"
+                },
+                "verb": "有",
+                "subject": null,
+                "object": null
+            },
+            {
+                "qtyid": "E3",
+                "quantity": {
+                    "value": "多少",
+                    "unit": "毫米",
+                    "entity": "鉛筆"
+                },
+                "verb": null,
+                "subject": null,
+                "object": null
+            }
+        ]
+        
+    },
+    "unitmaps": {
+        "s1": [
+            {
+                "denominator": "E1",
+                "numerator": "E2"
+            }
+        ]
+    },
+    "answer": "120毫米",
+    "stype": [
+        "問單位量"
+    ]
+}, {
+    "qid": "1MA0131034",
+    "sentence": "22分35秒也就是多少秒？",
+    "quantities": {
+        "s1": []
+    },
+    "unitmaps": {},
+    "answer": "1355秒",
+    "stype": [
+        "問單位量"
+    ]
+}
+]

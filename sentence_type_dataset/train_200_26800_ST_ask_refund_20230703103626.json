@@ -1,0 +1,484 @@
+{
+    "data": [
+        {
+            "qid": "52339",
+            "question": "展覽會門票每人80元，全班33人買票入場，付3000元，應該找回多少元？",
+            "fastype": "問找回",
+            "difficulty": {
+                "grade": "3",
+                "level": "難"
+            },
+            "answer": "360元",
+            "sentences": [
+                {
+                    "sentence": "展覽會門票每人80元",
+                    "stype": "每單位量",
+                    "trace_code": "3151-965-1"
+                },
+                {
+                    "sentence": "全班33人買票入場",
+                    "stype": "有",
+                    "trace_code": "3151-965-2"
+                },
+                {
+                    "sentence": "付3000元",
+                    "stype": "量變",
+                    "trace_code": "3151-965-3"
+                },
+                {
+                    "sentence": "應該找回多少元",
+                    "stype": "問找回",
+                    "trace_code": "3151-965-4"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0140466",
+            "question": "一顆蘋果5元，小明買了40顆，付了250元，可以找回多少元？",
+            "fastype": "問找回",
+            "difficulty": {
+                "grade": "3",
+                "level": "難"
+            },
+            "answer": "50元",
+            "sentences": [
+                {
+                    "sentence": "一顆蘋果5元",
+                    "stype": "每單位量",
+                    "trace_code": "11645-1060-9"
+                },
+                {
+                    "sentence": "小明買了40顆",
+                    "stype": "量變",
+                    "trace_code": "11645-1060-10"
+                },
+                {
+                    "sentence": "付了250元",
+                    "stype": "量變",
+                    "trace_code": "11645-1060-11"
+                },
+                {
+                    "sentence": "可以找回多少元",
+                    "stype": "問找回",
+                    "trace_code": "11645-1060-12"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0140462",
+            "question": "電影院票每張100元，哥哥訂了20張票，付2500元，應該找回多少元？",
+            "fastype": "問找回",
+            "difficulty": {
+                "grade": "4",
+                "level": "難"
+            },
+            "answer": "500元",
+            "sentences": [
+                {
+                    "sentence": "電影院票每張100元",
+                    "stype": "每單位量",
+                    "trace_code": "1260-5782-5"
+                },
+                {
+                    "sentence": "哥哥訂了20張票",
+                    "stype": "量變",
+                    "trace_code": "1260-5782-6"
+                },
+                {
+                    "sentence": "付2500元買票",
+                    "stype": "量變",
+                    "trace_code": "1260-5782-7"
+                },
+                {
+                    "sentence": "應該找回多少元",
+                    "stype": "問找回",
+                    "trace_code": "1260-5782-8"
+                }
+            ]
+        },
+        {
+            "qid": "52248",
+            "question": "一枝棒棒糖24元，老師買64枝，付2000元，應找回幾元？",
+            "fastype": "問找回",
+            "difficulty": {
+                "grade": "3",
+                "level": "難"
+            },
+            "answer": "464元",
+            "sentences": [
+                {
+                    "sentence": "一枝棒棒糖24元",
+                    "stype": "每單位量",
+                    "trace_code": "3120-1132-1"
+                },
+                {
+                    "sentence": "老師買64枝",
+                    "stype": "量變",
+                    "trace_code": "3120-1132-2"
+                },
+                {
+                    "sentence": "付2000元",
+                    "stype": "量變",
+                    "trace_code": "3120-1132-3"
+                },
+                {
+                    "sentence": "應找回幾元",
+                    "stype": "問找回",
+                    "trace_code": "3120-1132-4"
+                }
+            ]
+        },
+        {
+            "qid": "51837",
+            "question": "一個草莓蛋糕26元，一個巧克力蛋糕28元，阿姨拿1500元，買了18個草莓蛋糕和23個巧克力蛋糕，應該找回多少元？",
+            "fastype": "問找回",
+            "difficulty": {
+                "grade": "3",
+                "level": "難"
+            },
+            "answer": "388元",
+            "sentences": [
+                {
+                    "sentence": "一個草莓蛋糕26元",
+                    "stype": "每單位量",
+                    "trace_code": "3084-1191-1"
+                },
+                {
+                    "sentence": "一個巧克力蛋糕28元",
+                    "stype": "每單位量",
+                    "trace_code": "3084-1191-2"
+                },
+                {
+                    "sentence": "阿姨拿1500元",
+                    "stype": "量變",
+                    "trace_code": "3084-1191-3"
+                },
+                {
+                    "sentence": "買了18個草莓蛋糕和23個巧克力蛋糕",
+                    "stype": "量變",
+                    "trace_code": "3084-1191-3"
+                },
+                {
+                    "sentence": "應該找回多少元",
+                    "stype": "問找回",
+                    "trace_code": "3084-1191-4"
+                }
+            ]
+        },
+        {
+            "qid": "50165",
+            "question": "一枝鉛筆6元，買250枝鉛筆，付2000元，可找回多少元？",
+            "fastype": "問找回",
+            "difficulty": {
+                "grade": "3",
+                "level": "難"
+            },
+            "answer": "500元",
+            "sentences": [
+                {
+                    "sentence": "一枝鉛筆6元",
+                    "stype": "每單位量",
+                    "trace_code": "2918-1285-1"
+                },
+                {
+                    "sentence": "買250枝鉛筆",
+                    "stype": "量變",
+                    "trace_code": "2918-1285-2"
+                },
+                {
+                    "sentence": "付2000元",
+                    "stype": "量變",
+                    "trace_code": "2918-1285-3"
+                },
+                {
+                    "sentence": "可找回多少元",
+                    "stype": "問找回",
+                    "trace_code": "2918-1285-4"
+                }
+            ]
+        },
+        {
+            "qid": "31519",
+            "question": "寫出算式算算看：亭傑在文具店買了8元的橡皮擦3塊、5元的鉛筆3枝，他付了一張百元鈔，應找回多少元？",
+            "fastype": "問找回",
+            "difficulty": {
+                "grade": "2",
+                "level": "中"
+            },
+            "answer": "61元",
+            "sentences": [
+                {
+                    "sentence": "寫出算式算算看：亭傑在文具店買了8元的橡皮擦3塊、5元的鉛筆3枝",
+                    "stype": "量變",
+                    "trace_code": "11274-4843-1"
+                },
+                {
+                    "sentence": "他付了一張百元鈔",
+                    "stype": "量變",
+                    "trace_code": "11274-4843-2"
+                },
+                {
+                    "sentence": "應找回多少元",
+                    "stype": "問找回",
+                    "trace_code": "11274-4843-3"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0120703",
+            "question": "志祺買一盒24元的鉛筆和一枝38元的原子筆，付了70元，可以找回多少元？",
+            "fastype": "問找回",
+            "difficulty": {
+                "grade": "2",
+                "level": "中"
+            },
+            "answer": "8元",
+            "sentences": [
+                {
+                    "sentence": "志祺買一盒24元的鉛筆和一枝38元的原子筆",
+                    "stype": "量變",
+                    "trace_code": "6817-5135-1"
+                },
+                {
+                    "sentence": "付了70元",
+                    "stype": "量變",
+                    "trace_code": "6817-5135-2"
+                },
+                {
+                    "sentence": "可以找回多少元",
+                    "stype": "問找回",
+                    "trace_code": "6817-5135-3"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0120993",
+            "question": "販賣機裡有一包7元的王子麵，小莉想買9包請同學吃，她投了70元，找回多少元？",
+            "fastype": "問找回",
+            "difficulty": {
+                "grade": "2",
+                "level": "中"
+            },
+            "answer": "7元",
+            "sentences": [
+                {
+                    "sentence": "販賣機裡有一包7元的王子麵",
+                    "stype": "有",
+                    "trace_code": "2327-5220-1"
+                },
+                {
+                    "sentence": "小莉想買9包請同學吃",
+                    "stype": "量變",
+                    "trace_code": "2327-5220-2"
+                },
+                {
+                    "sentence": "她投了70元",
+                    "stype": "量變",
+                    "trace_code": "2327-5220-3"
+                },
+                {
+                    "sentence": "找回多少元",
+                    "stype": "問找回",
+                    "trace_code": "2327-5220-4"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0140436",
+            "question": "一套衣服賣506元，社團訂購了23套，付了12000元，可以找回多少元？",
+            "fastype": "問找回",
+            "difficulty": {
+                "grade": "4",
+                "level": "難"
+            },
+            "answer": "362元",
+            "sentences": [
+                {
+                    "sentence": "一套衣服賣506元",
+                    "stype": "每單位量",
+                    "trace_code": "2355-5624-1"
+                },
+                {
+                    "sentence": "社團訂購了23套",
+                    "stype": "量變",
+                    "trace_code": "2355-5624-2"
+                },
+                {
+                    "sentence": "付了12000元",
+                    "stype": "量變",
+                    "trace_code": "2355-5624-3"
+                },
+                {
+                    "sentence": "可以找回多少元",
+                    "stype": "問找回",
+                    "trace_code": "2355-5624-4"
+                }
+            ]
+        },
+        {
+            "qid": "61335",
+            "question": "1顆蘋果賣24元，媽媽買了40顆蘋果，付一張千元鈔，可找回多少元？",
+            "fastype": "問找回",
+            "difficulty": {
+                "grade": "4",
+                "level": "難"
+            },
+            "answer": "40元",
+            "sentences": [
+                {
+                    "sentence": "1顆蘋果賣24元",
+                    "stype": "每單位量",
+                    "trace_code": "14387-5643-1"
+                },
+                {
+                    "sentence": "媽媽買了40顆蘋果",
+                    "stype": "量變",
+                    "trace_code": "14387-5643-2"
+                },
+                {
+                    "sentence": "付一張千元鈔",
+                    "stype": "量變",
+                    "trace_code": "14387-5643-3"
+                },
+                {
+                    "sentence": "可找回多少元",
+                    "stype": "問找回",
+                    "trace_code": "14387-5643-4"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0140470",
+            "question": "一串葡萄80元，小紅買了20串，付了2000元，可以找回多少元？",
+            "fastype": "問找回",
+            "difficulty": {
+                "grade": "3",
+                "level": "難"
+            },
+            "answer": "400元",
+            "sentences": [
+                {
+                    "sentence": "一串葡萄80元",
+                    "stype": "每單位量",
+                    "trace_code": "3120-1132-9"
+                },
+                {
+                    "sentence": "小紅買了20串",
+                    "stype": "量變",
+                    "trace_code": "3120-1132-10"
+                },
+                {
+                    "sentence": "付了2000元",
+                    "stype": "量變",
+                    "trace_code": "3120-1132-11"
+                },
+                {
+                    "sentence": "可以找回多少元",
+                    "stype": "問找回",
+                    "trace_code": "3120-1132-12"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0140445",
+            "question": "一件T恤賣199元，阿姨買了15件，付了3000元，可以找回多少元？",
+            "fastype": "問找回",
+            "difficulty": {
+                "grade": "4",
+                "level": "難"
+            },
+            "answer": "15元",
+            "sentences": [
+                {
+                    "sentence": "一件T恤賣199元",
+                    "stype": "每單位量",
+                    "trace_code": "1260-5782-1"
+                },
+                {
+                    "sentence": "阿姨買了15件",
+                    "stype": "量變",
+                    "trace_code": "1260-5782-2"
+                },
+                {
+                    "sentence": "付了3000元",
+                    "stype": "量變",
+                    "trace_code": "1260-5782-3"
+                },
+                {
+                    "sentence": "可以找回多少元",
+                    "stype": "問找回",
+                    "trace_code": "1260-5782-4"
+                }
+            ]
+        },
+        {
+            "qid": "1MA0140464",
+            "question": "科學館門票每人80元，學校團隊25人購票參訪，付2200元買票，應該找回多少元？",
+            "fastype": "問找回",
+            "difficulty": {
+                "grade": "3",
+                "level": "中"
+            },
+            "answer": "200元",
+            "sentences": [
+                {
+                    "sentence": "科學館門票每人80元",
+                    "stype": "每單位量",
+                    "trace_code": "2918-1285-5"
+                },
+                {
+                    "sentence": "學校團隊25人購票參訪",
+                    "stype": "有",
+                    "trace_code": "2918-1285-6"
+                },
+                {
+                    "sentence": "付2200元買票",
+                    "stype": "量變",
+                    "trace_code": "2918-1285-7"
+                },
+                {
+                    "sentence": "應該找回多少元",
+                    "stype": "問找回",
+                    "trace_code": "2918-1285-8"
+                }
+            ]
+        },
+        {
+            "qid": "83906",
+            "question": "速食店的午餐一份109元，兒童餐一份96元，媽媽各買2份，付1000元，應找回幾元？",
+            "fastype": "問找回",
+            "difficulty": {
+                "grade": "5",
+                "level": "中"
+            },
+            "answer": "590元",
+            "sentences": [
+                {
+                    "sentence": "速食店的午餐一份109元",
+                    "stype": "每單位量",
+                    "trace_code": "6607-7269-1"
+                },
+                {
+                    "sentence": "兒童餐一份96元",
+                    "stype": "每單位量",
+                    "trace_code": "6607-7269-2"
+                },
+                {
+                    "sentence": "媽媽各買2份",
+                    "stype": "量變",
+                    "trace_code": "6607-7269-3"
+                },
+                {
+                    "sentence": "付1000元",
+                    "stype": "量變",
+                    "trace_code": "6607-7269-4"
+                },
+                {
+                    "sentence": "應找回幾元",
+                    "stype": "問找回",
+                    "trace_code": "6607-7269-5"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,2819 @@
+[
+    
+    {
+        "qid": "1MA0130116",
+        "sentence": "小婕一個月要補習14天，1年共要補習幾天？",
+        "quantities": {
+            "s1": [],
+            "s2": []
+        },
+        "unitmaps": {},
+        "answer": "168天",
+        "stype": [
+            "每單位量",
+            "問單位量"
+        ]
+    },
+  
+
+    {
+        "qid": "1MA0120792",
+        "sentence": "一個星期有7天，5個星期有幾天？",
+        "quantities": {
+            "s1": [],
+            "s2": []
+        },
+        "unitmaps": {},
+        "answer": "35天",
+        "stype": [
+            "每單位量",
+            "問單位量"
+        ]
+    },
+
+    {
+        "qid": "83331",
+        "sentence": "把3時平分成180段，一段是多少時間？",
+        "quantities": {
+            "s1": [],
+            "s2": []
+        },
+        "unitmaps": {},
+        "answer": "60秒",
+        "stype": [
+            "每單位量",
+            "問單位量"
+        ]
+    },
+    {
+        "qid": "81379",
+        "sentence": "機車行駛600公尺要花2分47秒，行駛3600公尺要花幾分幾秒？",
+        "quantities": {
+            "s1": [],
+            "s2": [
+                {
+                    "qtyid": "E1",
+                    "quantity": {
+                        "value": "?",
+                        "unit": null,
+                        "entity": "花"
+                    },
+                    "verb": "要",
+                    "subject": "機車行",
+                    "object": null
+                }
+            ]
+        },
+        "unitmaps": {},
+        "answer": "16分42秒",
+        "stype": [
+            "每單位量",
+            "問單位量"
+        ]
+    },
+
+    {
+        "qid": "101297",
+        "sentence": "豪豪包裝一個禮物要花1.4分，16分48秒可以包裝幾個禮物？",
+        "quantities": {
+            "s1": [
+                {
+                    "qtyid": "E1",
+                    "quantity": {
+                        "value": 1,
+                        "unit": "個",
+                        "entity": "禮物"
+                    },
+                    "verb": "包裝",
+                    "subject": "豪豪",
+                    "object": null
+                }
+            ],
+            "s2": [
+                {
+                    "qtyid": "E2",
+                    "quantity": {
+                        "value": "?",
+                        "unit": "個",
+                        "entity": "禮物"
+                    },
+                    "verb": "包裝",
+                    "subject": "豪豪",
+                    "object": null
+                }
+            ]
+        },
+        "unitmaps": {},
+        "answer": "12個",
+        "stype": [
+            "每單位量",
+            "問單位量"
+        ]
+    },
+
+    {
+        "qid": "112126",
+        "sentence": "曉華以分速250公尺的速度慢跑，跑完2450公尺需要幾分鐘？",
+        "quantities": {
+            "s1": [
+                {
+                    "qtyid": "E1",
+                    "quantity": {
+                        "value": "250",
+                        "unit": "公尺",
+                        "entity": "速度"
+                    },
+                    "verb": "速",
+                    "subject": "曉華",
+                    "object": null
+                }
+            ],
+            "s2": [
+                {
+                    "qtyid": "E2",
+                    "quantity": {
+                        "value": "?",
+                        "unit": "分鐘",
+                        "entity": "速度"
+                    },
+                    "verb": "跑",
+                    "subject": "曉華",
+                    "object": null
+                },
+                {
+                    "qtyid": "E3",
+                    "quantity": {
+                        "value": "?",
+                        "unit": "分鐘",
+                        "entity": "速度"
+                    },
+                    "verb": "需要",
+                    "subject": "曉華",
+                    "object": null
+                }
+            ]
+        },
+        "unitmaps": {},
+        "answer": "9.8分鐘",
+        "stype": [
+            "每單位量",
+            "問單位量"
+        ]
+    },
+
+
+    {
+        "qid": "110598",
+        "sentence": "阿光135公尺跑45秒，平均1分鐘跑幾公尺？",
+        "quantities": {
+            "s1": [],
+            "s2": []
+        },
+        "unitmaps": {},
+        "answer": "180公尺",
+        "stype": [
+            "每單位量",
+            "問單位量"
+        ]
+    },
+    {
+        "qid": "110528",
+        "sentence": "遙控汽車1分20秒走120公尺，1分鐘走了幾公尺？",
+        "quantities": {
+            "s1": [
+                {
+                    "qtyid": "E1",
+                    "quantity": {
+                        "value": "120",
+                        "unit": "公尺",
+                        "entity": "汽車"
+                    },
+                    "verb": "遙控",
+                    "subject": null,
+                    "object": null
+                }
+            ],
+            "s2": [
+                {
+                    "qtyid": "E2",
+                    "quantity": {
+                        "value": "?",
+                        "unit": "公尺",
+                        "entity": "汽車"
+                    },
+                    "verb": "走",
+                    "subject": null,
+                    "object": null
+                }
+            ]
+        },
+        "unitmaps": {},
+        "answer": "90公尺",
+        "stype": [
+            "每單位量",
+            "問單位量"
+        ]
+    },
+
+    {
+        "qid": "110526",
+        "sentence": "佐為135公尺跑45秒，平均一分鐘跑幾公尺？",
+        "quantities": {
+            "s1": [],
+            "s2": []
+        },
+        "unitmaps": {},
+        "answer": "180公尺",
+        "stype": [
+            "每單位量",
+            "問單位量"
+        ]
+    },
+    {
+        "qid": "1MA0160248",
+        "sentence": "蜂鳥30秒鐘飛行0.21公里，秒速是幾公尺？",
+        "quantities": {
+            "s1": [
+                {
+                    "qtyid": "E1",
+                    "quantity": {
+                        "value": "0.21",
+                        "unit": "公里",
+                        "entity": "蜂鳥"
+                    },
+                    "verb": null,
+                    "subject": null,
+                    "object": null
+                },
+                {
+                    "qtyid": "E2",
+                    "quantity": {
+                        "value": "30",
+                        "unit": "秒鐘",
+                        "entity": "飛行"
+                    },
+                    "verb": null,
+                    "subject": null,
+                    "object": null
+                }
+            ],
+            "s2": [
+                {
+                    "qtyid": "E3",
+                    "quantity": {
+                        "value": "?",
+                        "unit": "公尺",
+                        "entity": "蜂鳥"
+                    },
+                    "verb": "速",
+                    "subject": null,
+                    "object": null
+                },
+                {
+                    "qtyid": "E4",
+                    "quantity": {
+                        "value": "?",
+                        "unit": "公尺",
+                        "entity": "蜂鳥"
+                    },
+                    "verb": "是",
+                    "subject": null,
+                    "object": null
+                }
+            ]
+        },
+        "unitmaps": {
+            "s1": [
+                {
+                    "denominator": "E1",
+                    "numerator": "E2"
+                }
+            ]
+        },
+        "answer": "7公尺",
+        "stype": [
+            "每單位量",
+            "問單位量"
+        ]
+    },
+    {
+        "qid": "110601",
+        "sentence": "小米跑200公尺花了40秒，分速是幾公尺？",
+        "quantities": {
+            "s1": [],
+            "s2": [
+                {
+                    "qtyid": "E1",
+                    "quantity": {
+                        "value": "?",
+                        "unit": "公尺",
+                        "entity": "小米"
+                    },
+                    "verb": "分",
+                    "subject": null,
+                    "object": null
+                },
+                {
+                    "qtyid": "E2",
+                    "quantity": {
+                        "value": "?",
+                        "unit": "公尺",
+                        "entity": "小米"
+                    },
+                    "verb": "速",
+                    "subject": null,
+                    "object": null
+                },
+                {
+                    "qtyid": "E3",
+                    "quantity": {
+                        "value": "?",
+                        "unit": "公尺",
+                        "entity": "小米"
+                    },
+                    "verb": "是",
+                    "subject": null,
+                    "object": null
+                }
+            ]
+        },
+        "unitmaps": {},
+        "answer": "300公尺",
+        "stype": [
+            "每單位量",
+            "問單位量"
+        ]
+    },
+   
+    {
+        "qid": "110543",
+        "sentence": "遊覽車以每小時95公里的速度在高速公路上行駛，360公里的路程須行駛幾小時？",
+        "quantities": {
+            "s1": [],
+            "s2": [
+                {
+                    "qtyid": "E1",
+                    "quantity": {
+                        "value": "360",
+                        "unit": "公里",
+                        "entity": "路程"
+                    },
+                    "verb": null,
+                    "subject": "高速公路",
+                    "object": null
+                },
+                {
+                    "qtyid": "E2",
+                    "quantity": {
+                        "value": "?",
+                        "unit": "小時",
+                        "entity": "遊覽車"
+                    },
+                    "verb": null,
+                    "subject": "高速公路",
+                    "object": null
+                }
+            ]
+        },
+        "unitmaps": {
+            "s2": [
+                {
+                    "denominator": "E1",
+                    "numerator": "E2"
+                }
+            ]
+        },
+        "answer": "3小時",
+        "stype": [
+            "每單位量",
+            "問單位量"
+        ]
+    },
+
+    {
+        "qid": "1MA0161643",
+        "sentence": "偉民跑60公尺花了10秒，偉民跑步的秒速是多少？",
+        "quantities": {
+            "s1": [],
+            "s2": []
+        },
+        "unitmaps": {},
+        "answer": "6公尺/秒",
+        "stype": [
+            "每單位量",
+            "問單位量"
+        ]
+    },
+    {
+        "qid": "1MA0160328",
+        "sentence": "一枚火箭秒速是45公里，時速是多少公里？",
+        "quantities": {
+            "s1": [
+                {
+                    "qtyid": "E1",
+                    "quantity": {
+                        "value": 1,
+                        "unit": "枚",
+                        "entity": "火箭"
+                    },
+                    "verb": "速",
+                    "subject": null,
+                    "object": null
+                },
+                {
+                    "qtyid": "E2",
+                    "quantity": {
+                        "value": "45",
+                        "unit": "公里",
+                        "entity": "火箭"
+                    },
+                    "verb": "速",
+                    "subject": null,
+                    "object": null
+                },
+                {
+                    "qtyid": "E3",
+                    "quantity": {
+                        "value": 1,
+                        "unit": "枚",
+                        "entity": "火箭"
+                    },
+                    "verb": "是",
+                    "subject": null,
+                    "object": null
+                },
+                {
+                    "qtyid": "E4",
+                    "quantity": {
+                        "value": "45",
+                        "unit": "公里",
+                        "entity": "火箭"
+                    },
+                    "verb": "是",
+                    "subject": null,
+                    "object": null
+                }
+            ],
+            "s2": [
+                {
+                    "qtyid": "E5",
+                    "quantity": {
+                        "value": "?",
+                        "unit": "公里",
+                        "entity": "火箭"
+                    },
+                    "verb": "是",
+                    "subject": "時速",
+                    "object": null
+                }
+            ]
+        },
+        "unitmaps": {
+            "s1": [
+                {
+                    "denominator": "E1",
+                    "numerator": "E2"
+                },
+                {
+                    "denominator": "E3",
+                    "numerator": "E4"
+                }
+            ]
+        },
+        "answer": "162000公里/時",
+        "stype": [
+            "每單位量",
+            "問單位量"
+        ]
+    },
+    
+    {
+        "qid": "110605",
+        "sentence": "人造衛星飛行8000公里需要25分鐘，時速是多少公里？",
+        "quantities": {
+            "s1": [],
+            "s2": []
+        },
+        "unitmaps": {},
+        "answer": "19200公里",
+        "stype": [
+            "每單位量",
+            "問單位量"
+        ]
+    },
+   
+   
+    
+   
+    
+
+ 
+    {
+        "qid": "112123",
+        "sentence": "時速110公里的車子，1小時30分能走幾公里？",
+        "quantities": {
+            "s1": [
+                {
+                    "qtyid": "E1",
+                    "quantity": {
+                        "value": "110",
+                        "unit": "公里",
+                        "entity": "車子"
+                    },
+                    "verb": null,
+                    "subject": null,
+                    "object": null
+                }
+            ],
+            "s2": [
+                {
+                    "qtyid": "E2",
+                    "quantity": {
+                        "value": "?",
+                        "unit": "公里",
+                        "entity": "車子"
+                    },
+                    "verb": "走",
+                    "subject": null,
+                    "object": null
+                }
+            ]
+        },
+        "unitmaps": {},
+        "answer": "165公里",
+        "stype": [
+            "每單位量",
+            "問單位量"
+        ]
+    },
+
+    {
+        "qid": "1MA0161996",
+        "sentence": "玩具車的秒速是1.3公尺，13分鐘可以移動多少公尺？",
+        "quantities": {
+            "s1": [
+                {
+                    "qtyid": "E1",
+                    "quantity": {
+                        "value": "1.3",
+                        "unit": "公尺",
+                        "entity": "玩具"
+                    },
+                    "verb": "速",
+                    "subject": null,
+                    "object": null
+                },
+                {
+                    "qtyid": "E2",
+                    "quantity": {
+                        "value": "1.3",
+                        "unit": "公尺",
+                        "entity": "玩具"
+                    },
+                    "verb": "是",
+                    "subject": null,
+                    "object": null
+                }
+            ],
+            "s2": [
+                {
+                    "qtyid": "E3",
+                    "quantity": {
+                        "value": "?",
+                        "unit": "公尺",
+                        "entity": "玩具"
+                    },
+                    "verb": "移動",
+                    "subject": null,
+                    "object": null
+                }
+            ]
+        },
+        "unitmaps": {},
+        "answer": "1014公尺",
+        "stype": [
+            "每單位量",
+            "問單位量"
+        ]
+    },
+    {
+        "qid": "110609",
+        "sentence": "候鳥45分鐘可以飛行27公里，秒速是多少公里",
+        "quantities": {
+            "s1": [
+                {
+                    "qtyid": "E1",
+                    "quantity": {
+                        "value": "27",
+                        "unit": "公里",
+                        "entity": "候鳥"
+                    },
+                    "verb": "可以",
+                    "subject": null,
+                    "object": null
+                }
+            ],
+            "s2": [
+                {
+                    "qtyid": "E2",
+                    "quantity": {
+                        "value": "?",
+                        "unit": "公里",
+                        "entity": "候鳥"
+                    },
+                    "verb": "速",
+                    "subject": null,
+                    "object": null
+                },
+                {
+                    "qtyid": "E3",
+                    "quantity": {
+                        "value": "?",
+                        "unit": "公里",
+                        "entity": "候鳥"
+                    },
+                    "verb": "是",
+                    "subject": null,
+                    "object": null
+                }
+            ]
+        },
+        "unitmaps": {},
+        "answer": "0.01公里",
+        "stype": [
+            "每單位量",
+            "問單位量"
+        ]
+    },
+
+    {
+        "qid": "81284",
+        "sentence": "工人一天要工作7時30分，工作8天一共是多少時間？",
+        "quantities": {
+            "s1": [],
+            "s2": []
+        },
+        "unitmaps": {},
+        "answer": "60時",
+        "stype": [
+            "每單位量",
+            "問單位量"
+        ]
+    },
+    {
+        "qid": "81962",
+        "sentence": "小雯做6條項鍊花了8時24分，她做1條項鍊平均要花幾時幾分？",
+        "quantities": {
+            "s1": [
+                {
+                    "qtyid": "E1",
+                    "quantity": {
+                        "value": "6",
+                        "unit": "條",
+                        "entity": "項鍊"
+                    },
+                    "verb": "做",
+                    "subject": "小雯",
+                    "object": null
+                }
+            ],
+            "s2": [
+                {
+                    "qtyid": "E2",
+                    "quantity": {
+                        "value": "1",
+                        "unit": "條",
+                        "entity": "項鍊"
+                    },
+                    "verb": "做",
+                    "subject": "她",
+                    "object": null
+                },
+                {
+                    "qtyid": "E3",
+                    "quantity": {
+                        "value": "?",
+                        "unit": null,
+                        "entity": "項鍊"
+                    },
+                    "verb": "做",
+                    "subject": "她",
+                    "object": null
+                },
+                {
+                    "qtyid": "E4",
+                    "quantity": {
+                        "value": "?",
+                        "unit": null,
+                        "entity": "花"
+                    },
+                    "verb": "要",
+                    "subject": "她",
+                    "object": null
+                }
+            ]
+        },
+        "unitmaps": {
+            "s2": [
+                {
+                    "denominator": "E2",
+                    "numerator": "E3"
+                }
+            ]
+        },
+        "answer": "01時24分",
+        "stype": [
+            "每單位量",
+            "問單位量"
+        ]
+    },
+    {
+        "qid": "81283",
+        "sentence": "小班的手錶每天慢2分2秒，一星期後慢了幾分幾秒？",
+        "quantities": {
+            "s1": [],
+            "s2": [
+                {
+                    "qtyid": "E1",
+                    "quantity": {
+                        "value": "?",
+                        "unit": null,
+                        "entity": "手錶"
+                    },
+                    "verb": "慢",
+                    "subject": null,
+                    "object": null
+                }
+            ]
+        },
+        "unitmaps": {},
+        "answer": "14分14秒",
+        "stype": [
+            "每單位量",
+            "問單位量"
+        ]
+    },
+    {
+        "qid": "80829",
+        "sentence": "品婕花1分15秒可以摺一架紙飛機，連續摺3架紙飛機要花多少時間？",
+        "quantities": {
+            "s1": [
+                {
+                    "qtyid": "E1",
+                    "quantity": {
+                        "value": 1,
+                        "unit": "架",
+                        "entity": "飛機"
+                    },
+                    "verb": "摺",
+                    "subject": "品婕",
+                    "object": null
+                }
+            ],
+            "s2": [
+                {
+                    "qtyid": "E2",
+                    "quantity": {
+                        "value": "3",
+                        "unit": "架",
+                        "entity": "飛機"
+                    },
+                    "verb": "摺",
+                    "subject": "品婕",
+                    "object": null
+                },
+                {
+                    "qtyid": "E3",
+                    "quantity": {
+                        "value": "?",
+                        "unit": null,
+                        "entity": "飛機"
+                    },
+                    "verb": "摺",
+                    "subject": "品婕",
+                    "object": null
+                },
+                {
+                    "qtyid": "E4",
+                    "quantity": {
+                        "value": "?",
+                        "unit": null,
+                        "entity": "花"
+                    },
+                    "verb": "要",
+                    "subject": "品婕",
+                    "object": null
+                }
+            ]
+        },
+        "unitmaps": {
+            "s2": [
+                {
+                    "denominator": "E2",
+                    "numerator": "E3"
+                }
+            ]
+        },
+        "answer": "3分45秒",
+        "stype": [
+            "每單位量",
+            "問單位量"
+        ]
+    },
+    {
+        "qid": "80850",
+        "sentence": "飄飄老師批改10份作業要花5分40秒，平均批改一份作業要花多少時間？",
+        "quantities": {
+            "s1": [
+                {
+                    "qtyid": "E1",
+                    "quantity": {
+                        "value": "10",
+                        "unit": "份",
+                        "entity": "作業"
+                    },
+                    "verb": "批改",
+                    "subject": "飄飄|老師",
+                    "object": null
+                }
+            ],
+            "s2": [
+                {
+                    "qtyid": "E2",
+                    "quantity": {
+                        "value": 1,
+                        "unit": "份",
+                        "entity": "作業"
+                    },
+                    "verb": "批改",
+                    "subject": "老師",
+                    "object": null
+                },
+                {
+                    "qtyid": "E3",
+                    "quantity": {
+                        "value": "?",
+                        "unit": null,
+                        "entity": "花"
+                    },
+                    "verb": "批改",
+                    "subject": "老師",
+                    "object": null
+                },
+                {
+                    "qtyid": "E4",
+                    "quantity": {
+                        "value": "?",
+                        "unit": null,
+                        "entity": "花"
+                    },
+                    "verb": "要",
+                    "subject": "老師",
+                    "object": null
+                }
+            ]
+        },
+        "unitmaps": {
+            "s2": [
+                {
+                    "denominator": "E2",
+                    "numerator": "E3"
+                }
+            ]
+        },
+        "answer": "34秒",
+        "stype": [
+            "每單位量",
+            "問單位量"
+        ]
+    },
+    {
+        "qid": "81274",
+        "sentence": "媽媽做一份壽司平均需花2分3秒的時間，做15份共需幾分幾秒？",
+        "quantities": {
+            "s1": [
+                {
+                    "qtyid": "E1",
+                    "quantity": {
+                        "value": 1,
+                        "unit": "份",
+                        "entity": "壽司"
+                    },
+                    "verb": "做",
+                    "subject": "媽媽",
+                    "object": null
+                }
+            ],
+            "s2": [
+                {
+                    "qtyid": "E2",
+                    "quantity": {
+                        "value": "15",
+                        "unit": "份",
+                        "entity": "花"
+                    },
+                    "verb": "做",
+                    "subject": "媽媽",
+                    "object": null
+                },
+                {
+                    "qtyid": "E3",
+                    "quantity": {
+                        "value": "?",
+                        "unit": null,
+                        "entity": "花"
+                    },
+                    "verb": "做",
+                    "subject": "媽媽",
+                    "object": null
+                },
+                {
+                    "qtyid": "E4",
+                    "quantity": {
+                        "value": "15",
+                        "unit": "份",
+                        "entity": "花"
+                    },
+                    "verb": "需",
+                    "subject": "媽媽",
+                    "object": null
+                },
+                {
+                    "qtyid": "E5",
+                    "quantity": {
+                        "value": "?",
+                        "unit": null,
+                        "entity": "花"
+                    },
+                    "verb": "需",
+                    "subject": "媽媽",
+                    "object": null
+                }
+            ]
+        },
+        "unitmaps": {
+            "s2": [
+                {
+                    "denominator": "E2",
+                    "numerator": "E3"
+                },
+                {
+                    "denominator": "E4",
+                    "numerator": "E5"
+                }
+            ]
+        },
+        "answer": "30分45秒",
+        "stype": [
+            "每單位量",
+            "問單位量"
+        ]
+    },
+
+    {
+        "qid": "81242",
+        "sentence": "製作1個布偶平均需8分10秒，製作6個布偶共需幾分？",
+        "quantities": {
+            "s1": [
+                {
+                    "qtyid": "E1",
+                    "quantity": {
+                        "value": "1",
+                        "unit": "個",
+                        "entity": "布偶"
+                    },
+                    "verb": "製作",
+                    "subject": null,
+                    "object": null
+                }
+            ],
+            "s2": [
+                {
+                    "qtyid": "E2",
+                    "quantity": {
+                        "value": "6",
+                        "unit": "個",
+                        "entity": "布偶"
+                    },
+                    "verb": "製作",
+                    "subject": null,
+                    "object": null
+                },
+                {
+                    "qtyid": "E3",
+                    "quantity": {
+                        "value": "?",
+                        "unit": "分",
+                        "entity": "布偶"
+                    },
+                    "verb": "製作",
+                    "subject": null,
+                    "object": null
+                },
+                {
+                    "qtyid": "E4",
+                    "quantity": {
+                        "value": "?",
+                        "unit": "分",
+                        "entity": "布偶"
+                    },
+                    "verb": "需",
+                    "subject": null,
+                    "object": null
+                }
+            ]
+        },
+        "unitmaps": {
+            "s2": [
+                {
+                    "denominator": "E2",
+                    "numerator": "E3"
+                }
+            ]
+        },
+        "answer": "49分",
+        "stype": [
+            "每單位量",
+            "問單位量"
+        ]
+    },
+    {
+        "qid": "80885",
+        "sentence": "飄飄老師批改14份作業要花2時48分，批改一份作業平均要花多少時間？",
+        "quantities": {
+            "s1": [
+                {
+                    "qtyid": "E1",
+                    "quantity": {
+                        "value": "14",
+                        "unit": "份",
+                        "entity": "作業"
+                    },
+                    "verb": "批改",
+                    "subject": "飄飄|老師",
+                    "object": null
+                }
+            ],
+            "s2": [
+                {
+                    "qtyid": "E2",
+                    "quantity": {
+                        "value": 1,
+                        "unit": "份",
+                        "entity": "作業"
+                    },
+                    "verb": "批改",
+                    "subject": "老師",
+                    "object": null
+                },
+                {
+                    "qtyid": "E3",
+                    "quantity": {
+                        "value": "?",
+                        "unit": null,
+                        "entity": "花"
+                    },
+                    "verb": "批改",
+                    "subject": "老師",
+                    "object": null
+                },
+                {
+                    "qtyid": "E4",
+                    "quantity": {
+                        "value": "?",
+                        "unit": null,
+                        "entity": "花"
+                    },
+                    "verb": "要",
+                    "subject": "老師",
+                    "object": null
+                }
+            ]
+        },
+        "unitmaps": {
+            "s2": [
+                {
+                    "denominator": "E2",
+                    "numerator": "E3"
+                }
+            ]
+        },
+        "answer": "12分",
+        "stype": [
+            "每單位量",
+            "問單位量"
+        ]
+    },
+
+    {
+        "qid": "1MA0120878",
+        "sentence": "小芳每天存10元，一星期可以存幾元？",
+        "quantities": {
+            "s1": [],
+            "s2": []
+        },
+        "unitmaps": {},
+        "answer": "70元",
+        "stype": [
+            "每單位量",
+            "問單位量"
+        ]
+    },
+   
+    {
+        "qid": "81372",
+        "sentence": "怡寧打600個字共花了14分12秒，打200個字要花幾分幾秒？",
+        "quantities": {
+            "s1": [
+                {
+                    "qtyid": "E1",
+                    "quantity": {
+                        "value": "600",
+                        "unit": "個",
+                        "entity": "字"
+                    },
+                    "verb": "打",
+                    "subject": "怡寧",
+                    "object": null
+                }
+            ],
+            "s2": [
+                {
+                    "qtyid": "E2",
+                    "quantity": {
+                        "value": "200",
+                        "unit": "個",
+                        "entity": "字"
+                    },
+                    "verb": "打",
+                    "subject": "怡寧",
+                    "object": null
+                },
+                {
+                    "qtyid": "E3",
+                    "quantity": {
+                        "value": "?",
+                        "unit": null,
+                        "entity": "字"
+                    },
+                    "verb": "打",
+                    "subject": "怡寧",
+                    "object": null
+                },
+                {
+                    "qtyid": "E4",
+                    "quantity": {
+                        "value": "?",
+                        "unit": null,
+                        "entity": "花"
+                    },
+                    "verb": "要",
+                    "subject": "怡寧",
+                    "object": null
+                }
+            ]
+        },
+        "unitmaps": {
+            "s2": [
+                {
+                    "denominator": "E2",
+                    "numerator": "E3"
+                }
+            ]
+        },
+        "answer": "4分44秒",
+        "stype": [
+            "每單位量",
+            "問單位量"
+        ]
+    },
+    {
+        "qid": "83299",
+        "sentence": "若亞寫15道數學題要花1時15分，平均寫一題要花幾分？",
+        "quantities": {
+            "s1": [
+                {
+                    "qtyid": "E1",
+                    "quantity": {
+                        "value": "15",
+                        "unit": "道",
+                        "entity": "數學題"
+                    },
+                    "verb": "寫",
+                    "subject": "若亞",
+                    "object": null
+                }
+            ],
+            "s2": [
+                {
+                    "qtyid": "E2",
+                    "quantity": {
+                        "value": "?",
+                        "unit": "分",
+                        "entity": "數學題"
+                    },
+                    "verb": "寫",
+                    "subject": "若亞",
+                    "object": null
+                },
+                {
+                    "qtyid": "E3",
+                    "quantity": {
+                        "value": "?",
+                        "unit": "分",
+                        "entity": "數學題"
+                    },
+                    "verb": "要",
+                    "subject": "若亞",
+                    "object": null
+                }
+            ]
+        },
+        "unitmaps": {},
+        "answer": "5分",
+        "stype": [
+            "每單位量",
+            "問單位量"
+        ]
+    },
+    {
+        "qid": "80836",
+        "sentence": "小白跑學校外圍一圈平均要花3分20秒，他10分鐘可以跑學校操場幾圈？",
+        "quantities": {
+            "s1": [],
+            "s2": [
+                {
+                    "qtyid": "E1",
+                    "quantity": {
+                        "value": "?",
+                        "unit": "圈",
+                        "entity": "花"
+                    },
+                    "verb": "跑",
+                    "subject": "他",
+                    "object": null
+                }
+            ]
+        },
+        "unitmaps": {},
+        "answer": "3圈",
+        "stype": [
+            "每單位量",
+            "問單位量"
+        ]
+    },
+    {
+        "qid": "81273",
+        "sentence": "小琪摺一隻紙鶴平均要花1分15秒，連續摺5隻共要花幾分幾秒？",
+        "quantities": {
+            "s1": [
+                {
+                    "qtyid": "E1",
+                    "quantity": {
+                        "value": 1,
+                        "unit": "隻",
+                        "entity": "鶴"
+                    },
+                    "verb": "摺",
+                    "subject": "小琪",
+                    "object": null
+                }
+            ],
+            "s2": [
+                {
+                    "qtyid": "E2",
+                    "quantity": {
+                        "value": "?",
+                        "unit": null,
+                        "entity": "花"
+                    },
+                    "verb": "摺",
+                    "subject": "小琪",
+                    "object": null
+                },
+                {
+                    "qtyid": "E3",
+                    "quantity": {
+                        "value": "?",
+                        "unit": null,
+                        "entity": "花"
+                    },
+                    "verb": "要",
+                    "subject": "小琪",
+                    "object": null
+                }
+            ]
+        },
+        "unitmaps": {},
+        "answer": "6分15秒",
+        "stype": [
+            "每單位量",
+            "問單位量"
+        ]
+    },
+    {
+        "qid": "1MA0150013",
+        "sentence": "媽媽每天可以織1+(1/5)公尺的圍巾，一星期可以織多少公尺的圍巾？",
+        "quantities": {
+            "s1": [
+                {
+                    "qtyid": "E1",
+                    "quantity": {
+                        "value": 1,
+                        "unit": "天",
+                        "entity": "天"
+                    },
+                    "verb": "織",
+                    "subject": "媽媽",
+                    "object": null
+                },
+                {
+                    "qtyid": "E1",
+                    "quantity": {
+                        "value": "1+(1/5)",
+                        "unit": "公尺",
+                        "entity": "圍巾"
+                    },
+                    "verb": "織",
+                    "subject": "媽媽",
+                    "object": null
+                }
+            ],
+            "s2": [
+                {
+                    "qtyid": "E1",
+                    "quantity": {
+                        "value": "7",
+                        "unit": "天",
+                        "entity": "天"
+                    },
+                    "verb": "織",
+                    "subject": "媽媽",
+                    "object": null
+                },
+                {
+                    "qtyid": "E2",
+                    "quantity": {
+                        "value": "?",
+                        "unit": "公尺",
+                        "entity": "圍巾"
+                    },
+                    "verb": "織",
+                    "subject": "媽媽",
+                    "object": null
+                }
+            ]
+        },
+        "unitmaps": {},
+        "answer": "8+(2/5)公尺",
+        "stype": [
+            "每單位量",
+            "問單位量"
+        ]
+    },
+    {
+        "qid": "1MA0150832",
+        "sentence": "木雕師傅雕刻4尊達摩像花了10日8時，平均雕刻一尊達摩像要花幾日幾時？",
+        "quantities": {
+            "s1": [],
+            "s2": [
+                {
+                    "qtyid": "E1",
+                    "quantity": {
+                        "value": 1,
+                        "unit": null,
+                        "entity": "花"
+                    },
+                    "verb": "要",
+                    "subject": "師傅",
+                    "object": null
+                },
+                {
+                    "qtyid": "E2",
+                    "quantity": {
+                        "value": "?",
+                        "unit": "日",
+                        "entity": "花"
+                    },
+                    "verb": "要",
+                    "subject": "師傅",
+                    "object": null
+                },
+                {
+                    "qtyid": "E3",
+                    "quantity": {
+                        "value": "?",
+                        "unit": null,
+                        "entity": "花"
+                    },
+                    "verb": "要",
+                    "subject": "師傅",
+                    "object": null
+                }
+            ]
+        },
+        "unitmaps": {
+            "s2": [
+                {
+                    "denominator": "E1",
+                    "numerator": "E2"
+                },
+                {
+                    "denominator": "E1",
+                    "numerator": "E3"
+                },
+                {
+                    "denominator": "E2",
+                    "numerator": "E3"
+                }
+            ]
+        },
+        "answer": "2日14時",
+        "stype": [
+            "每單位量",
+            "問單位量"
+        ]
+    },
+    {
+        "qid": "81335",
+        "sentence": "傑綸花了4時33分編完3個一樣的中國結，平均編1個中國結需要幾時幾分？",
+        "quantities": {
+            "s1": [
+                {
+                    "qtyid": "E1",
+                    "quantity": {
+                        "value": 1,
+                        "unit": "樣",
+                        "entity": "中國結"
+                    },
+                    "verb": "編",
+                    "subject": "傑綸",
+                    "object": null
+                },
+                {
+                    "qtyid": "E2",
+                    "quantity": {
+                        "value": "3",
+                        "unit": "個",
+                        "entity": "中國結"
+                    },
+                    "verb": "編",
+                    "subject": "傑綸",
+                    "object": null
+                }
+            ],
+            "s2": [
+                {
+                    "qtyid": "E3",
+                    "quantity": {
+                        "value": "1",
+                        "unit": "個",
+                        "entity": "中國"
+                    },
+                    "verb": "編",
+                    "subject": "傑綸",
+                    "object": null
+                },
+                {
+                    "qtyid": "E4",
+                    "quantity": {
+                        "value": "?",
+                        "unit": null,
+                        "entity": "中國結"
+                    },
+                    "verb": "編",
+                    "subject": "傑綸",
+                    "object": null
+                },
+                {
+                    "qtyid": "E5",
+                    "quantity": {
+                        "value": "?",
+                        "unit": null,
+                        "entity": "中國結"
+                    },
+                    "verb": "結",
+                    "subject": "傑綸",
+                    "object": null
+                },
+                {
+                    "qtyid": "E6",
+                    "quantity": {
+                        "value": "?",
+                        "unit": null,
+                        "entity": "中國結"
+                    },
+                    "verb": "需要",
+                    "subject": "傑綸",
+                    "object": null
+                }
+            ]
+        },
+        "unitmaps": {
+            "s1": [
+                {
+                    "denominator": "E1",
+                    "numerator": "E2"
+                }
+            ],
+            "s2": [
+                {
+                    "denominator": "E3",
+                    "numerator": "E4"
+                }
+            ]
+        },
+        "answer": "01時31分",
+        "stype": [
+            "每單位量",
+            "問單位量"
+        ]
+    },
+    {
+        "qid": "80849",
+        "sentence": "王伯伯製作10個蒸籠要花13時40分，平均製作一個蒸籠要花多少時間？",
+        "quantities": {
+            "s1": [
+                {
+                    "qtyid": "E1",
+                    "quantity": {
+                        "value": "10",
+                        "unit": "個",
+                        "entity": "蒸籠"
+                    },
+                    "verb": "製作",
+                    "subject": "王伯伯",
+                    "object": null
+                }
+            ],
+            "s2": [
+                {
+                    "qtyid": "E2",
+                    "quantity": {
+                        "value": 1,
+                        "unit": "個",
+                        "entity": "蒸籠"
+                    },
+                    "verb": "製作",
+                    "subject": "王伯伯",
+                    "object": null
+                },
+                {
+                    "qtyid": "E3",
+                    "quantity": {
+                        "value": "?",
+                        "unit": null,
+                        "entity": "蒸籠"
+                    },
+                    "verb": "製作",
+                    "subject": "王伯伯",
+                    "object": null
+                },
+                {
+                    "qtyid": "E4",
+                    "quantity": {
+                        "value": "?",
+                        "unit": null,
+                        "entity": "花"
+                    },
+                    "verb": "要",
+                    "subject": "王伯伯",
+                    "object": null
+                }
+            ]
+        },
+        "unitmaps": {
+            "s2": [
+                {
+                    "denominator": "E2",
+                    "numerator": "E3"
+                }
+            ]
+        },
+        "answer": "01時22分",
+        "stype": [
+            "每單位量",
+            "問單位量"
+        ]
+    },
+    {
+        "qid": "81291",
+        "sentence": "小芳畫1隻鳥平均需要2分30秒，1時可以畫幾隻鳥？",
+        "quantities": {
+            "s1": [
+                {
+                    "qtyid": "E1",
+                    "quantity": {
+                        "value": "1",
+                        "unit": "隻",
+                        "entity": "鳥"
+                    },
+                    "verb": "畫",
+                    "subject": "小芳",
+                    "object": null
+                }
+            ],
+            "s2": [
+                {
+                    "qtyid": "E2",
+                    "quantity": {
+                        "value": "?",
+                        "unit": "隻",
+                        "entity": "鳥"
+                    },
+                    "verb": "畫",
+                    "subject": "小芳",
+                    "object": null
+                }
+            ]
+        },
+        "unitmaps": {},
+        "answer": "24隻",
+        "stype": [
+            "每單位量",
+            "問單位量"
+        ]
+    },
+    {
+        "qid": "81966",
+        "sentence": "工人平均粉刷一面牆壁要花2時30分，1日6時可以粉刷幾面牆壁？",
+        "quantities": {
+            "s1": [
+                {
+                    "qtyid": "E1",
+                    "quantity": {
+                        "value": 1,
+                        "unit": "面",
+                        "entity": "牆壁"
+                    },
+                    "verb": "粉刷",
+                    "subject": "工人",
+                    "object": null
+                }
+            ],
+            "s2": [
+                {
+                    "qtyid": "E2",
+                    "quantity": {
+                        "value": "?",
+                        "unit": "面",
+                        "entity": "牆壁"
+                    },
+                    "verb": "粉刷",
+                    "subject": "工人",
+                    "object": null
+                }
+            ]
+        },
+        "unitmaps": {},
+        "answer": "12面",
+        "stype": [
+            "每單位量",
+            "問單位量"
+        ]
+    },
+    {
+        "qid": "80827",
+        "sentence": "小宇每天要補習2時20分，5天共花多少時間在補習？",
+        "quantities": {
+            "s1": [],
+            "s2": [
+                {
+                    "qtyid": "E1",
+                    "quantity": {
+                        "value": "5",
+                        "unit": "天",
+                        "entity": "共"
+                    },
+                    "verb": "補習",
+                    "subject": null,
+                    "object": null
+                }
+            ]
+        },
+        "unitmaps": {},
+        "answer": "11時 40分",
+        "stype": [
+            "每單位量",
+            "問單位量"
+        ]
+    },
+    {
+        "qid": "1MA0150860",
+        "sentence": "阿森摺6隻紙鶴要花7分鐘，若要摺50隻紙鶴要花多少時間？",
+        "quantities": {
+            "s1": [
+                {
+                    "qtyid": "E1",
+                    "quantity": {
+                        "value": "6",
+                        "unit": "隻",
+                        "entity": "鶴"
+                    },
+                    "verb": "摺",
+                    "subject": "阿森",
+                    "object": null
+                }
+            ],
+            "s2": [
+                {
+                    "qtyid": "E2",
+                    "quantity": {
+                        "value": "50",
+                        "unit": "隻",
+                        "entity": "鶴"
+                    },
+                    "verb": "摺",
+                    "subject": "阿森",
+                    "object": null
+                },
+                {
+                    "qtyid": "E3",
+                    "quantity": {
+                        "value": "?",
+                        "unit": null,
+                        "entity": "鶴"
+                    },
+                    "verb": "摺",
+                    "subject": "阿森",
+                    "object": null
+                },
+                {
+                    "qtyid": "E4",
+                    "quantity": {
+                        "value": "?",
+                        "unit": null,
+                        "entity": "花"
+                    },
+                    "verb": "要",
+                    "subject": "阿森",
+                    "object": null
+                }
+            ]
+        },
+        "unitmaps": {
+            "s2": [
+                {
+                    "denominator": "E2",
+                    "numerator": "E3"
+                }
+            ]
+        },
+        "answer": "58分20秒",
+        "stype": [
+            "每單位量",
+            "問單位量"
+        ]
+    },
+    {
+        "qid": "1MA0151785",
+        "sentence": "工人一天要工作7時30分，工作8天一共工作多少小時？",
+        "quantities": {
+            "s1": [],
+            "s2": [
+                {
+                    "qtyid": "E1",
+                    "quantity": {
+                        "value": 1,
+                        "unit": null,
+                        "entity": "共"
+                    },
+                    "verb": null,
+                    "subject": "工人",
+                    "object": null
+                },
+                {
+                    "qtyid": "E2",
+                    "quantity": {
+                        "value": "8",
+                        "unit": "天",
+                        "entity": "共"
+                    },
+                    "verb": null,
+                    "subject": "工人",
+                    "object": null
+                }
+            ]
+        },
+        "unitmaps": {
+            "s2": [
+                {
+                    "denominator": "E1",
+                    "numerator": "E2"
+                }
+            ]
+        },
+        "answer": "60小時",
+        "stype": [
+            "每單位量",
+            "問單位量"
+        ]
+    },
+    {
+        "qid": "83309",
+        "sentence": "將作法和答案記下來：列印一份文件需要1分30秒，60分可列印幾份文件？",
+        "quantities": {
+            "s1": [
+                {
+                    "qtyid": "E1",
+                    "quantity": {
+                        "value": 1,
+                        "unit": "份",
+                        "entity": "文件"
+                    },
+                    "verb": "列印",
+                    "subject": "作法|答案",
+                    "object": null
+                }
+            ],
+            "s2": [
+                {
+                    "qtyid": "E2",
+                    "quantity": {
+                        "value": "?",
+                        "unit": "份",
+                        "entity": "文件"
+                    },
+                    "verb": "列印",
+                    "subject": "答案",
+                    "object": null
+                }
+            ]
+        },
+        "unitmaps": {},
+        "answer": "40份",
+        "stype": [
+            "每單位量",
+            "問單位量"
+        ]
+    },
+    {
+        "qid": "1MA0151781",
+        "sentence": "沖洗一張照片要1分5秒，沖洗15張照片要多久？",
+        "quantities": {
+            "s1": [
+                {
+                    "qtyid": "E1",
+                    "quantity": {
+                        "value": 1,
+                        "unit": "張",
+                        "entity": "照片"
+                    },
+                    "verb": "沖洗",
+                    "subject": null,
+                    "object": null
+                }
+            ],
+            "s2": [
+                {
+                    "qtyid": "E2",
+                    "quantity": {
+                        "value": "15",
+                        "unit": "張",
+                        "entity": "照片"
+                    },
+                    "verb": "沖洗",
+                    "subject": null,
+                    "object": null
+                }
+            ]
+        },
+        "unitmaps": {},
+        "answer": "16分15秒",
+        "stype": [
+            "每單位量",
+            "問單位量"
+        ]
+    },
+    {
+        "qid": "1MA0150839",
+        "sentence": "阿兵哥跑操場15圈花了15分30秒，平均跑一圈要花幾分幾秒？",
+        "quantities": {
+            "s1": [],
+            "s2": [
+                {
+                    "qtyid": "E1",
+                    "quantity": {
+                        "value": "?",
+                        "unit": null,
+                        "entity": "花"
+                    },
+                    "verb": "要",
+                    "subject": null,
+                    "object": null
+                }
+            ]
+        },
+        "unitmaps": {},
+        "answer": "1分2秒",
+        "stype": [
+            "每單位量",
+            "問單位量"
+        ]
+    },{
+        "qid": "60925",
+        "sentence": "一星期工作5天，一天工作8小時，一星期工作多少秒？",
+        "quantities": {
+            "s1": [
+                {
+                    "qtyid": "E1",
+                    "quantity": {
+                        "value": "一",
+                        "unit": "星期",
+                        "entity": "工作"
+                    },
+                    "verb": null,
+                    "subject": null,
+                    "object": null
+                }
+            ],
+            "s2": [
+                {
+                    "qtyid": "E2",
+                    "quantity": {
+                        "value": "一",
+                        "unit": "天",
+                        "entity": "工作"
+                    },
+                    "verb": null,
+                    "subject": null,
+                    "object": null
+                }
+            ],
+            "s3": [
+                {
+                    "qtyid": "E3",
+                    "quantity": {
+                        "value": "一",
+                        "unit": "星期",
+                        "entity": "工作"
+                    },
+                    "verb": null,
+                    "subject": null,
+                    "object": null
+                },
+                {
+                    "qtyid": "E4",
+                    "quantity": {
+                        "value": "多少",
+                        "unit": "秒",
+                        "entity": "工作"
+                    },
+                    "verb": null,
+                    "subject": null,
+                    "object": null
+                }
+            ]
+        },
+        "unitmaps": {
+            "s3": [
+                {
+                    "denominator": "E3",
+                    "numerator": "E4"
+                }
+            ]
+        },
+        "answer": "144000秒",
+        "stype": [
+            "每單位量",
+            "每單位量",
+            "問單位量"
+        ]
+    }, {
+        "qid": "60902",
+        "sentence": "1天有24小時，1小時有60分鐘，1分鐘有60秒，1小時有幾秒？",
+        "quantities": {
+            "s1": [],
+            "s2": [],
+            "s3": [],
+            "s4": []
+        },
+        "unitmaps": {},
+        "answer": "3600秒",
+        "stype": [
+            "每單位量",
+            "每單位量",
+            "每單位量",
+            "問單位量"
+        ]
+    },{
+        "qid": "83292",
+        "sentence": "傳真3份文件，共花了3分45秒，平均傳真一份花多少時間？",
+        "quantities": {
+            "s1": [
+                {
+                    "qtyid": "E1",
+                    "quantity": {
+                        "value": "3",
+                        "unit": "份",
+                        "entity": "文件"
+                    },
+                    "verb": "傳真",
+                    "subject": null,
+                    "object": null
+                }
+            ],
+            "s2": [],
+            "s3": [
+                {
+                    "qtyid": "E2",
+                    "quantity": {
+                        "value": "多少",
+                        "unit": null,
+                        "entity": "文件"
+                    },
+                    "verb": "傳真",
+                    "subject": null,
+                    "object": null
+                },
+                {
+                    "qtyid": "E3",
+                    "quantity": {
+                        "value": "多少",
+                        "unit": null,
+                        "entity": "文件"
+                    },
+                    "verb": "花",
+                    "subject": null,
+                    "object": null
+                }
+            ]
+        },
+        "unitmaps": {},
+        "answer": "1分15秒",
+        "stype": [
+            "量變",
+            "量變",
+            "問單位量"
+        ]
+    },{
+        "qid": "1MA0160503",
+        "sentence": "大橋國小的操場一圈是200公尺，阿展跑7.5圈花了9.75分鐘，平均跑一圈要幾分鐘？",
+        "quantities": {
+            "s1": [],
+            "s2": [],
+            "s3": []
+        },
+        "unitmaps": {},
+        "answer": "1.3分",
+        "stype": [
+            "每單位量",
+            "每單位量",
+            "問單位量"
+        ]
+    }, {
+        "qid": "1MA0161800",
+        "sentence": "青青一步長約57公分，她8分鐘走了700步，分速是多少公尺？",
+        "quantities": {
+            "s1": [],
+            "s2": [],
+            "s3": []
+        },
+        "unitmaps": {},
+        "answer": "49.875公尺/分",
+        "stype": [
+            "每單位量",
+            "每單位量",
+            "問單位量"
+        ]
+    },  {
+        "qid": "1MA0160285",
+        "sentence": "操場跑道一圈長400公尺，君君花了3分20秒跑完2圈，平均秒速是多少公尺？",
+        "quantities": {
+            "s1": [
+                {
+                    "qtyid": "E1",
+                    "quantity": {
+                        "value": "400",
+                        "unit": "公尺",
+                        "entity": "跑道"
+                    },
+                    "verb": "長",
+                    "subject": null,
+                    "object": null
+                }
+            ],
+            "s2": [
+                {
+                    "qtyid": "E2",
+                    "quantity": {
+                        "value": "2",
+                        "unit": "圈",
+                        "entity": "跑道"
+                    },
+                    "verb": "跑",
+                    "subject": "君君",
+                    "object": null
+                }
+            ],
+            "s3": [
+                {
+                    "qtyid": "E3",
+                    "quantity": {
+                        "value": "多少",
+                        "unit": "公尺",
+                        "entity": "跑道"
+                    },
+                    "verb": "平均",
+                    "subject": "君君",
+                    "object": null
+                },
+                {
+                    "qtyid": "E4",
+                    "quantity": {
+                        "value": "多少",
+                        "unit": "公尺",
+                        "entity": "跑道"
+                    },
+                    "verb": "速",
+                    "subject": "君君",
+                    "object": null
+                },
+                {
+                    "qtyid": "E5",
+                    "quantity": {
+                        "value": "多少",
+                        "unit": "公尺",
+                        "entity": "跑道"
+                    },
+                    "verb": "是",
+                    "subject": "君君",
+                    "object": null
+                }
+            ]
+        },
+        "unitmaps": {},
+        "answer": "4公尺/秒",
+        "stype": [
+            "每單位量",
+            "每單位量",
+            "問單位量"
+        ]
+    },
+    {
+        "qid": "1MA0160358",
+        "sentence": "娜娜家到外婆家的距離是45公里，她開車去一趟需要36分鐘，娜娜開車的時速是幾公里？",
+        "quantities": {
+            "s1": [],
+            "s2": [],
+            "s3": []
+        },
+        "unitmaps": {},
+        "answer": "75公里",
+        "stype": [
+            "有",
+            "每單位量",
+            "問單位量"
+        ]
+    },
+    {
+        "qid": "110659",
+        "sentence": "竿子全長3.2公尺，蝸牛從竿底爬到竿頂花了28分鐘，從竿頂爬回竿底又花了22分鐘，蝸牛來回爬竿的平均速度是每分鐘幾公分？",
+        "quantities": {
+            "s1": [
+                {
+                    "qtyid": "E1",
+                    "quantity": {
+                        "value": "3.2",
+                        "unit": "公尺",
+                        "entity": "竿子"
+                    },
+                    "verb": null,
+                    "subject": null,
+                    "object": null
+                }
+            ],
+            "s2": [],
+            "s3": [],
+            "s4": [
+                {
+                    "qtyid": "E2",
+                    "quantity": {
+                        "value": "幾",
+                        "unit": "公分",
+                        "entity": "竿子"
+                    },
+                    "verb": "來回",
+                    "subject": "蝸牛",
+                    "object": null
+                },
+                {
+                    "qtyid": "E3",
+                    "quantity": {
+                        "value": "幾",
+                        "unit": "公分",
+                        "entity": "竿子"
+                    },
+                    "verb": "平均",
+                    "subject": "蝸牛",
+                    "object": null
+                },
+                {
+                    "qtyid": "E4",
+                    "quantity": {
+                        "value": "幾",
+                        "unit": "公分",
+                        "entity": "竿子"
+                    },
+                    "verb": "是",
+                    "subject": "蝸牛",
+                    "object": null
+                }
+            ]
+        },
+        "unitmaps": {},
+        "answer": "12.8公分",
+        "stype": [
+            "有",
+            "量變",
+            "量變",
+            "問單位量"
+        ]
+    }, {
+        "qid": "1MA0160284",
+        "sentence": "光波1秒鐘可繞地球7圈半，如果地球一周是4萬公里，光波的秒速是多少公里？",
+        "quantities": {
+            "s1": [],
+            "s2": [],
+            "s3": []
+        },
+        "unitmaps": {},
+        "answer": "300000公里/秒",
+        "stype": [
+            "每單位量",
+            "每單位量",
+            "問單位量"
+        ]
+    },{
+        "qid": "100450",
+        "sentence": "清華參加全長8.96公里的馬拉松路跑，共花了35分鐘跑完，平均每分鐘跑幾公里？",
+        "quantities": {
+            "s1": [
+                {
+                    "qtyid": "E1",
+                    "quantity": {
+                        "value": "8.96",
+                        "unit": "公里",
+                        "entity": "路跑"
+                    },
+                    "verb": "加",
+                    "subject": null,
+                    "object": null
+                }
+            ],
+            "s2": [],
+            "s3": [
+                {
+                    "qtyid": "E2",
+                    "quantity": {
+                        "value": "幾",
+                        "unit": "公里",
+                        "entity": "路跑"
+                    },
+                    "verb": "平均",
+                    "subject": null,
+                    "object": null
+                },
+                {
+                    "qtyid": "E3",
+                    "quantity": {
+                        "value": "幾",
+                        "unit": "公里",
+                        "entity": "路跑"
+                    },
+                    "verb": "跑",
+                    "subject": null,
+                    "object": null
+                }
+            ]
+        },
+        "unitmaps": {},
+        "answer": "0.256公里",
+        "stype": [
+            "有",
+            "量變",
+            "問單位量"
+        ]
+    },
+
+    {
+        "qid": "110599",
+        "sentence": "火箭飛行24480公尺，花了1.2分鐘，秒速是幾公尺？",
+        "quantities": {
+            "s1": [
+                {
+                    "qtyid": "E1",
+                    "quantity": {
+                        "value": "24480",
+                        "unit": "公尺",
+                        "entity": "火箭"
+                    },
+                    "verb": null,
+                    "subject": null,
+                    "object": null
+                }
+            ],
+            "s2": [],
+            "s3": [
+                {
+                    "qtyid": "E2",
+                    "quantity": {
+                        "value": "幾",
+                        "unit": "公尺",
+                        "entity": "火箭"
+                    },
+                    "verb": "速",
+                    "subject": null,
+                    "object": null
+                },
+                {
+                    "qtyid": "E3",
+                    "quantity": {
+                        "value": "幾",
+                        "unit": "公尺",
+                        "entity": "火箭"
+                    },
+                    "verb": "是",
+                    "subject": null,
+                    "object": null
+                }
+            ]
+        },
+        "unitmaps": {},
+        "answer": "340公尺",
+        "stype": [
+            "量變",
+            "量變",
+            "問單位量"
+        ]
+    },{
+        "qid": "81319",
+        "sentence": "小華寫完5頁數學題，共花了35分40秒的時間，平均寫一頁要花幾分幾秒？",
+        "quantities": {
+            "s1": [
+                {
+                    "qtyid": "E1",
+                    "quantity": {
+                        "value": "5",
+                        "unit": "頁",
+                        "entity": "數學題"
+                    },
+                    "verb": "寫完",
+                    "subject": "小華",
+                    "object": null
+                }
+            ],
+            "s2": [],
+            "s3": [
+                {
+                    "qtyid": "E2",
+                    "quantity": {
+                        "value": "幾分幾秒",
+                        "unit": null,
+                        "entity": "數學題"
+                    },
+                    "verb": "寫",
+                    "subject": "小華",
+                    "object": null
+                },
+                {
+                    "qtyid": "E3",
+                    "quantity": {
+                        "value": "幾分幾秒",
+                        "unit": null,
+                        "entity": "花"
+                    },
+                    "verb": "要",
+                    "subject": "小華",
+                    "object": null
+                }
+            ]
+        },
+        "unitmaps": {},
+        "answer": "7分8秒",
+        "stype": [
+            "量變",
+            "量變",
+            "問單位量"
+        ]
+    },{
+        "qid": "81272",
+        "sentence": "媽媽烘烤一塊蛋糕需要1時36分，在一次烘烤1塊的情形下，烘烤5塊需要幾時幾分？",
+        "quantities": {
+            "s1": [
+                {
+                    "qtyid": "E1",
+                    "quantity": {
+                        "value": "一",
+                        "unit": "塊",
+                        "entity": "蛋糕"
+                    },
+                    "verb": "烘烤",
+                    "subject": "媽媽",
+                    "object": null
+                }
+            ],
+            "s2": [
+                {
+                    "qtyid": "E2",
+                    "quantity": {
+                        "value": "1",
+                        "unit": "塊",
+                        "entity": "情形"
+                    },
+                    "verb": "烘烤",
+                    "subject": "媽媽",
+                    "object": null
+                },
+                {
+                    "qtyid": "E3",
+                    "quantity": {
+                        "value": "一",
+                        "unit": null,
+                        "entity": "蛋糕"
+                    },
+                    "verb": "烘烤",
+                    "subject": "媽媽",
+                    "object": null
+                },
+                {
+                    "qtyid": "E4",
+                    "quantity": {
+                        "value": "一",
+                        "unit": null,
+                        "entity": "蛋糕"
+                    },
+                    "verb": "下",
+                    "subject": "媽媽",
+                    "object": null
+                }
+            ],
+            "s3": [
+                {
+                    "qtyid": "E5",
+                    "quantity": {
+                        "value": "幾時幾分",
+                        "unit": null,
+                        "entity": "蛋糕"
+                    },
+                    "verb": "烘烤",
+                    "subject": "媽媽",
+                    "object": null
+                },
+                {
+                    "qtyid": "E6",
+                    "quantity": {
+                        "value": "幾時幾分",
+                        "unit": null,
+                        "entity": "蛋糕"
+                    },
+                    "verb": "需要",
+                    "subject": "媽媽",
+                    "object": null
+                }
+            ]
+        },
+        "unitmaps": {
+            "s2": [
+                {
+                    "denominator": "E2",
+                    "numerator": "E3"
+                }
+            ]
+        },
+        "answer": "08時00分",
+        "stype": [
+            "每單位量",
+            "每單位量",
+            "問單位量"
+        ]
+    },{
+        "qid": "81325",
+        "sentence": "道路工程施工需要8個工作天，共花費2日18時，平均一個工作天是幾時幾分？",
+        "quantities": {
+            "s1": [
+                {
+                    "qtyid": "E1",
+                    "quantity": {
+                        "value": "8",
+                        "unit": "個",
+                        "entity": "工作天"
+                    },
+                    "verb": "需要",
+                    "subject": "施工",
+                    "object": null
+                }
+            ],
+            "s2": [],
+            "s3": [
+                {
+                    "qtyid": "E2",
+                    "quantity": {
+                        "value": "一",
+                        "unit": "個",
+                        "entity": "工作天"
+                    },
+                    "verb": "平均",
+                    "subject": "施工",
+                    "object": null
+                }
+            ]
+        },
+        "unitmaps": {},
+        "answer": "08時15分",
+        "stype": [
+            "每單位量",
+            "量變",
+            "問單位量"
+        ]
+    },{
+        "qid": "80848",
+        "sentence": "臺灣雕刻隊想用15日20時的時間雕刻10尊佛像，平均雕刻一尊佛像需要幾日幾時？",
+        "quantities": {
+            "s1": [
+                {
+                    "qtyid": "E1",
+                    "quantity": {
+                        "value": "10",
+                        "unit": null,
+                        "entity": "佛像"
+                    },
+                    "verb": "尊",
+                    "subject": "臺灣",
+                    "object": null
+                }
+            ],
+            "s2": [
+                {
+                    "qtyid": "E2",
+                    "quantity": {
+                        "value": "一",
+                        "unit": null,
+                        "entity": "佛像"
+                    },
+                    "verb": "雕刻",
+                    "subject": "臺灣",
+                    "object": null
+                },
+                {
+                    "qtyid": "E3",
+                    "quantity": {
+                        "value": "幾",
+                        "unit": "日",
+                        "entity": "佛像"
+                    },
+                    "verb": "雕刻",
+                    "subject": "臺灣",
+                    "object": null
+                },
+                {
+                    "qtyid": "E4",
+                    "quantity": {
+                        "value": "幾",
+                        "unit": null,
+                        "entity": "佛像"
+                    },
+                    "verb": "雕刻",
+                    "subject": "臺灣",
+                    "object": null
+                },
+                {
+                    "qtyid": "E5",
+                    "quantity": {
+                        "value": "一",
+                        "unit": null,
+                        "entity": "佛像"
+                    },
+                    "verb": "尊",
+                    "subject": "臺灣",
+                    "object": null
+                },
+                {
+                    "qtyid": "E6",
+                    "quantity": {
+                        "value": "幾",
+                        "unit": "日",
+                        "entity": "佛像"
+                    },
+                    "verb": "尊",
+                    "subject": "臺灣",
+                    "object": null
+                },
+                {
+                    "qtyid": "E7",
+                    "quantity": {
+                        "value": "幾",
+                        "unit": null,
+                        "entity": "佛像"
+                    },
+                    "verb": "尊",
+                    "subject": "臺灣",
+                    "object": null
+                },
+                {
+                    "qtyid": "E8",
+                    "quantity": {
+                        "value": "一",
+                        "unit": null,
+                        "entity": "佛像"
+                    },
+                    "verb": "需要",
+                    "subject": "臺灣",
+                    "object": null
+                },
+                {
+                    "qtyid": "E9",
+                    "quantity": {
+                        "value": "幾",
+                        "unit": "日",
+                        "entity": "佛像"
+                    },
+                    "verb": "需要",
+                    "subject": "臺灣",
+                    "object": null
+                },
+                {
+                    "qtyid": "E10",
+                    "quantity": {
+                        "value": "幾",
+                        "unit": null,
+                        "entity": "佛像"
+                    },
+                    "verb": "需要",
+                    "subject": "臺灣",
+                    "object": null
+                }
+            ]
+        },
+        "unitmaps": {
+            "s2": [
+                {
+                    "denominator": "E2",
+                    "numerator": "E3"
+                },
+                {
+                    "denominator": "E2",
+                    "numerator": "E4"
+                },
+                {
+                    "denominator": "E3",
+                    "numerator": "E4"
+                },
+                {
+                    "denominator": "E5",
+                    "numerator": "E6"
+                },
+                {
+                    "denominator": "E5",
+                    "numerator": "E7"
+                },
+                {
+                    "denominator": "E6",
+                    "numerator": "E7"
+                },
+                {
+                    "denominator": "E8",
+                    "numerator": "E9"
+                },
+                {
+                    "denominator": "E8",
+                    "numerator": "E10"
+                },
+                {
+                    "denominator": "E9",
+                    "numerator": "E10"
+                }
+            ]
+        },
+        "answer": "1日14時",
+        "stype": [
+            "量變",
+            "問單位量"
+        ]
+    },
+    {
+        "qid": "1MA0150853",
+        "sentence": "哥哥看完一套漫畫共花了3時41分，如果平均看一本漫畫要18分25秒，請問這一套漫畫共有幾本？",
+        "quantities": {
+            "s1": [
+                {
+                    "qtyid": "E1",
+                    "quantity": {
+                        "value": "一",
+                        "unit": "套",
+                        "entity": "漫畫"
+                    },
+                    "verb": "看",
+                    "subject": "哥哥",
+                    "object": null
+                }
+            ],
+            "s2": [
+                {
+                    "qtyid": "E2",
+                    "quantity": {
+                        "value": "一",
+                        "unit": "本",
+                        "entity": "漫畫"
+                    },
+                    "verb": "看",
+                    "subject": "哥哥",
+                    "object": null
+                }
+            ],
+            "s3": [
+                {
+                    "qtyid": "E3",
+                    "quantity": {
+                        "value": "一",
+                        "unit": "套",
+                        "entity": "漫畫"
+                    },
+                    "verb": "請問",
+                    "subject": "哥哥",
+                    "object": null
+                },
+                {
+                    "qtyid": "E4",
+                    "quantity": {
+                        "value": "幾",
+                        "unit": "本",
+                        "entity": "漫畫"
+                    },
+                    "verb": "請問",
+                    "subject": "哥哥",
+                    "object": null
+                },
+                {
+                    "qtyid": "E5",
+                    "quantity": {
+                        "value": "幾",
+                        "unit": "本",
+                        "entity": "漫畫"
+                    },
+                    "verb": "共有",
+                    "subject": "哥哥",
+                    "object": null
+                }
+            ]
+        },
+        "unitmaps": {
+            "s3": [
+                {
+                    "denominator": "E3",
+                    "numerator": "E4"
+                }
+            ]
+        },
+        "answer": "12本",
+        "stype": [
+            "每單位量",
+            "每單位量",
+            "問單位量"
+        ]
+    }, {
+        "detail": [
+            {
+                "type": "missing",
+                "loc": [
+                    "body",
+                    "result"
+                ],
+                "msg": "Field required",
+                "input": {
+                    "detail": "Reduction in infinite loop"
+                }
+            }
+        ],
+        "qid": "81277",
+        "sentence": "將作法和答案記下來：建忠一天要花1時45分的時間練習跆拳道，7天共花了幾時幾分？",
+        "answer": "12時15分",
+        "stype": [
+            "量變",
+            "問單位量"
+        ]
+    }, {
+        "detail": [
+            {
+                "type": "missing",
+                "loc": [
+                    "body",
+                    "result"
+                ],
+                "msg": "Field required",
+                "input": {
+                    "detail": "Reduction in infinite loop"
+                }
+            }
+        ],
+        "qid": "84520",
+        "sentence": "學校操場一圈200公尺，小元跑15圈共花了12分，跑1圈需要多少時間？",
+        "answer": "48秒",
+        "stype": [
+            "每單位量",
+            "每單位量",
+            "問單位量"
+        ]
+    }
+
+]

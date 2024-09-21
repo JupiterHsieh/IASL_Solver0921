@@ -1,0 +1,800 @@
+[
+    {
+        "qid": "60900",
+        "sentence": "1天有24小時，1月有31天是多少小時？",
+        "quantities": {
+            "s1": [],
+            "s2": []
+        },
+        "unitmaps": {},
+        "answer": "744時",
+        "stype": [
+            "每單位量",
+            "問單位量"
+        ]
+    },
+    {
+        "qid": "1MA0160243",
+        "sentence": "玉華12分鐘可以跑操場10圈，平均1分鐘可以跑幾圈？",
+        "quantities": {
+            "s1": [],
+            "s2": []
+        },
+        "unitmaps": {},
+        "answer": "1.2圈",
+        "stype": [
+            "每單位量",
+            "問單位量"
+        ]
+    },
+    {
+        "qid": "1MA0160237",
+        "sentence": "至展一星期共運動12小時，平均一天運動多少小時？",
+        "quantities": {
+            "s1": [],
+            "s2": [
+                {
+                    "qtyid": "E1",
+                    "quantity": {
+                        "value": 1,
+                        "unit": "天",
+                        "entity": "運動"
+                    },
+                    "verb": "平均",
+                    "subject": null,
+                    "object": null
+                }
+            ]
+        },
+        "unitmaps": {},
+        "answer": "12/7小時",
+        "stype": [
+            "每單位量",
+            "問單位量"
+        ]
+    },
+    {
+        "qid": "110563",
+        "sentence": "蝸牛爬行的速度是每秒2公分，相當於分速幾公尺？",
+        "quantities": {
+            "s1": [
+                {
+                    "qtyid": "E1",
+                    "quantity": {
+                        "value": "2",
+                        "unit": "公分",
+                        "entity": "蝸牛"
+                    },
+                    "verb": "是",
+                    "subject": "爬行",
+                    "object": null
+                }
+            ],
+            "s2": [
+                {
+                    "qtyid": "E2",
+                    "quantity": {
+                        "value": "?",
+                        "unit": "公尺",
+                        "entity": "蝸牛"
+                    },
+                    "verb": "相當於",
+                    "subject": "爬行",
+                    "object": null
+                },
+                {
+                    "qtyid": "E3",
+                    "quantity": {
+                        "value": "?",
+                        "unit": "公尺",
+                        "entity": "蝸牛"
+                    },
+                    "verb": "分",
+                    "subject": "爬行",
+                    "object": null
+                },
+                {
+                    "qtyid": "E4",
+                    "quantity": {
+                        "value": "?",
+                        "unit": "公尺",
+                        "entity": "蝸牛"
+                    },
+                    "verb": "速",
+                    "subject": "爬行",
+                    "object": null
+                }
+            ]
+        },
+        "unitmaps": {},
+        "answer": "1.2公尺",
+        "stype": [
+            "每單位量",
+            "問單位量"
+        ]
+    },
+    {
+        "qid": "111954",
+        "sentence": "颱風移動35公里花了2.5小時，時速是幾公里？",
+        "quantities": {
+            "s1": [],
+            "s2": [
+                {
+                    "qtyid": "E1",
+                    "quantity": {
+                        "value": "?",
+                        "unit": "公里",
+                        "entity": "颱風"
+                    },
+                    "verb": "是",
+                    "subject": "時速",
+                    "object": null
+                }
+            ]
+        },
+        "unitmaps": {},
+        "answer": "14公里",
+        "stype": [
+            "每單位量",
+            "問單位量"
+        ]
+    },
+    {
+        "qid": "111540",
+        "sentence": "長頸鹿15秒可跑180公尺，長頸鹿的秒速是幾公尺？",
+        "quantities": {
+            "s1": [
+                {
+                    "qtyid": "E1",
+                    "quantity": {
+                        "value": "180",
+                        "unit": "公尺",
+                        "entity": "長頸鹿"
+                    },
+                    "verb": "跑",
+                    "subject": null,
+                    "object": null
+                }
+            ],
+            "s2": [
+                {
+                    "qtyid": "E2",
+                    "quantity": {
+                        "value": "?",
+                        "unit": "公尺",
+                        "entity": "長頸鹿"
+                    },
+                    "verb": "速",
+                    "subject": "長頸鹿",
+                    "object": null
+                },
+                {
+                    "qtyid": "E3",
+                    "quantity": {
+                        "value": "?",
+                        "unit": "公尺",
+                        "entity": "長頸鹿"
+                    },
+                    "verb": "是",
+                    "subject": "長頸鹿",
+                    "object": null
+                }
+            ]
+        },
+        "unitmaps": {},
+        "answer": "12公尺",
+        "stype": [
+            "每單位量",
+            "問單位量"
+        ]
+    },
+    {
+        "qid": "110603",
+        "sentence": "火車行駛18公里花了12分鐘，時速是幾公里？",
+        "quantities": {
+            "s1": [],
+            "s2": [
+                {
+                    "qtyid": "E1",
+                    "quantity": {
+                        "value": "?",
+                        "unit": "公里",
+                        "entity": "火車"
+                    },
+                    "verb": "是",
+                    "subject": "時速",
+                    "object": null
+                }
+            ]
+        },
+        "unitmaps": {},
+        "answer": "90公里",
+        "stype": [
+            "每單位量",
+            "問單位量"
+        ]
+    },
+    {
+        "qid": "111959",
+        "sentence": "郭泓志投球的球速是每秒44公尺，他將球丟到66公尺遠的地方要花幾秒？",
+        "quantities": {
+            "s1": [],
+            "s2": [
+                {
+                    "qtyid": "E1",
+                    "quantity": {
+                        "value": "66",
+                        "unit": "公尺",
+                        "entity": "地方"
+                    },
+                    "verb": "丟到",
+                    "subject": "他",
+                    "object": null
+                },
+                {
+                    "qtyid": "E2",
+                    "quantity": {
+                        "value": "?",
+                        "unit": "秒",
+                        "entity": "球"
+                    },
+                    "verb": "丟到",
+                    "subject": "他",
+                    "object": null
+                },
+                {
+                    "qtyid": "E3",
+                    "quantity": {
+                        "value": "?",
+                        "unit": "秒",
+                        "entity": "球"
+                    },
+                    "verb": "要",
+                    "subject": "他",
+                    "object": null
+                }
+            ]
+        },
+        "unitmaps": {
+            "s2": [
+                {
+                    "denominator": "E1",
+                    "numerator": "E2"
+                }
+            ]
+        },
+        "answer": "1.5秒",
+        "stype": [
+            "每單位量",
+            "問單位量"
+        ]
+    },
+    {
+        "qid": "111537",
+        "sentence": "海龜游2250公尺花了6分鐘，平均每分鐘游了幾公尺？",
+        "quantities": {
+            "s1": [],
+            "s2": [
+                {
+                    "qtyid": "E1",
+                    "quantity": {
+                        "value": 1,
+                        "unit": "分鐘",
+                        "entity": "游"
+                    },
+                    "verb": "平均",
+                    "subject": null,
+                    "object": null
+                },
+                {
+                    "qtyid": "E2",
+                    "quantity": {
+                        "value": "?",
+                        "unit": "公尺",
+                        "entity": "海龜"
+                    },
+                    "verb": "平均",
+                    "subject": null,
+                    "object": null
+                }
+            ]
+        },
+        "unitmaps": {
+            "s2": [
+                {
+                    "denominator": "E1",
+                    "numerator": "E2"
+                }
+            ]
+        },
+        "answer": "375公尺",
+        "stype": [
+            "每單位量",
+            "問單位量"
+        ]
+    },
+    {
+        "qid": "111556",
+        "sentence": "獅子奔跑的分速是1080公尺，跑6480公尺要花幾分鐘？",
+        "quantities": {
+            "s1": [
+                {
+                    "qtyid": "E1",
+                    "quantity": {
+                        "value": "1080",
+                        "unit": "公尺",
+                        "entity": "獅子"
+                    },
+                    "verb": "分",
+                    "subject": null,
+                    "object": null
+                },
+                {
+                    "qtyid": "E2",
+                    "quantity": {
+                        "value": "1080",
+                        "unit": "公尺",
+                        "entity": "獅子"
+                    },
+                    "verb": "速",
+                    "subject": null,
+                    "object": null
+                },
+                {
+                    "qtyid": "E3",
+                    "quantity": {
+                        "value": "1080",
+                        "unit": "公尺",
+                        "entity": "獅子"
+                    },
+                    "verb": "是",
+                    "subject": null,
+                    "object": null
+                }
+            ],
+            "s2": [
+                {
+                    "qtyid": "E4",
+                    "quantity": {
+                        "value": "?",
+                        "unit": "分鐘",
+                        "entity": "獅子"
+                    },
+                    "verb": "跑",
+                    "subject": null,
+                    "object": null
+                },
+                {
+                    "qtyid": "E5",
+                    "quantity": {
+                        "value": "?",
+                        "unit": "分鐘",
+                        "entity": "獅子"
+                    },
+                    "verb": "要",
+                    "subject": null,
+                    "object": null
+                }
+            ]
+        },
+        "unitmaps": {},
+        "answer": "6分鐘",
+        "stype": [
+            "每單位量",
+            "問單位量"
+        ]
+    },
+    {
+        "qid": "110602",
+        "sentence": "汽車行駛39公里花了65分鐘，時速是幾公里？",
+        "quantities": {
+            "s1": [],
+            "s2": [
+                {
+                    "qtyid": "E1",
+                    "quantity": {
+                        "value": "?",
+                        "unit": "公里",
+                        "entity": "汽車"
+                    },
+                    "verb": "是",
+                    "subject": "時速",
+                    "object": null
+                }
+            ]
+        },
+        "unitmaps": {},
+        "answer": "36公里",
+        "stype": [
+            "每單位量",
+            "問單位量"
+        ]
+    },
+    {
+        "qid": "111536",
+        "sentence": "海龜游1440公尺花了4分鐘，平均每分鐘游了幾公尺？",
+        "quantities": {
+            "s1": [],
+            "s2": [
+                {
+                    "qtyid": "E1",
+                    "quantity": {
+                        "value": 1,
+                        "unit": "分鐘",
+                        "entity": "游"
+                    },
+                    "verb": "平均",
+                    "subject": null,
+                    "object": null
+                },
+                {
+                    "qtyid": "E2",
+                    "quantity": {
+                        "value": "?",
+                        "unit": "公尺",
+                        "entity": "海龜"
+                    },
+                    "verb": "平均",
+                    "subject": null,
+                    "object": null
+                }
+            ]
+        },
+        "unitmaps": {
+            "s2": [
+                {
+                    "denominator": "E1",
+                    "numerator": "E2"
+                }
+            ]
+        },
+        "answer": "360公尺",
+        "stype": [
+            "每單位量",
+            "問單位量"
+        ]
+    },
+    {
+        "qid": "110489",
+        "sentence": "有一颱風移動70公里花了3.5小時，颱風移動的時速是幾公里？",
+        "quantities": {
+            "s1": [
+                {
+                    "qtyid": "E1",
+                    "quantity": {
+                        "value": 1,
+                        "unit": null,
+                        "entity": "颱風"
+                    },
+                    "verb": "有",
+                    "subject": null,
+                    "object": null
+                }
+            ],
+            "s2": [
+                {
+                    "qtyid": "E2",
+                    "quantity": {
+                        "value": "?",
+                        "unit": "公里",
+                        "entity": "颱風"
+                    },
+                    "verb": "移動",
+                    "subject": "颱風",
+                    "object": null
+                },
+                {
+                    "qtyid": "E3",
+                    "quantity": {
+                        "value": "?",
+                        "unit": "公里",
+                        "entity": "颱風"
+                    },
+                    "verb": "是",
+                    "subject": "颱風",
+                    "object": null
+                }
+            ]
+        },
+        "unitmaps": {},
+        "answer": "20公里",
+        "stype": [
+            "每單位量",
+            "問單位量"
+        ]
+    },
+    {
+        "qid": "111558",
+        "sentence": "蝦子在水中移動的時速是36公尺，移動324公尺要花幾小時？",
+        "quantities": {
+            "s1": [
+                {
+                    "qtyid": "E1",
+                    "quantity": {
+                        "value": "36",
+                        "unit": "公尺",
+                        "entity": "蝦子"
+                    },
+                    "verb": "中",
+                    "subject": "水",
+                    "object": null
+                },
+                {
+                    "qtyid": "E2",
+                    "quantity": {
+                        "value": "36",
+                        "unit": "公尺",
+                        "entity": "蝦子"
+                    },
+                    "verb": "移動",
+                    "subject": "水",
+                    "object": null
+                },
+                {
+                    "qtyid": "E3",
+                    "quantity": {
+                        "value": "36",
+                        "unit": "公尺",
+                        "entity": "蝦子"
+                    },
+                    "verb": "是",
+                    "subject": "水",
+                    "object": null
+                }
+            ],
+            "s2": [
+                {
+                    "qtyid": "E4",
+                    "quantity": {
+                        "value": "?",
+                        "unit": "小時",
+                        "entity": "蝦子"
+                    },
+                    "verb": "移動",
+                    "subject": "水",
+                    "object": null
+                },
+                {
+                    "qtyid": "E5",
+                    "quantity": {
+                        "value": "?",
+                        "unit": "小時",
+                        "entity": "蝦子"
+                    },
+                    "verb": "要",
+                    "subject": "水",
+                    "object": null
+                }
+            ]
+        },
+        "unitmaps": {},
+        "answer": "9小時",
+        "stype": [
+            "每單位量",
+            "問單位量"
+        ]
+    },
+    {
+        "qid": "112119",
+        "sentence": "一輛休旅車3小時行駛246公里，平均每小時行駛幾公里？",
+        "quantities": {
+            "s1": [
+                {
+                    "qtyid": "E1",
+                    "quantity": {
+                        "value": 1,
+                        "unit": "輛",
+                        "entity": "休旅車"
+                    },
+                    "verb": null,
+                    "subject": null,
+                    "object": null
+                },
+                {
+                    "qtyid": "E2",
+                    "quantity": {
+                        "value": "246",
+                        "unit": "公里",
+                        "entity": "休旅車"
+                    },
+                    "verb": null,
+                    "subject": null,
+                    "object": null
+                }
+            ],
+            "s2": [
+                {
+                    "qtyid": "E3",
+                    "quantity": {
+                        "value": "?",
+                        "unit": "公里",
+                        "entity": "休旅車"
+                    },
+                    "verb": "平均",
+                    "subject": null,
+                    "object": null
+                }
+            ]
+        },
+        "unitmaps": {
+            "s1": [
+                {
+                    "denominator": "E1",
+                    "numerator": "E2"
+                }
+            ]
+        },
+        "answer": "82公里",
+        "stype": [
+            "每單位量",
+            "問單位量"
+        ]
+    },
+    {
+        "qid": "1MA0161994",
+        "sentence": "國峰走路的分速是73公尺，6.5分鐘一共走了多少公尺？",
+        "quantities": {
+            "s1": [],
+            "s2": []
+        },
+        "unitmaps": {},
+        "answer": "474.5公尺",
+        "stype": [
+            "每單位量",
+            "問單位量"
+        ]
+    },
+    {
+        "qid": "111535",
+        "sentence": "一架飛機飛行4048公里花了4小時，飛機的時速是幾公里？",
+        "quantities": {
+            "s1": [
+                {
+                    "qtyid": "E1",
+                    "quantity": {
+                        "value": 1,
+                        "unit": "架",
+                        "entity": "飛機"
+                    },
+                    "verb": "花",
+                    "subject": "飛行",
+                    "object": null
+                }
+            ],
+            "s2": [
+                {
+                    "qtyid": "E2",
+                    "quantity": {
+                        "value": "?",
+                        "unit": "公里",
+                        "entity": "飛機"
+                    },
+                    "verb": "是",
+                    "subject": "飛機",
+                    "object": null
+                }
+            ]
+        },
+        "unitmaps": {},
+        "answer": "1012公里",
+        "stype": [
+            "每單位量",
+            "問單位量"
+        ]
+    },
+    {
+        "qid": "112120",
+        "sentence": "直升機4小時飛行了1520公里，平均每小時飛行幾公里？",
+        "quantities": {
+            "s1": [
+                {
+                    "qtyid": "E1",
+                    "quantity": {
+                        "value": "1520",
+                        "unit": "公里",
+                        "entity": "直升機"
+                    },
+                    "verb": null,
+                    "subject": null,
+                    "object": null
+                },
+                {
+                    "qtyid": "E2",
+                    "quantity": {
+                        "value": "?",
+                        "unit": null,
+                        "entity": "飛行"
+                    },
+                    "verb": null,
+                    "subject": null,
+                    "object": null
+                }
+            ],
+            "s2": [
+                {
+                    "qtyid": "E3",
+                    "quantity": {
+                        "value": 1,
+                        "unit": "小時",
+                        "entity": "飛行"
+                    },
+                    "verb": "平均",
+                    "subject": null,
+                    "object": null
+                },
+                {
+                    "qtyid": "E4",
+                    "quantity": {
+                        "value": "?",
+                        "unit": "公里",
+                        "entity": "直升機"
+                    },
+                    "verb": "平均",
+                    "subject": null,
+                    "object": null
+                }
+            ]
+        },
+        "unitmaps": {
+            "s1": [
+                {
+                    "denominator": "E1",
+                    "numerator": "E2"
+                }
+            ],
+            "s2": [
+                {
+                    "denominator": "E3",
+                    "numerator": "E4"
+                }
+            ]
+        },
+        "answer": "380公里",
+        "stype": [
+            "每單位量",
+            "問單位量"
+        ]
+    },
+    {
+        "qid": "110597",
+        "sentence": "某匹馬跑660公尺需30秒，秒速是幾公尺？",
+        "quantities": {
+            "s1": [],
+            "s2": []
+        },
+        "unitmaps": {},
+        "answer": "22公尺",
+        "stype": [
+            "每單位量",
+            "問單位量"
+        ]
+    },
+    {
+        "qid": "1MA0160338",
+        "sentence": "小平16分鐘走896公尺，以這樣的速率行走40分鐘可走多少公尺？",
+        "quantities": {
+            "s1": [],
+            "s2": []
+        },
+        "unitmaps": {},
+        "answer": "2240公尺",
+        "stype": [
+            "每單位量",
+            "問單位量"
+        ]
+    },
+    {
+        "qid": "101132",
+        "sentence": "美制1加侖大約為3+(1/3)公升，12公升大約相當於幾加侖？",
+        "quantities": {
+            "s1": [],
+            "s2": []
+        },
+        "unitmaps": {},
+        "answer": "3+(3/5)加侖",
+        "stype": [
+            "每單位量",
+            "問單位量"
+        ]
+    }
+]

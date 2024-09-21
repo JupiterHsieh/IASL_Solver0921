@@ -1,0 +1,881 @@
+[
+    {
+        "qid": "52248",
+        "sentence": "一枝棒棒糖24元，老師買64枝，付2000元，應找回幾元？",
+        "quantities": {
+            "s1": [
+                {
+                    "qtyid": "E1",
+                    "quantity": {
+                        "value": "一",
+                        "unit": "枝",
+                        "entity": "棒棒糖"
+                    },
+                    "verb": null,
+                    "subject": null,
+                    "object": null
+                },
+                {
+                    "qtyid": "E2",
+                    "quantity": {
+                        "value": "24",
+                        "unit": "元",
+                        "entity": "棒棒糖"
+                    },
+                    "verb": null,
+                    "subject": null,
+                    "object": null
+                }
+            ],
+            "s2": [
+                {
+                    "qtyid": "E3",
+                    "quantity": {
+                        "value": "64",
+                        "unit": "枝",
+                        "entity": "棒棒糖"
+                    },
+                    "verb": "買",
+                    "subject": "老師",
+                    "object": null
+                }
+            ],
+            "s3": [
+                {
+                    "qtyid": "E4",
+                    "quantity": {
+                        "value": "2000",
+                        "unit": "元",
+                        "entity": ""
+                    },
+                    "verb": "付",
+                    "subject": "老師",
+                    "object": null
+                }
+            ],
+            "s4": [
+                {
+                    "qtyid": "E5",
+                    "quantity": {
+                        "value": "幾",
+                        "unit": "元",
+                        "entity": "棒棒糖"
+                    },
+                    "verb": "找回",
+                    "subject": "老師",
+                    "object": null
+                }
+            ]
+        },
+        "unitmaps": {
+            "s1": [
+                {
+                    "denominator": "E1",
+                    "numerator": "E2"
+                }
+            ]
+        },
+        "answer": "464元",
+        "stype": [
+            "每單位量",
+            "量變",
+            "量變",
+            "問找回"
+        ]
+    },
+    {
+        "qid": "51837",
+        "sentence": "一個草莓蛋糕26元，一個巧克力蛋糕28元，阿姨拿1500元買了，18個草莓蛋糕和23個巧克力蛋糕，應該找回多少元？",
+        "quantities": {
+            "s1": [
+                {
+                    "qtyid": "E1",
+                    "quantity": {
+                        "value": "一",
+                        "unit": "個",
+                        "entity": "蛋糕"
+                    },
+                    "verb": null,
+                    "subject": null,
+                    "object": null
+                },
+                {
+                    "qtyid": "E2",
+                    "quantity": {
+                        "value": "26",
+                        "unit": "元",
+                        "entity": "蛋糕"
+                    },
+                    "verb": null,
+                    "subject": null,
+                    "object": null
+                }
+            ],
+            "s2": [
+                {
+                    "qtyid": "E3",
+                    "quantity": {
+                        "value": "一",
+                        "unit": "個",
+                        "entity": "蛋糕"
+                    },
+                    "verb": null,
+                    "subject": null,
+                    "object": null
+                },
+                {
+                    "qtyid": "E4",
+                    "quantity": {
+                        "value": "28",
+                        "unit": "元",
+                        "entity": "蛋糕"
+                    },
+                    "verb": null,
+                    "subject": null,
+                    "object": null
+                }
+            ],
+            "s3": [
+                {
+                    "qtyid": "E5",
+                    "quantity": {
+                        "value": "1500",
+                        "unit": "元",
+                        "entity": ""
+                    },
+                    "verb": "買",
+                    "subject": "阿姨",
+                    "object": null
+                }
+            ],
+            "s4": [
+                {
+                    "qtyid": "E6",
+                    "quantity": {
+                        "value": "18",
+                        "unit": "個",
+                        "entity": "蛋糕"
+                    },
+                    "verb": "買",
+                    "subject": "阿姨",
+                    "object": null
+                },
+                {
+                    "qtyid": "E7",
+                    "quantity": {
+                        "value": "23",
+                        "unit": "個",
+                        "entity": "蛋糕"
+                    },
+                    "verb": "買",
+                    "subject": "阿姨",
+                    "object": null
+                }
+            ],
+            "s5": [
+                {
+                    "qtyid": "E8",
+                    "quantity": {
+                        "value": "多少",
+                        "unit": "元",
+                        "entity": "蛋糕"
+                    },
+                    "verb": "應該",
+                    "subject": "阿姨",
+                    "object": null
+                }
+            ]
+        },
+        "unitmaps": {
+            "s1": [
+                {
+                    "denominator": "E1",
+                    "numerator": "E2"
+                }
+            ],
+            "s2": [
+                {
+                    "denominator": "E3",
+                    "numerator": "E4"
+                }
+            ],
+            "s4": [
+                {
+                    "denominator": "E6",
+                    "numerator": "E7"
+                }
+            ]
+        },
+        "answer": "388元",
+        "stype": [
+            "每單位量",
+            "每單位量",
+            "量變",
+            "量變",
+            "問找回"
+        ]
+    },
+    {
+        "qid": "50165",
+        "sentence": "一枝鉛筆6元，買250枝鉛筆，付2000元，可找回多少元？",
+        "quantities": {
+            "s1": [
+                {
+                    "qtyid": "E1",
+                    "quantity": {
+                        "value": "一",
+                        "unit": "枝",
+                        "entity": "鉛筆"
+                    },
+                    "verb": null,
+                    "subject": null,
+                    "object": null
+                },
+                {
+                    "qtyid": "E2",
+                    "quantity": {
+                        "value": "6",
+                        "unit": "元",
+                        "entity": "鉛筆"
+                    },
+                    "verb": null,
+                    "subject": null,
+                    "object": null
+                }
+            ],
+            "s2": [
+                {
+                    "qtyid": "E3",
+                    "quantity": {
+                        "value": "250",
+                        "unit": "枝",
+                        "entity": "鉛筆"
+                    },
+                    "verb": "買",
+                    "subject": null,
+                    "object": null
+                }
+            ],
+            "s3": [
+                {
+                    "qtyid": "E4",
+                    "quantity": {
+                        "value": "2000",
+                        "unit": "元",
+                        "entity": ""
+                    },
+                    "verb": "付",
+                    "subject": null,
+                    "object": null
+                }
+            ],
+            "s4": [
+                {
+                    "qtyid": "E5",
+                    "quantity": {
+                        "value": "多少",
+                        "unit": "元",
+                        "entity": "鉛筆"
+                    },
+                    "verb": "找回",
+                    "subject": null,
+                    "object": null
+                }
+            ]
+        },
+        "unitmaps": {
+            "s1": [
+                {
+                    "denominator": "E1",
+                    "numerator": "E2"
+                }
+            ]
+        },
+        "answer": "500元",
+        "stype": [
+            "每單位量",
+            "量變",
+            "量變",
+            "問找回"
+        ]
+    },
+    {
+        "qid": "31519",
+        "sentence": "寫出算式算算看：亭傑在文具店買了8元的橡皮擦3塊、5元的鉛筆3枝，他付了一張百元鈔，應找回多少元？",
+        "quantities": {
+            "s1": [
+                {
+                    "qtyid": "E1",
+                    "quantity": {
+                        "value": "8",
+                        "unit": "元",
+                        "entity": "橡皮擦"
+                    },
+                    "verb": "算算",
+                    "subject": "算式",
+                    "object": null
+                },
+                {
+                    "qtyid": "E2",
+                    "quantity": {
+                        "value": "5",
+                        "unit": "元",
+                        "entity": "鉛筆"
+                    },
+                    "verb": "算算",
+                    "subject": "算式",
+                    "object": null
+                }
+            ],
+            "s2": [
+                {
+                    "qtyid": "E3",
+                    "quantity": {
+                        "value": "百",
+                        "unit": "元",
+                        "entity": "鈔"
+                    },
+                    "verb": "付",
+                    "subject": "他",
+                    "object": null
+                },
+                {
+                    "qtyid": "E4",
+                    "quantity": {
+                        "value": "一",
+                        "unit": "張",
+                        "entity": "鈔"
+                    },
+                    "verb": "付",
+                    "subject": "他",
+                    "object": null
+                }
+            ],
+            "s3": [
+                {
+                    "qtyid": "E5",
+                    "quantity": {
+                        "value": "多少",
+                        "unit": "元",
+                        "entity": "鈔"
+                    },
+                    "verb": "找回",
+                    "subject": "他",
+                    "object": null
+                }
+            ]
+        },
+        "unitmaps": {
+            "s2": [
+                {
+                    "denominator": "E3",
+                    "numerator": "E4"
+                }
+            ]
+        },
+        "answer": "61元",
+        "stype": [
+            "量變",
+            "量變",
+            "問找回"
+        ]
+    },
+    {
+        "qid": "1MA0120703",
+        "sentence": "志祺買一盒24元的鉛筆和一枝38元的原子筆，付了70元，可以找回多少元？",
+        "quantities": {
+            "s1": [
+                {
+                    "qtyid": "E1",
+                    "quantity": {
+                        "value": "24",
+                        "unit": "元",
+                        "entity": "鉛筆"
+                    },
+                    "verb": "買",
+                    "subject": "志祺",
+                    "object": null
+                },
+                {
+                    "qtyid": "E2",
+                    "quantity": {
+                        "value": "一",
+                        "unit": "盒",
+                        "entity": "鉛筆"
+                    },
+                    "verb": "買",
+                    "subject": "志祺",
+                    "object": null
+                },
+                {
+                    "qtyid": "E3",
+                    "quantity": {
+                        "value": "38",
+                        "unit": "元",
+                        "entity": "原子筆"
+                    },
+                    "verb": "買",
+                    "subject": "志祺",
+                    "object": null
+                },
+                {
+                    "qtyid": "E4",
+                    "quantity": {
+                        "value": "一",
+                        "unit": "枝",
+                        "entity": "原子筆"
+                    },
+                    "verb": "買",
+                    "subject": "志祺",
+                    "object": null
+                }
+            ],
+            "s2": [
+                {
+                    "qtyid": "E5",
+                    "quantity": {
+                        "value": "70",
+                        "unit": "元",
+                        "entity": ""
+                    },
+                    "verb": "付",
+                    "subject": "志祺",
+                    "object": null
+                }
+            ],
+            "s3": [
+                {
+                    "qtyid": "E6",
+                    "quantity": {
+                        "value": "多少",
+                        "unit": "元",
+                        "entity": "原子筆"
+                    },
+                    "verb": "找回",
+                    "subject": "志祺",
+                    "object": null
+                }
+            ]
+        },
+        "unitmaps": {
+            "s1": [
+                {
+                    "denominator": "E1",
+                    "numerator": "E2"
+                },
+                {
+                    "denominator": "E3",
+                    "numerator": "E4"
+                }
+            ]
+        },
+        "answer": "8元",
+        "stype": [
+            "量變",
+            "量變",
+            "問找回"
+        ]
+    },
+    {
+        "qid": "1MA0120993",
+        "sentence": "販賣機裡有一包7元的王子麵，小莉想買9包請同學吃，她投了70元，找回多少元？",
+        "quantities": {
+            "s1": [
+                {
+                    "qtyid": "E1",
+                    "quantity": {
+                        "value": "7",
+                        "unit": "元",
+                        "entity": "麵"
+                    },
+                    "verb": "有",
+                    "subject": "販賣機",
+                    "object": null
+                },
+                {
+                    "qtyid": "E2",
+                    "quantity": {
+                        "value": "一",
+                        "unit": "包",
+                        "entity": "麵"
+                    },
+                    "verb": "有",
+                    "subject": "販賣機",
+                    "object": null
+                }
+            ],
+            "s2": [
+                {
+                    "qtyid": "E3",
+                    "quantity": {
+                        "value": "9",
+                        "unit": "包",
+                        "entity": "麵"
+                    },
+                    "verb": "買",
+                    "subject": "小莉",
+                    "object": null
+                }
+            ],
+            "s3": [
+                {
+                    "qtyid": "E4",
+                    "quantity": {
+                        "value": "70",
+                        "unit": "元",
+                        "entity": ""
+                    },
+                    "verb": "投",
+                    "subject": "她",
+                    "object": null
+                }
+            ],
+            "s4": [
+                {
+                    "qtyid": "E5",
+                    "quantity": {
+                        "value": "多少",
+                        "unit": "元",
+                        "entity": "麵"
+                    },
+                    "verb": "找回",
+                    "subject": "她",
+                    "object": null
+                }
+            ]
+        },
+        "unitmaps": {
+            "s1": [
+                {
+                    "denominator": "E1",
+                    "numerator": "E2"
+                }
+            ]
+        },
+        "answer": "7元",
+        "stype": [
+            "有",
+            "量變",
+            "量變",
+            "問找回"
+        ]
+    },
+    {
+        "qid": "1MA0140436",
+        "sentence": "一套衣服賣506元，社團訂購了23套，付了12000元，可以找回多少元？",
+        "quantities": {
+            "s1": [
+                {
+                    "qtyid": "E1",
+                    "quantity": {
+                        "value": "一",
+                        "unit": "套",
+                        "entity": "衣服"
+                    },
+                    "verb": "賣",
+                    "subject": null,
+                    "object": null
+                },
+                {
+                    "qtyid": "E2",
+                    "quantity": {
+                        "value": "506",
+                        "unit": "元",
+                        "entity": "衣服"
+                    },
+                    "verb": "賣",
+                    "subject": null,
+                    "object": null
+                }
+            ],
+            "s2": [
+                {
+                    "qtyid": "E3",
+                    "quantity": {
+                        "value": "23",
+                        "unit": "套",
+                        "entity": "衣服"
+                    },
+                    "verb": "訂購",
+                    "subject": "社團",
+                    "object": null
+                }
+            ],
+            "s3": [
+                {
+                    "qtyid": "E4",
+                    "quantity": {
+                        "value": "12000",
+                        "unit": "元",
+                        "entity": ""
+                    },
+                    "verb": "付",
+                    "subject": "社團",
+                    "object": null
+                }
+            ],
+            "s4": [
+                {
+                    "qtyid": "E5",
+                    "quantity": {
+                        "value": "多少",
+                        "unit": "元",
+                        "entity": "衣服"
+                    },
+                    "verb": "找回",
+                    "subject": "社團",
+                    "object": null
+                }
+            ]
+        },
+        "unitmaps": {
+            "s1": [
+                {
+                    "denominator": "E1",
+                    "numerator": "E2"
+                }
+            ]
+        },
+        "answer": "362元",
+        "stype": [
+            "每單位量",
+            "量變",
+            "量變",
+            "問找回"
+        ]
+    },
+    {
+        "qid": "61335",
+        "sentence": "16顆蘋果賣384元，媽媽買了40顆蘋果，付一張千元鈔，可找回多少元？",
+        "quantities": {
+            "s1": [
+                {
+                    "qtyid": "E1",
+                    "quantity": {
+                        "value": "16",
+                        "unit": "顆",
+                        "entity": "蘋果"
+                    },
+                    "verb": "賣",
+                    "subject": null,
+                    "object": null
+                },
+                {
+                    "qtyid": "E2",
+                    "quantity": {
+                        "value": "384",
+                        "unit": "元",
+                        "entity": "蘋果"
+                    },
+                    "verb": "賣",
+                    "subject": null,
+                    "object": null
+                }
+            ],
+            "s2": [
+                {
+                    "qtyid": "E3",
+                    "quantity": {
+                        "value": "40",
+                        "unit": "顆",
+                        "entity": "蘋果"
+                    },
+                    "verb": "買",
+                    "subject": "媽媽",
+                    "object": null
+                }
+            ],
+            "s3": [
+                {
+                    "qtyid": "E4",
+                    "quantity": {
+                        "value": "千",
+                        "unit": "元",
+                        "entity": "鈔"
+                    },
+                    "verb": "付",
+                    "subject": "媽媽",
+                    "object": null
+                },
+                {
+                    "qtyid": "E5",
+                    "quantity": {
+                        "value": "一",
+                        "unit": "張",
+                        "entity": "鈔"
+                    },
+                    "verb": "付",
+                    "subject": "媽媽",
+                    "object": null
+                }
+            ],
+            "s4": [
+                {
+                    "qtyid": "E6",
+                    "quantity": {
+                        "value": "多少",
+                        "unit": "元",
+                        "entity": "鈔"
+                    },
+                    "verb": "找回",
+                    "subject": "媽媽",
+                    "object": null
+                }
+            ]
+        },
+        "unitmaps": {
+            "s1": [
+                {
+                    "denominator": "E1",
+                    "numerator": "E2"
+                }
+            ],
+            "s3": [
+                {
+                    "denominator": "E4",
+                    "numerator": "E5"
+                }
+            ]
+        },
+        "answer": "40元",
+        "stype": [
+            "每單位量",
+            "量變",
+            "量變",
+            "問找回"
+        ]
+    },
+    {
+        "qid": "1MA0140445",
+        "sentence": "一件T恤賣199元，阿姨買了15件，付了3000元，可以找回多少元？",
+        "quantities": {
+            "s1": [],
+            "s2": [],
+            "s3": [],
+            "s4": []
+        },
+        "unitmaps": {},
+        "answer": "15元",
+        "stype": [
+            "每單位量",
+            "量變",
+            "量變",
+            "問找回"
+        ]
+    },
+    {
+        "qid": "83906",
+        "sentence": "速食店的午餐一份109元，兒童餐一份96元，媽媽各買2份，付1000元，應找回幾元？",
+        "quantities": {
+            "s1": [
+                {
+                    "qtyid": "E1",
+                    "quantity": {
+                        "value": "一",
+                        "unit": "份",
+                        "entity": "午餐"
+                    },
+                    "verb": null,
+                    "subject": null,
+                    "object": null
+                },
+                {
+                    "qtyid": "E2",
+                    "quantity": {
+                        "value": "109",
+                        "unit": "元",
+                        "entity": "午餐"
+                    },
+                    "verb": null,
+                    "subject": null,
+                    "object": null
+                }
+            ],
+            "s2": [
+                {
+                    "qtyid": "E3",
+                    "quantity": {
+                        "value": "一",
+                        "unit": "份",
+                        "entity": "兒童餐"
+                    },
+                    "verb": null,
+                    "subject": null,
+                    "object": null
+                },
+                {
+                    "qtyid": "E4",
+                    "quantity": {
+                        "value": "96",
+                        "unit": "元",
+                        "entity": "兒童餐"
+                    },
+                    "verb": null,
+                    "subject": null,
+                    "object": null
+                }
+            ],
+            "s3": [
+                {
+                    "qtyid": "E5",
+                    "quantity": {
+                        "value": "2",
+                        "unit": "份",
+                        "entity": "兒童餐"
+                    },
+                    "verb": "買",
+                    "subject": "媽媽",
+                    "object": null
+                }
+            ],
+            "s4": [
+                {
+                    "qtyid": "E6",
+                    "quantity": {
+                        "value": "1000",
+                        "unit": "元",
+                        "entity": ""
+                    },
+                    "verb": "付",
+                    "subject": "媽媽",
+                    "object": null
+                }
+            ],
+            "s5": [
+                {
+                    "qtyid": "E7",
+                    "quantity": {
+                        "value": "幾",
+                        "unit": "元",
+                        "entity": "兒童餐"
+                    },
+                    "verb": "找回",
+                    "subject": "媽媽",
+                    "object": null
+                }
+            ]
+        },
+        "unitmaps": {
+            "s1": [
+                {
+                    "denominator": "E1",
+                    "numerator": "E2"
+                }
+            ],
+            "s2": [
+                {
+                    "denominator": "E3",
+                    "numerator": "E4"
+                }
+            ]
+        },
+        "answer": "590元",
+        "stype": [
+            "每單位量",
+            "每單位量",
+            "量變",
+            "量變",
+            "問找回"
+        ]
+    }
+]
